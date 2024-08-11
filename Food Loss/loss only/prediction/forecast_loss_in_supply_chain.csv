@@ -1,0 +1,2471 @@
+year,forecast_loss_percentage,country,Continent,activity,Stage,commodity
+2023,4.40333,Angola,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2024,4.40333,Angola,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2025,4.40333,Angola,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2026,4.40333,Angola,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2027,4.40333,Angola,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2028,4.40333,Angola,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2029,4.40333,Angola,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2030,4.40333,Angola,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2031,4.40333,Angola,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2032,4.40333,Angola,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2023,4.40333,Angola,Africa,Harvesting,Agricultural Production,Rice
+2024,4.40333,Angola,Africa,Harvesting,Agricultural Production,Rice
+2025,4.40333,Angola,Africa,Harvesting,Agricultural Production,Rice
+2026,4.40333,Angola,Africa,Harvesting,Agricultural Production,Rice
+2027,4.40333,Angola,Africa,Harvesting,Agricultural Production,Rice
+2028,4.40333,Angola,Africa,Harvesting,Agricultural Production,Rice
+2029,4.40333,Angola,Africa,Harvesting,Agricultural Production,Rice
+2030,4.40333,Angola,Africa,Harvesting,Agricultural Production,Rice
+2031,4.40333,Angola,Africa,Harvesting,Agricultural Production,Rice
+2032,4.40333,Angola,Africa,Harvesting,Agricultural Production,Rice
+2023,2.948227019027445,Angola,Africa,Shelling,Agricultural Production,Rice
+2024,2.947801002362315,Angola,Africa,Shelling,Agricultural Production,Rice
+2025,2.947749192146847,Angola,Africa,Shelling,Agricultural Production,Rice
+2026,2.947742891223323,Angola,Africa,Shelling,Agricultural Production,Rice
+2027,2.947742124933569,Angola,Africa,Shelling,Agricultural Production,Rice
+2028,2.947742031740883,Angola,Africa,Shelling,Agricultural Production,Rice
+2029,2.9477420204072113,Angola,Africa,Shelling,Agricultural Production,Rice
+2030,2.9477420190288615,Angola,Africa,Shelling,Agricultural Production,Rice
+2031,2.947742018861233,Angola,Africa,Shelling,Agricultural Production,Rice
+2032,2.9477420188408465,Angola,Africa,Shelling,Agricultural Production,Rice
+2023,1.17610544516323,Angola,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2024,0.8838773583044992,Angola,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2025,1.047455943609414,Angola,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2026,0.9558906397469806,Angola,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2027,1.0071455448789168,Angola,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2028,0.9784549252963001,Angola,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2029,0.9945148838488629,Angola,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2030,0.985525106964912,Angola,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2031,0.9905572549719391,Angola,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2032,0.9877404427316004,Angola,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2023,2.948227019027445,Angola,Africa,Threshing,Agricultural Production,Rice
+2024,2.947801002362315,Angola,Africa,Threshing,Agricultural Production,Rice
+2025,2.947749192146847,Angola,Africa,Threshing,Agricultural Production,Rice
+2026,2.947742891223323,Angola,Africa,Threshing,Agricultural Production,Rice
+2027,2.947742124933569,Angola,Africa,Threshing,Agricultural Production,Rice
+2028,2.947742031740883,Angola,Africa,Threshing,Agricultural Production,Rice
+2029,2.9477420204072113,Angola,Africa,Threshing,Agricultural Production,Rice
+2030,2.9477420190288615,Angola,Africa,Threshing,Agricultural Production,Rice
+2031,2.947742018861233,Angola,Africa,Threshing,Agricultural Production,Rice
+2032,2.9477420188408465,Angola,Africa,Threshing,Agricultural Production,Rice
+2023,1.05010809094456,Angola,Africa,Transportation,Distribution,Rice
+2024,1.1645792591066038,Angola,Africa,Transportation,Distribution,Rice
+2025,1.0990255886138747,Angola,Africa,Transportation,Distribution,Rice
+2026,1.136565903647492,Angola,Africa,Transportation,Distribution,Rice
+2027,1.1150678663563605,Angola,Africa,Transportation,Distribution,Rice
+2028,1.1273790472017267,Angola,Africa,Transportation,Distribution,Rice
+2029,1.1203288606309818,Angola,Africa,Transportation,Distribution,Rice
+2030,1.1243662581240925,Angola,Africa,Transportation,Distribution,Rice
+2031,1.1220541805139743,Angola,Africa,Transportation,Distribution,Rice
+2032,1.1233782272258306,Angola,Africa,Transportation,Distribution,Rice
+2023,2.5,Angola,Africa,Winnowing,Agricultural Production,Rice
+2024,2.5,Angola,Africa,Winnowing,Agricultural Production,Rice
+2025,2.5,Angola,Africa,Winnowing,Agricultural Production,Rice
+2026,2.5,Angola,Africa,Winnowing,Agricultural Production,Rice
+2027,2.5,Angola,Africa,Winnowing,Agricultural Production,Rice
+2028,2.5,Angola,Africa,Winnowing,Agricultural Production,Rice
+2029,2.5,Angola,Africa,Winnowing,Agricultural Production,Rice
+2030,2.5,Angola,Africa,Winnowing,Agricultural Production,Rice
+2031,2.5,Angola,Africa,Winnowing,Agricultural Production,Rice
+2032,2.5,Angola,Africa,Winnowing,Agricultural Production,Rice
+2023,6.765889364927851,Bangladesh,Asia,Cleaning,Agricultural Production,Rice
+2024,6.770604010078149,Bangladesh,Asia,Cleaning,Agricultural Production,Rice
+2025,6.770684578167097,Bangladesh,Asia,Cleaning,Agricultural Production,Rice
+2026,6.770685954986932,Bangladesh,Asia,Cleaning,Agricultural Production,Rice
+2027,6.770685978515265,Bangladesh,Asia,Cleaning,Agricultural Production,Rice
+2028,6.770685978917338,Bangladesh,Asia,Cleaning,Agricultural Production,Rice
+2029,6.770685978924209,Bangladesh,Asia,Cleaning,Agricultural Production,Rice
+2030,6.770685978924326,Bangladesh,Asia,Cleaning,Agricultural Production,Rice
+2031,6.770685978924328,Bangladesh,Asia,Cleaning,Agricultural Production,Rice
+2032,6.770685978924328,Bangladesh,Asia,Cleaning,Agricultural Production,Rice
+2023,11.402069264198328,Bangladesh,Asia,Collection,Agricultural Production,Rice
+2024,11.446918177849723,Bangladesh,Asia,Collection,Agricultural Production,Rice
+2025,11.444298898581508,Bangladesh,Asia,Collection,Agricultural Production,Rice
+2026,11.444451870489328,Bangladesh,Asia,Collection,Agricultural Production,Rice
+2027,11.444442936579582,Bangladesh,Asia,Collection,Agricultural Production,Rice
+2028,11.444443458340372,Bangladesh,Asia,Collection,Agricultural Production,Rice
+2029,11.444443427868347,Bangladesh,Asia,Collection,Agricultural Production,Rice
+2030,11.444443429647983,Bangladesh,Asia,Collection,Agricultural Production,Rice
+2031,11.444443429544048,Bangladesh,Asia,Collection,Agricultural Production,Rice
+2032,11.444443429550118,Bangladesh,Asia,Collection,Agricultural Production,Rice
+2023,11.402069264198328,Bangladesh,Asia,Distribution,Distribution,Rice
+2024,11.446918177849723,Bangladesh,Asia,Distribution,Distribution,Rice
+2025,11.444298898581508,Bangladesh,Asia,Distribution,Distribution,Rice
+2026,11.444451870489328,Bangladesh,Asia,Distribution,Distribution,Rice
+2027,11.444442936579582,Bangladesh,Asia,Distribution,Distribution,Rice
+2028,11.444443458340372,Bangladesh,Asia,Distribution,Distribution,Rice
+2029,11.444443427868347,Bangladesh,Asia,Distribution,Distribution,Rice
+2030,11.444443429647983,Bangladesh,Asia,Distribution,Distribution,Rice
+2031,11.444443429544048,Bangladesh,Asia,Distribution,Distribution,Rice
+2032,11.444443429550118,Bangladesh,Asia,Distribution,Distribution,Rice
+2023,7.300450257050805,Bangladesh,Asia,Drying,Post-Harvest Handling and Storage,Rice
+2024,7.230194822676278,Bangladesh,Asia,Drying,Post-Harvest Handling and Storage,Rice
+2025,7.228763961715585,Bangladesh,Asia,Drying,Post-Harvest Handling and Storage,Rice
+2026,7.228734820011359,Bangladesh,Asia,Drying,Post-Harvest Handling and Storage,Rice
+2027,7.228734226495323,Bangladesh,Asia,Drying,Post-Harvest Handling and Storage,Rice
+2028,7.228734214407448,Bangladesh,Asia,Drying,Post-Harvest Handling and Storage,Rice
+2029,7.22873421416126,Bangladesh,Asia,Drying,Post-Harvest Handling and Storage,Rice
+2030,7.228734214156246,Bangladesh,Asia,Drying,Post-Harvest Handling and Storage,Rice
+2031,7.228734214156144,Bangladesh,Asia,Drying,Post-Harvest Handling and Storage,Rice
+2032,7.228734214156142,Bangladesh,Asia,Drying,Post-Harvest Handling and Storage,Rice
+2023,9.159998137227417,Bangladesh,Asia,Farm,Agricultural Production,Rice
+2024,9.159998137226737,Bangladesh,Asia,Farm,Agricultural Production,Rice
+2025,9.159998137226737,Bangladesh,Asia,Farm,Agricultural Production,Rice
+2026,9.159998137226737,Bangladesh,Asia,Farm,Agricultural Production,Rice
+2027,9.159998137226737,Bangladesh,Asia,Farm,Agricultural Production,Rice
+2028,9.159998137226737,Bangladesh,Asia,Farm,Agricultural Production,Rice
+2029,9.159998137226737,Bangladesh,Asia,Farm,Agricultural Production,Rice
+2030,9.159998137226737,Bangladesh,Asia,Farm,Agricultural Production,Rice
+2031,9.159998137226737,Bangladesh,Asia,Farm,Agricultural Production,Rice
+2032,9.159998137226737,Bangladesh,Asia,Farm,Agricultural Production,Rice
+2023,11.32683205907518,Bangladesh,Asia,Field,Agricultural Production,Rice
+2024,11.440842722445325,Bangladesh,Asia,Field,Agricultural Production,Rice
+2025,11.443524563120569,Bangladesh,Asia,Field,Agricultural Production,Rice
+2026,11.4435876473023,Bangladesh,Asia,Field,Agricultural Production,Rice
+2027,11.443589131213713,Bangladesh,Asia,Field,Agricultural Production,Rice
+2028,11.443589166119343,Bangladesh,Asia,Field,Agricultural Production,Rice
+2029,11.443589166940418,Bangladesh,Asia,Field,Agricultural Production,Rice
+2030,11.443589166959732,Bangladesh,Asia,Field,Agricultural Production,Rice
+2031,11.443589166960187,Bangladesh,Asia,Field,Agricultural Production,Rice
+2032,11.443589166960198,Bangladesh,Asia,Field,Agricultural Production,Rice
+2023,18.534095719121858,Bangladesh,Asia,Harvesting,Agricultural Production,Rice
+2024,16.286612534315513,Bangladesh,Asia,Harvesting,Agricultural Production,Rice
+2025,17.026810338375224,Bangladesh,Asia,Harvesting,Agricultural Production,Rice
+2026,16.783029742890132,Bangladesh,Asia,Harvesting,Agricultural Production,Rice
+2027,16.863317712415466,Bangladesh,Asia,Harvesting,Agricultural Production,Rice
+2028,16.83687525485368,Bangladesh,Asia,Harvesting,Agricultural Production,Rice
+2029,16.845583951387425,Bangladesh,Asia,Harvesting,Agricultural Production,Rice
+2030,16.84271578396616,Bangladesh,Asia,Harvesting,Agricultural Production,Rice
+2031,16.84366040114561,Bangladesh,Asia,Harvesting,Agricultural Production,Rice
+2032,16.843349296009592,Bangladesh,Asia,Harvesting,Agricultural Production,Rice
+2023,13.900000000000043,Bangladesh,Asia,Packaging,Processing and Packaging,Rice
+2024,13.900000000000043,Bangladesh,Asia,Packaging,Processing and Packaging,Rice
+2025,13.900000000000043,Bangladesh,Asia,Packaging,Processing and Packaging,Rice
+2026,13.900000000000043,Bangladesh,Asia,Packaging,Processing and Packaging,Rice
+2027,13.900000000000043,Bangladesh,Asia,Packaging,Processing and Packaging,Rice
+2028,13.900000000000043,Bangladesh,Asia,Packaging,Processing and Packaging,Rice
+2029,13.900000000000043,Bangladesh,Asia,Packaging,Processing and Packaging,Rice
+2030,13.900000000000043,Bangladesh,Asia,Packaging,Processing and Packaging,Rice
+2031,13.900000000000043,Bangladesh,Asia,Packaging,Processing and Packaging,Rice
+2032,13.900000000000043,Bangladesh,Asia,Packaging,Processing and Packaging,Rice
+2023,0.03414235187794192,Bangladesh,Asia,Parboiling,Agricultural Production,Rice
+2024,0.030189421254366588,Bangladesh,Asia,Parboiling,Agricultural Production,Rice
+2025,0.03129430541010389,Bangladesh,Asia,Parboiling,Agricultural Production,Rice
+2026,0.030985479095187396,Bangladesh,Asia,Parboiling,Agricultural Production,Rice
+2027,0.031071799178871876,Bangladesh,Asia,Parboiling,Agricultural Production,Rice
+2028,0.03104767184098841,Bangladesh,Asia,Parboiling,Agricultural Production,Rice
+2029,0.031054415676356674,Bangladesh,Asia,Parboiling,Agricultural Production,Rice
+2030,0.03105253070605063,Bangladesh,Asia,Parboiling,Agricultural Production,Rice
+2031,0.031053057574347474,Bangladesh,Asia,Parboiling,Agricultural Production,Rice
+2032,0.031052910309320895,Bangladesh,Asia,Parboiling,Agricultural Production,Rice
+2023,1.1508374507161918,Bangladesh,Asia,Processing,Processing and Packaging,Rice
+2024,1.189157685299678,Bangladesh,Asia,Processing,Processing and Packaging,Rice
+2025,1.1934660157822814,Bangladesh,Asia,Processing,Processing and Packaging,Rice
+2026,1.1939503998615826,Bangladesh,Asia,Processing,Processing and Packaging,Rice
+2027,1.1940048589930787,Bangladesh,Asia,Processing,Processing and Packaging,Rice
+2028,1.1940109818140592,Bangladesh,Asia,Processing,Processing and Packaging,Rice
+2029,1.1940116702006662,Bangladesh,Asia,Processing,Processing and Packaging,Rice
+2030,1.1940117475957301,Bangladesh,Asia,Processing,Processing and Packaging,Rice
+2031,1.1940117562972299,Bangladesh,Asia,Processing,Processing and Packaging,Rice
+2032,1.1940117572755364,Bangladesh,Asia,Processing,Processing and Packaging,Rice
+2023,11.806320505954195,Bangladesh,Asia,Retailing,Distribution,Rice
+2024,11.785572074024458,Bangladesh,Asia,Retailing,Distribution,Rice
+2025,11.790041500584028,Bangladesh,Asia,Retailing,Distribution,Rice
+2026,11.789078739935944,Bangladesh,Asia,Retailing,Distribution,Rice
+2027,11.789286128524422,Bangladesh,Asia,Retailing,Distribution,Rice
+2028,11.789241454880234,Bangladesh,Asia,Retailing,Distribution,Rice
+2029,11.78925107804465,Bangladesh,Asia,Retailing,Distribution,Rice
+2030,11.789249005115632,Bangladesh,Asia,Retailing,Distribution,Rice
+2031,11.789249451645956,Bangladesh,Asia,Retailing,Distribution,Rice
+2032,11.789249355458711,Bangladesh,Asia,Retailing,Distribution,Rice
+2023,11.313190969566971,Bangladesh,Asia,Shelling,Agricultural Production,Rice
+2024,11.275603466501256,Bangladesh,Asia,Shelling,Agricultural Production,Rice
+2025,11.27806830014611,Bangladesh,Asia,Shelling,Agricultural Production,Rice
+2026,11.277906666507233,Bangladesh,Asia,Shelling,Agricultural Production,Rice
+2027,11.277917265775574,Bangladesh,Asia,Shelling,Agricultural Production,Rice
+2028,11.27791657071921,Bangladesh,Asia,Shelling,Agricultural Production,Rice
+2029,11.277916616298144,Bangladesh,Asia,Shelling,Agricultural Production,Rice
+2030,11.277916613309266,Bangladesh,Asia,Shelling,Agricultural Production,Rice
+2031,11.277916613505264,Bangladesh,Asia,Shelling,Agricultural Production,Rice
+2032,11.277916613492412,Bangladesh,Asia,Shelling,Agricultural Production,Rice
+2023,9.775907622817105,Bangladesh,Asia,Storage,Post-Harvest Handling and Storage,Rice
+2024,7.940712686756016,Bangladesh,Asia,Storage,Post-Harvest Handling and Storage,Rice
+2025,7.312844966268877,Bangladesh,Asia,Storage,Post-Harvest Handling and Storage,Rice
+2026,7.098035156867466,Bangladesh,Asia,Storage,Post-Harvest Handling and Storage,Rice
+2027,7.024543157343634,Bangladesh,Asia,Storage,Post-Harvest Handling and Storage,Rice
+2028,6.999399640811211,Bangladesh,Asia,Storage,Post-Harvest Handling and Storage,Rice
+2029,6.9907973925704185,Bangladesh,Asia,Storage,Post-Harvest Handling and Storage,Rice
+2030,6.9878543406428655,Bangladesh,Asia,Storage,Post-Harvest Handling and Storage,Rice
+2031,6.986847446351301,Bangladesh,Asia,Storage,Post-Harvest Handling and Storage,Rice
+2032,6.986502961734875,Bangladesh,Asia,Storage,Post-Harvest Handling and Storage,Rice
+2023,0.9243030105078268,Bangladesh,Asia,Storage,Post-Harvest Handling and Storage,"Rice, milled"
+2024,0.9712731432676123,Bangladesh,Asia,Storage,Post-Harvest Handling and Storage,"Rice, milled"
+2025,0.9763529914797906,Bangladesh,Asia,Storage,Post-Harvest Handling and Storage,"Rice, milled"
+2026,0.9769023801304624,Bangladesh,Asia,Storage,Post-Harvest Handling and Storage,"Rice, milled"
+2027,0.976961796844679,Bangladesh,Asia,Storage,Post-Harvest Handling and Storage,"Rice, milled"
+2028,0.9769682227981893,Bangladesh,Asia,Storage,Post-Harvest Handling and Storage,"Rice, milled"
+2029,0.9769689177689406,Bangladesh,Asia,Storage,Post-Harvest Handling and Storage,"Rice, milled"
+2030,0.9769689929304468,Bangladesh,Asia,Storage,Post-Harvest Handling and Storage,"Rice, milled"
+2031,0.9769690010592091,Bangladesh,Asia,Storage,Post-Harvest Handling and Storage,"Rice, milled"
+2032,0.9769690019383397,Bangladesh,Asia,Storage,Post-Harvest Handling and Storage,"Rice, milled"
+2023,6.599986826242903,Bangladesh,Asia,Threshing,Agricultural Production,Rice
+2024,7.127049695439546,Bangladesh,Asia,Threshing,Agricultural Production,Rice
+2025,7.180938342966559,Bangladesh,Asia,Threshing,Agricultural Production,Rice
+2026,7.186448096170607,Bangladesh,Asia,Threshing,Agricultural Production,Rice
+2027,7.187011431525318,Bangladesh,Asia,Threshing,Agricultural Production,Rice
+2028,7.187069028791496,Bangladesh,Asia,Threshing,Agricultural Production,Rice
+2029,7.187074917726112,Bangladesh,Asia,Threshing,Agricultural Production,Rice
+2030,7.187075519830226,Bangladesh,Asia,Threshing,Agricultural Production,Rice
+2031,7.187075581391338,Bangladesh,Asia,Threshing,Agricultural Production,Rice
+2032,7.187075587685549,Bangladesh,Asia,Threshing,Agricultural Production,Rice
+2023,13.96351298716076,Bangladesh,Asia,Transportation,Distribution,Rice
+2024,13.91713367968908,Bangladesh,Asia,Transportation,Distribution,Rice
+2025,13.95100140120103,Bangladesh,Asia,Transportation,Distribution,Rice
+2026,13.92627005821771,Bangladesh,Asia,Transportation,Distribution,Rice
+2027,13.944329712025327,Bangladesh,Asia,Transportation,Distribution,Rice
+2028,13.931141948794235,Bangladesh,Asia,Transportation,Distribution,Rice
+2029,13.940772094581748,Bangladesh,Asia,Transportation,Distribution,Rice
+2030,13.933739840039134,Bangladesh,Asia,Transportation,Distribution,Rice
+2031,13.938875027505997,Bangladesh,Asia,Transportation,Distribution,Rice
+2032,13.935125141866898,Bangladesh,Asia,Transportation,Distribution,Rice
+2023,0.17695184954054852,Bangladesh,Asia,Wholesale,Distribution,Rice
+2024,0.1952618325563178,Bangladesh,Asia,Wholesale,Distribution,Rice
+2025,0.18071595918450117,Bangladesh,Asia,Wholesale,Distribution,Rice
+2026,0.19227153692407095,Bangladesh,Asia,Wholesale,Distribution,Rice
+2027,0.18309151909482432,Bangladesh,Asia,Wholesale,Distribution,Rice
+2028,0.1903843372683987,Bangladesh,Asia,Wholesale,Distribution,Rice
+2029,0.18459075408565434,Bangladesh,Asia,Wholesale,Distribution,Rice
+2030,0.18919331036725803,Bangladesh,Asia,Wholesale,Distribution,Rice
+2031,0.1855369333623636,Bangladesh,Asia,Wholesale,Distribution,Rice
+2032,0.18844164369808655,Bangladesh,Asia,Wholesale,Distribution,Rice
+2023,5.960239993910371,Bangladesh,Asia,Winnowing,Agricultural Production,Rice
+2024,6.489524192734426,Bangladesh,Asia,Winnowing,Agricultural Production,Rice
+2025,5.960715373826672,Bangladesh,Asia,Winnowing,Agricultural Production,Rice
+2026,6.489049239783573,Bangladesh,Asia,Winnowing,Agricultural Production,Rice
+2027,5.961189900195559,Bangladesh,Asia,Winnowing,Agricultural Production,Rice
+2028,6.4885751396135145,Bangladesh,Asia,Winnowing,Agricultural Production,Rice
+2029,5.961663574549583,Bangladesh,Asia,Winnowing,Agricultural Production,Rice
+2030,6.488101890693077,Bangladesh,Asia,Winnowing,Agricultural Production,Rice
+2031,5.962136398418539,Bangladesh,Asia,Winnowing,Agricultural Production,Rice
+2032,6.487629491493838,Bangladesh,Asia,Winnowing,Agricultural Production,Rice
+2023,1.5521960691193852,Benin,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2024,1.3851756533637412,Benin,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2025,1.52313985514413,Benin,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2026,1.4091770148123988,Benin,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2027,1.5033139634474453,Benin,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2028,1.425553835036097,Benin,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2029,1.4897861865008888,Benin,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2030,1.4367282111735946,Benin,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2031,1.4805557946519117,Benin,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2032,1.4443528098659333,Benin,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2023,4.224595345376627,Benin,Africa,Harvesting,Agricultural Production,Rice
+2024,2.8000548822438063,Benin,Africa,Harvesting,Agricultural Production,Rice
+2025,4.224540465247146,Benin,Africa,Harvesting,Agricultural Production,Rice
+2026,2.8001097602590406,Benin,Africa,Harvesting,Agricultural Production,Rice
+2027,4.2244855893460755,Benin,Africa,Harvesting,Agricultural Production,Rice
+2028,2.8001646340460287,Benin,Africa,Harvesting,Agricultural Production,Rice
+2029,4.22443071767309,Benin,Africa,Harvesting,Agricultural Production,Rice
+2030,2.800219503605095,Benin,Africa,Harvesting,Agricultural Production,Rice
+2031,4.224375850227862,Benin,Africa,Harvesting,Agricultural Production,Rice
+2032,2.8002743689365657,Benin,Africa,Harvesting,Agricultural Production,Rice
+2023,3.13714,Benin,Africa,Shelling,Agricultural Production,Rice
+2024,3.13714,Benin,Africa,Shelling,Agricultural Production,Rice
+2025,3.13714,Benin,Africa,Shelling,Agricultural Production,Rice
+2026,3.13714,Benin,Africa,Shelling,Agricultural Production,Rice
+2027,3.13714,Benin,Africa,Shelling,Agricultural Production,Rice
+2028,3.13714,Benin,Africa,Shelling,Agricultural Production,Rice
+2029,3.13714,Benin,Africa,Shelling,Agricultural Production,Rice
+2030,3.13714,Benin,Africa,Shelling,Agricultural Production,Rice
+2031,3.13714,Benin,Africa,Shelling,Agricultural Production,Rice
+2032,3.13714,Benin,Africa,Shelling,Agricultural Production,Rice
+2023,3.4200000000003037,Benin,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2024,3.4200000000003037,Benin,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2025,3.4200000000003037,Benin,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2026,3.4200000000003037,Benin,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2027,3.4200000000003037,Benin,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2028,3.4200000000003037,Benin,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2029,3.4200000000003037,Benin,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2030,3.4200000000003037,Benin,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2031,3.4200000000003037,Benin,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2032,3.4200000000003037,Benin,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2023,4.699999999997408,Benin,Africa,Threshing,Agricultural Production,Rice
+2024,4.699999999997408,Benin,Africa,Threshing,Agricultural Production,Rice
+2025,4.699999999997408,Benin,Africa,Threshing,Agricultural Production,Rice
+2026,4.699999999997408,Benin,Africa,Threshing,Agricultural Production,Rice
+2027,4.699999999997408,Benin,Africa,Threshing,Agricultural Production,Rice
+2028,4.699999999997408,Benin,Africa,Threshing,Agricultural Production,Rice
+2029,4.699999999997408,Benin,Africa,Threshing,Agricultural Production,Rice
+2030,4.699999999997408,Benin,Africa,Threshing,Agricultural Production,Rice
+2031,4.699999999997408,Benin,Africa,Threshing,Agricultural Production,Rice
+2032,4.699999999997408,Benin,Africa,Threshing,Agricultural Production,Rice
+2023,1.224818768304353,Benin,Africa,Transportation,Distribution,Rice
+2024,1.0532420753798724,Benin,Africa,Transportation,Distribution,Rice
+2025,1.1841855983647882,Benin,Africa,Transportation,Distribution,Rice
+2026,1.084252408608951,Benin,Africa,Transportation,Distribution,Rice
+2027,1.1605192004832356,Benin,Africa,Transportation,Distribution,Rice
+2028,1.102314078070882,Benin,Africa,Transportation,Distribution,Rice
+2029,1.1467349353244747,Benin,Africa,Transportation,Distribution,Rice
+2030,1.1128339232251467,Benin,Africa,Transportation,Distribution,Rice
+2031,1.138706423046519,Benin,Africa,Transportation,Distribution,Rice
+2032,1.118961105560255,Benin,Africa,Transportation,Distribution,Rice
+2023,1.0899999999996364,Benin,Africa,Winnowing,Agricultural Production,Rice
+2024,1.0899999999996364,Benin,Africa,Winnowing,Agricultural Production,Rice
+2025,1.0899999999996364,Benin,Africa,Winnowing,Agricultural Production,Rice
+2026,1.0899999999996364,Benin,Africa,Winnowing,Agricultural Production,Rice
+2027,1.0899999999996364,Benin,Africa,Winnowing,Agricultural Production,Rice
+2028,1.0899999999996364,Benin,Africa,Winnowing,Agricultural Production,Rice
+2029,1.0899999999996364,Benin,Africa,Winnowing,Agricultural Production,Rice
+2030,1.0899999999996364,Benin,Africa,Winnowing,Agricultural Production,Rice
+2031,1.0899999999996364,Benin,Africa,Winnowing,Agricultural Production,Rice
+2032,1.0899999999996364,Benin,Africa,Winnowing,Agricultural Production,Rice
+2023,4.40333,Burkina Faso,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2024,4.40333,Burkina Faso,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2025,4.40333,Burkina Faso,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2026,4.40333,Burkina Faso,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2027,4.40333,Burkina Faso,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2028,4.40333,Burkina Faso,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2029,4.40333,Burkina Faso,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2030,4.40333,Burkina Faso,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2031,4.40333,Burkina Faso,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2032,4.40333,Burkina Faso,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2023,4.40333,Burkina Faso,Africa,Harvesting,Agricultural Production,Rice
+2024,4.40333,Burkina Faso,Africa,Harvesting,Agricultural Production,Rice
+2025,4.40333,Burkina Faso,Africa,Harvesting,Agricultural Production,Rice
+2026,4.40333,Burkina Faso,Africa,Harvesting,Agricultural Production,Rice
+2027,4.40333,Burkina Faso,Africa,Harvesting,Agricultural Production,Rice
+2028,4.40333,Burkina Faso,Africa,Harvesting,Agricultural Production,Rice
+2029,4.40333,Burkina Faso,Africa,Harvesting,Agricultural Production,Rice
+2030,4.40333,Burkina Faso,Africa,Harvesting,Agricultural Production,Rice
+2031,4.40333,Burkina Faso,Africa,Harvesting,Agricultural Production,Rice
+2032,4.40333,Burkina Faso,Africa,Harvesting,Agricultural Production,Rice
+2023,3.13714,Burkina Faso,Africa,Shelling,Agricultural Production,Rice
+2024,3.13714,Burkina Faso,Africa,Shelling,Agricultural Production,Rice
+2025,3.13714,Burkina Faso,Africa,Shelling,Agricultural Production,Rice
+2026,3.13714,Burkina Faso,Africa,Shelling,Agricultural Production,Rice
+2027,3.13714,Burkina Faso,Africa,Shelling,Agricultural Production,Rice
+2028,3.13714,Burkina Faso,Africa,Shelling,Agricultural Production,Rice
+2029,3.13714,Burkina Faso,Africa,Shelling,Agricultural Production,Rice
+2030,3.13714,Burkina Faso,Africa,Shelling,Agricultural Production,Rice
+2031,3.13714,Burkina Faso,Africa,Shelling,Agricultural Production,Rice
+2032,3.13714,Burkina Faso,Africa,Shelling,Agricultural Production,Rice
+2023,1.9483458209613476,Burkina Faso,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2024,1.1984015884929538,Burkina Faso,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2025,1.526582490351215,Burkina Faso,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2026,1.3829682058730146,Burkina Faso,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2027,1.445814832807733,Burkina Faso,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2028,1.4183127042317194,Burkina Faso,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2029,1.4303478302695456,Burkina Faso,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2030,1.4250811739688878,Burkina Faso,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2031,1.4273859000267686,Burkina Faso,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2032,1.4263773355982883,Burkina Faso,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2023,3.13714,Burkina Faso,Africa,Threshing,Agricultural Production,Rice
+2024,3.13714,Burkina Faso,Africa,Threshing,Agricultural Production,Rice
+2025,3.13714,Burkina Faso,Africa,Threshing,Agricultural Production,Rice
+2026,3.13714,Burkina Faso,Africa,Threshing,Agricultural Production,Rice
+2027,3.13714,Burkina Faso,Africa,Threshing,Agricultural Production,Rice
+2028,3.13714,Burkina Faso,Africa,Threshing,Agricultural Production,Rice
+2029,3.13714,Burkina Faso,Africa,Threshing,Agricultural Production,Rice
+2030,3.13714,Burkina Faso,Africa,Threshing,Agricultural Production,Rice
+2031,3.13714,Burkina Faso,Africa,Threshing,Agricultural Production,Rice
+2032,3.13714,Burkina Faso,Africa,Threshing,Agricultural Production,Rice
+2023,1.0714072678494442,Burkina Faso,Africa,Transportation,Distribution,Rice
+2024,1.1479711268083035,Burkina Faso,Africa,Transportation,Distribution,Rice
+2025,1.1151477054513226,Burkina Faso,Africa,Transportation,Distribution,Rice
+2026,1.1292193184058998,Burkina Faso,Africa,Transportation,Distribution,Rice
+2027,1.123186726952684,Burkina Faso,Africa,Transportation,Distribution,Rice
+2028,1.1257729379122154,Burkina Faso,Africa,Transportation,Distribution,Rice
+2029,1.1246642125527955,Burkina Faso,Africa,Transportation,Distribution,Rice
+2030,1.125139530282809,Burkina Faso,Africa,Transportation,Distribution,Rice
+2031,1.1249357584987998,Burkina Faso,Africa,Transportation,Distribution,Rice
+2032,1.1250231167800848,Burkina Faso,Africa,Transportation,Distribution,Rice
+2023,2.5,Burkina Faso,Africa,Winnowing,Agricultural Production,Rice
+2024,2.5,Burkina Faso,Africa,Winnowing,Agricultural Production,Rice
+2025,2.5,Burkina Faso,Africa,Winnowing,Agricultural Production,Rice
+2026,2.5,Burkina Faso,Africa,Winnowing,Agricultural Production,Rice
+2027,2.5,Burkina Faso,Africa,Winnowing,Agricultural Production,Rice
+2028,2.5,Burkina Faso,Africa,Winnowing,Agricultural Production,Rice
+2029,2.5,Burkina Faso,Africa,Winnowing,Agricultural Production,Rice
+2030,2.5,Burkina Faso,Africa,Winnowing,Agricultural Production,Rice
+2031,2.5,Burkina Faso,Africa,Winnowing,Agricultural Production,Rice
+2032,2.5,Burkina Faso,Africa,Winnowing,Agricultural Production,Rice
+2023,4.40333,Burundi,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2024,4.40333,Burundi,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2025,4.40333,Burundi,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2026,4.40333,Burundi,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2027,4.40333,Burundi,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2028,4.40333,Burundi,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2029,4.40333,Burundi,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2030,4.40333,Burundi,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2031,4.40333,Burundi,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2032,4.40333,Burundi,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2023,4.40333,Burundi,Africa,Harvesting,Agricultural Production,Rice
+2024,4.40333,Burundi,Africa,Harvesting,Agricultural Production,Rice
+2025,4.40333,Burundi,Africa,Harvesting,Agricultural Production,Rice
+2026,4.40333,Burundi,Africa,Harvesting,Agricultural Production,Rice
+2027,4.40333,Burundi,Africa,Harvesting,Agricultural Production,Rice
+2028,4.40333,Burundi,Africa,Harvesting,Agricultural Production,Rice
+2029,4.40333,Burundi,Africa,Harvesting,Agricultural Production,Rice
+2030,4.40333,Burundi,Africa,Harvesting,Agricultural Production,Rice
+2031,4.40333,Burundi,Africa,Harvesting,Agricultural Production,Rice
+2032,4.40333,Burundi,Africa,Harvesting,Agricultural Production,Rice
+2023,3.13714,Burundi,Africa,Shelling,Agricultural Production,Rice
+2024,3.13714,Burundi,Africa,Shelling,Agricultural Production,Rice
+2025,3.13714,Burundi,Africa,Shelling,Agricultural Production,Rice
+2026,3.13714,Burundi,Africa,Shelling,Agricultural Production,Rice
+2027,3.13714,Burundi,Africa,Shelling,Agricultural Production,Rice
+2028,3.13714,Burundi,Africa,Shelling,Agricultural Production,Rice
+2029,3.13714,Burundi,Africa,Shelling,Agricultural Production,Rice
+2030,3.13714,Burundi,Africa,Shelling,Agricultural Production,Rice
+2031,3.13714,Burundi,Africa,Shelling,Agricultural Production,Rice
+2032,3.13714,Burundi,Africa,Shelling,Agricultural Production,Rice
+2023,1.2,Burundi,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2024,1.2,Burundi,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2025,1.2,Burundi,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2026,1.2,Burundi,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2027,1.2,Burundi,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2028,1.2,Burundi,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2029,1.2,Burundi,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2030,1.2,Burundi,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2031,1.2,Burundi,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2032,1.2,Burundi,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2023,3.13714,Burundi,Africa,Threshing,Agricultural Production,Rice
+2024,3.13714,Burundi,Africa,Threshing,Agricultural Production,Rice
+2025,3.13714,Burundi,Africa,Threshing,Agricultural Production,Rice
+2026,3.13714,Burundi,Africa,Threshing,Agricultural Production,Rice
+2027,3.13714,Burundi,Africa,Threshing,Agricultural Production,Rice
+2028,3.13714,Burundi,Africa,Threshing,Agricultural Production,Rice
+2029,3.13714,Burundi,Africa,Threshing,Agricultural Production,Rice
+2030,3.13714,Burundi,Africa,Threshing,Agricultural Production,Rice
+2031,3.13714,Burundi,Africa,Threshing,Agricultural Production,Rice
+2032,3.13714,Burundi,Africa,Threshing,Agricultural Production,Rice
+2023,1.25,Burundi,Africa,Transportation,Distribution,Rice
+2024,1.25,Burundi,Africa,Transportation,Distribution,Rice
+2025,1.25,Burundi,Africa,Transportation,Distribution,Rice
+2026,1.25,Burundi,Africa,Transportation,Distribution,Rice
+2027,1.25,Burundi,Africa,Transportation,Distribution,Rice
+2028,1.25,Burundi,Africa,Transportation,Distribution,Rice
+2029,1.25,Burundi,Africa,Transportation,Distribution,Rice
+2030,1.25,Burundi,Africa,Transportation,Distribution,Rice
+2031,1.25,Burundi,Africa,Transportation,Distribution,Rice
+2032,1.25,Burundi,Africa,Transportation,Distribution,Rice
+2023,2.5,Burundi,Africa,Winnowing,Agricultural Production,Rice
+2024,2.5,Burundi,Africa,Winnowing,Agricultural Production,Rice
+2025,2.5,Burundi,Africa,Winnowing,Agricultural Production,Rice
+2026,2.5,Burundi,Africa,Winnowing,Agricultural Production,Rice
+2027,2.5,Burundi,Africa,Winnowing,Agricultural Production,Rice
+2028,2.5,Burundi,Africa,Winnowing,Agricultural Production,Rice
+2029,2.5,Burundi,Africa,Winnowing,Agricultural Production,Rice
+2030,2.5,Burundi,Africa,Winnowing,Agricultural Production,Rice
+2031,2.5,Burundi,Africa,Winnowing,Agricultural Production,Rice
+2032,2.5,Burundi,Africa,Winnowing,Agricultural Production,Rice
+2023,4.40333,Cameroon,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2024,4.40333,Cameroon,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2025,4.40333,Cameroon,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2026,4.40333,Cameroon,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2027,4.40333,Cameroon,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2028,4.40333,Cameroon,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2029,4.40333,Cameroon,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2030,4.40333,Cameroon,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2031,4.40333,Cameroon,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2032,4.40333,Cameroon,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2023,4.40333,Cameroon,Africa,Harvesting,Agricultural Production,Rice
+2024,4.40333,Cameroon,Africa,Harvesting,Agricultural Production,Rice
+2025,4.40333,Cameroon,Africa,Harvesting,Agricultural Production,Rice
+2026,4.40333,Cameroon,Africa,Harvesting,Agricultural Production,Rice
+2027,4.40333,Cameroon,Africa,Harvesting,Agricultural Production,Rice
+2028,4.40333,Cameroon,Africa,Harvesting,Agricultural Production,Rice
+2029,4.40333,Cameroon,Africa,Harvesting,Agricultural Production,Rice
+2030,4.40333,Cameroon,Africa,Harvesting,Agricultural Production,Rice
+2031,4.40333,Cameroon,Africa,Harvesting,Agricultural Production,Rice
+2032,4.40333,Cameroon,Africa,Harvesting,Agricultural Production,Rice
+2023,3.13714,Cameroon,Africa,Shelling,Agricultural Production,Rice
+2024,3.13714,Cameroon,Africa,Shelling,Agricultural Production,Rice
+2025,3.13714,Cameroon,Africa,Shelling,Agricultural Production,Rice
+2026,3.13714,Cameroon,Africa,Shelling,Agricultural Production,Rice
+2027,3.13714,Cameroon,Africa,Shelling,Agricultural Production,Rice
+2028,3.13714,Cameroon,Africa,Shelling,Agricultural Production,Rice
+2029,3.13714,Cameroon,Africa,Shelling,Agricultural Production,Rice
+2030,3.13714,Cameroon,Africa,Shelling,Agricultural Production,Rice
+2031,3.13714,Cameroon,Africa,Shelling,Agricultural Production,Rice
+2032,3.13714,Cameroon,Africa,Shelling,Agricultural Production,Rice
+2023,0.40426356308281636,Cameroon,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2024,0.40376344165527367,Cameroon,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2025,0.4039700574408017,Cameroon,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2026,0.40388469800511606,Cameroon,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2027,0.4039199626546294,Cameroon,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2028,0.4039053937262466,Cameroon,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2029,0.40391141260569535,Cameroon,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2030,0.4039089260185651,Cameroon,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2031,0.4039099533053897,Cameroon,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2032,0.40390952890111,Cameroon,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2023,3.13714,Cameroon,Africa,Threshing,Agricultural Production,Rice
+2024,3.13714,Cameroon,Africa,Threshing,Agricultural Production,Rice
+2025,3.13714,Cameroon,Africa,Threshing,Agricultural Production,Rice
+2026,3.13714,Cameroon,Africa,Threshing,Agricultural Production,Rice
+2027,3.13714,Cameroon,Africa,Threshing,Agricultural Production,Rice
+2028,3.13714,Cameroon,Africa,Threshing,Agricultural Production,Rice
+2029,3.13714,Cameroon,Africa,Threshing,Agricultural Production,Rice
+2030,3.13714,Cameroon,Africa,Threshing,Agricultural Production,Rice
+2031,3.13714,Cameroon,Africa,Threshing,Agricultural Production,Rice
+2032,3.13714,Cameroon,Africa,Threshing,Agricultural Production,Rice
+2023,1.25,Cameroon,Africa,Transportation,Distribution,Rice
+2024,1.25,Cameroon,Africa,Transportation,Distribution,Rice
+2025,1.25,Cameroon,Africa,Transportation,Distribution,Rice
+2026,1.25,Cameroon,Africa,Transportation,Distribution,Rice
+2027,1.25,Cameroon,Africa,Transportation,Distribution,Rice
+2028,1.25,Cameroon,Africa,Transportation,Distribution,Rice
+2029,1.25,Cameroon,Africa,Transportation,Distribution,Rice
+2030,1.25,Cameroon,Africa,Transportation,Distribution,Rice
+2031,1.25,Cameroon,Africa,Transportation,Distribution,Rice
+2032,1.25,Cameroon,Africa,Transportation,Distribution,Rice
+2023,2.5,Cameroon,Africa,Winnowing,Agricultural Production,Rice
+2024,2.5,Cameroon,Africa,Winnowing,Agricultural Production,Rice
+2025,2.5,Cameroon,Africa,Winnowing,Agricultural Production,Rice
+2026,2.5,Cameroon,Africa,Winnowing,Agricultural Production,Rice
+2027,2.5,Cameroon,Africa,Winnowing,Agricultural Production,Rice
+2028,2.5,Cameroon,Africa,Winnowing,Agricultural Production,Rice
+2029,2.5,Cameroon,Africa,Winnowing,Agricultural Production,Rice
+2030,2.5,Cameroon,Africa,Winnowing,Agricultural Production,Rice
+2031,2.5,Cameroon,Africa,Winnowing,Agricultural Production,Rice
+2032,2.5,Cameroon,Africa,Winnowing,Agricultural Production,Rice
+2023,4.40333,Chad,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2024,4.40333,Chad,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2025,4.40333,Chad,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2026,4.40333,Chad,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2027,4.40333,Chad,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2028,4.40333,Chad,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2029,4.40333,Chad,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2030,4.40333,Chad,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2031,4.40333,Chad,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2032,4.40333,Chad,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2023,4.40333,Chad,Africa,Harvesting,Agricultural Production,Rice
+2024,4.40333,Chad,Africa,Harvesting,Agricultural Production,Rice
+2025,4.40333,Chad,Africa,Harvesting,Agricultural Production,Rice
+2026,4.40333,Chad,Africa,Harvesting,Agricultural Production,Rice
+2027,4.40333,Chad,Africa,Harvesting,Agricultural Production,Rice
+2028,4.40333,Chad,Africa,Harvesting,Agricultural Production,Rice
+2029,4.40333,Chad,Africa,Harvesting,Agricultural Production,Rice
+2030,4.40333,Chad,Africa,Harvesting,Agricultural Production,Rice
+2031,4.40333,Chad,Africa,Harvesting,Agricultural Production,Rice
+2032,4.40333,Chad,Africa,Harvesting,Agricultural Production,Rice
+2023,3.13714,Chad,Africa,Shelling,Agricultural Production,Rice
+2024,3.13714,Chad,Africa,Shelling,Agricultural Production,Rice
+2025,3.13714,Chad,Africa,Shelling,Agricultural Production,Rice
+2026,3.13714,Chad,Africa,Shelling,Agricultural Production,Rice
+2027,3.13714,Chad,Africa,Shelling,Agricultural Production,Rice
+2028,3.13714,Chad,Africa,Shelling,Agricultural Production,Rice
+2029,3.13714,Chad,Africa,Shelling,Agricultural Production,Rice
+2030,3.13714,Chad,Africa,Shelling,Agricultural Production,Rice
+2031,3.13714,Chad,Africa,Shelling,Agricultural Production,Rice
+2032,3.13714,Chad,Africa,Shelling,Agricultural Production,Rice
+2023,0.780543990615862,Chad,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2024,0.7802855172875185,Chad,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2025,0.7804029330402612,Chad,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2026,0.7803495950069698,Chad,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2027,0.78037382468424,Chad,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2028,0.7803628179555627,Chad,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2029,0.7803678179427612,Chad,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2030,0.7803655466164917,Chad,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2031,0.7803665784037378,Chad,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2032,0.7803661096974425,Chad,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2023,3.13714,Chad,Africa,Threshing,Agricultural Production,Rice
+2024,3.13714,Chad,Africa,Threshing,Agricultural Production,Rice
+2025,3.13714,Chad,Africa,Threshing,Agricultural Production,Rice
+2026,3.13714,Chad,Africa,Threshing,Agricultural Production,Rice
+2027,3.13714,Chad,Africa,Threshing,Agricultural Production,Rice
+2028,3.13714,Chad,Africa,Threshing,Agricultural Production,Rice
+2029,3.13714,Chad,Africa,Threshing,Agricultural Production,Rice
+2030,3.13714,Chad,Africa,Threshing,Agricultural Production,Rice
+2031,3.13714,Chad,Africa,Threshing,Agricultural Production,Rice
+2032,3.13714,Chad,Africa,Threshing,Agricultural Production,Rice
+2023,1.25,Chad,Africa,Transportation,Distribution,Rice
+2024,1.25,Chad,Africa,Transportation,Distribution,Rice
+2025,1.25,Chad,Africa,Transportation,Distribution,Rice
+2026,1.25,Chad,Africa,Transportation,Distribution,Rice
+2027,1.25,Chad,Africa,Transportation,Distribution,Rice
+2028,1.25,Chad,Africa,Transportation,Distribution,Rice
+2029,1.25,Chad,Africa,Transportation,Distribution,Rice
+2030,1.25,Chad,Africa,Transportation,Distribution,Rice
+2031,1.25,Chad,Africa,Transportation,Distribution,Rice
+2032,1.25,Chad,Africa,Transportation,Distribution,Rice
+2023,2.5,Chad,Africa,Winnowing,Agricultural Production,Rice
+2024,2.5,Chad,Africa,Winnowing,Agricultural Production,Rice
+2025,2.5,Chad,Africa,Winnowing,Agricultural Production,Rice
+2026,2.5,Chad,Africa,Winnowing,Agricultural Production,Rice
+2027,2.5,Chad,Africa,Winnowing,Agricultural Production,Rice
+2028,2.5,Chad,Africa,Winnowing,Agricultural Production,Rice
+2029,2.5,Chad,Africa,Winnowing,Agricultural Production,Rice
+2030,2.5,Chad,Africa,Winnowing,Agricultural Production,Rice
+2031,2.5,Chad,Africa,Winnowing,Agricultural Production,Rice
+2032,2.5,Chad,Africa,Winnowing,Agricultural Production,Rice
+2023,3.1387429209337028,China,Asia,Harvesting,Agricultural Production,Rice
+2024,3.127596479928758,China,Asia,Harvesting,Agricultural Production,Rice
+2025,3.128642800383904,China,Asia,Harvesting,Agricultural Production,Rice
+2026,3.12854458190373,China,Asia,Harvesting,Agricultural Production,Rice
+2027,3.1285538017080454,China,Asia,Harvesting,Agricultural Production,Rice
+2028,3.1285529362416744,China,Asia,Harvesting,Agricultural Production,Rice
+2029,3.1285530174833163,China,Asia,Harvesting,Agricultural Production,Rice
+2030,3.128553009857134,China,Asia,Harvesting,Agricultural Production,Rice
+2031,3.1285530105730066,China,Asia,Harvesting,Agricultural Production,Rice
+2032,3.1285530105058075,China,Asia,Harvesting,Agricultural Production,Rice
+2023,1.5097219040725132,China,Asia,Storage,Post-Harvest Handling and Storage,Rice
+2024,1.526699344773124,China,Asia,Storage,Post-Harvest Handling and Storage,Rice
+2025,1.527661014537083,China,Asia,Storage,Post-Harvest Handling and Storage,Rice
+2026,1.5277154873372667,China,Asia,Storage,Post-Harvest Handling and Storage,Rice
+2027,1.5277185728933182,China,Asia,Storage,Post-Harvest Handling and Storage,Rice
+2028,1.5277187476714849,China,Asia,Storage,Post-Harvest Handling and Storage,Rice
+2029,1.5277187575716153,China,Asia,Storage,Post-Harvest Handling and Storage,Rice
+2030,1.527718758132398,China,Asia,Storage,Post-Harvest Handling and Storage,Rice
+2031,1.5277187581641631,China,Asia,Storage,Post-Harvest Handling and Storage,Rice
+2032,1.5277187581659624,China,Asia,Storage,Post-Harvest Handling and Storage,Rice
+2023,4.40333,Côte d'Ivoire,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2024,4.40333,Côte d'Ivoire,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2025,4.40333,Côte d'Ivoire,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2026,4.40333,Côte d'Ivoire,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2027,4.40333,Côte d'Ivoire,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2028,4.40333,Côte d'Ivoire,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2029,4.40333,Côte d'Ivoire,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2030,4.40333,Côte d'Ivoire,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2031,4.40333,Côte d'Ivoire,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2032,4.40333,Côte d'Ivoire,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2023,4.40333,Côte d'Ivoire,Africa,Harvesting,Agricultural Production,Rice
+2024,4.40333,Côte d'Ivoire,Africa,Harvesting,Agricultural Production,Rice
+2025,4.40333,Côte d'Ivoire,Africa,Harvesting,Agricultural Production,Rice
+2026,4.40333,Côte d'Ivoire,Africa,Harvesting,Agricultural Production,Rice
+2027,4.40333,Côte d'Ivoire,Africa,Harvesting,Agricultural Production,Rice
+2028,4.40333,Côte d'Ivoire,Africa,Harvesting,Agricultural Production,Rice
+2029,4.40333,Côte d'Ivoire,Africa,Harvesting,Agricultural Production,Rice
+2030,4.40333,Côte d'Ivoire,Africa,Harvesting,Agricultural Production,Rice
+2031,4.40333,Côte d'Ivoire,Africa,Harvesting,Agricultural Production,Rice
+2032,4.40333,Côte d'Ivoire,Africa,Harvesting,Agricultural Production,Rice
+2023,3.13714,Côte d'Ivoire,Africa,Shelling,Agricultural Production,Rice
+2024,3.13714,Côte d'Ivoire,Africa,Shelling,Agricultural Production,Rice
+2025,3.13714,Côte d'Ivoire,Africa,Shelling,Agricultural Production,Rice
+2026,3.13714,Côte d'Ivoire,Africa,Shelling,Agricultural Production,Rice
+2027,3.13714,Côte d'Ivoire,Africa,Shelling,Agricultural Production,Rice
+2028,3.13714,Côte d'Ivoire,Africa,Shelling,Agricultural Production,Rice
+2029,3.13714,Côte d'Ivoire,Africa,Shelling,Agricultural Production,Rice
+2030,3.13714,Côte d'Ivoire,Africa,Shelling,Agricultural Production,Rice
+2031,3.13714,Côte d'Ivoire,Africa,Shelling,Agricultural Production,Rice
+2032,3.13714,Côte d'Ivoire,Africa,Shelling,Agricultural Production,Rice
+2023,1.1979200836517034,Côte d'Ivoire,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2024,1.1979200967883343,Côte d'Ivoire,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2025,1.1979200988513057,Côte d'Ivoire,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2026,1.1979200991752739,Côte d'Ivoire,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2027,1.1979200992261496,Côte d'Ivoire,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2028,1.1979200992341392,Côte d'Ivoire,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2029,1.197920099235394,Côte d'Ivoire,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2030,1.197920099235591,Côte d'Ivoire,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2031,1.1979200992356218,Côte d'Ivoire,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2032,1.1979200992356267,Côte d'Ivoire,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2023,3.13714,Côte d'Ivoire,Africa,Threshing,Agricultural Production,Rice
+2024,3.13714,Côte d'Ivoire,Africa,Threshing,Agricultural Production,Rice
+2025,3.13714,Côte d'Ivoire,Africa,Threshing,Agricultural Production,Rice
+2026,3.13714,Côte d'Ivoire,Africa,Threshing,Agricultural Production,Rice
+2027,3.13714,Côte d'Ivoire,Africa,Threshing,Agricultural Production,Rice
+2028,3.13714,Côte d'Ivoire,Africa,Threshing,Agricultural Production,Rice
+2029,3.13714,Côte d'Ivoire,Africa,Threshing,Agricultural Production,Rice
+2030,3.13714,Côte d'Ivoire,Africa,Threshing,Agricultural Production,Rice
+2031,3.13714,Côte d'Ivoire,Africa,Threshing,Agricultural Production,Rice
+2032,3.13714,Côte d'Ivoire,Africa,Threshing,Agricultural Production,Rice
+2023,1.25,Côte d'Ivoire,Africa,Transportation,Distribution,Rice
+2024,1.25,Côte d'Ivoire,Africa,Transportation,Distribution,Rice
+2025,1.25,Côte d'Ivoire,Africa,Transportation,Distribution,Rice
+2026,1.25,Côte d'Ivoire,Africa,Transportation,Distribution,Rice
+2027,1.25,Côte d'Ivoire,Africa,Transportation,Distribution,Rice
+2028,1.25,Côte d'Ivoire,Africa,Transportation,Distribution,Rice
+2029,1.25,Côte d'Ivoire,Africa,Transportation,Distribution,Rice
+2030,1.25,Côte d'Ivoire,Africa,Transportation,Distribution,Rice
+2031,1.25,Côte d'Ivoire,Africa,Transportation,Distribution,Rice
+2032,1.25,Côte d'Ivoire,Africa,Transportation,Distribution,Rice
+2023,2.5,Côte d'Ivoire,Africa,Winnowing,Agricultural Production,Rice
+2024,2.5,Côte d'Ivoire,Africa,Winnowing,Agricultural Production,Rice
+2025,2.5,Côte d'Ivoire,Africa,Winnowing,Agricultural Production,Rice
+2026,2.5,Côte d'Ivoire,Africa,Winnowing,Agricultural Production,Rice
+2027,2.5,Côte d'Ivoire,Africa,Winnowing,Agricultural Production,Rice
+2028,2.5,Côte d'Ivoire,Africa,Winnowing,Agricultural Production,Rice
+2029,2.5,Côte d'Ivoire,Africa,Winnowing,Agricultural Production,Rice
+2030,2.5,Côte d'Ivoire,Africa,Winnowing,Agricultural Production,Rice
+2031,2.5,Côte d'Ivoire,Africa,Winnowing,Agricultural Production,Rice
+2032,2.5,Côte d'Ivoire,Africa,Winnowing,Agricultural Production,Rice
+2023,4.40333,Democratic Republic of the Congo,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2024,4.40333,Democratic Republic of the Congo,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2025,4.40333,Democratic Republic of the Congo,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2026,4.40333,Democratic Republic of the Congo,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2027,4.40333,Democratic Republic of the Congo,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2028,4.40333,Democratic Republic of the Congo,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2029,4.40333,Democratic Republic of the Congo,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2030,4.40333,Democratic Republic of the Congo,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2031,4.40333,Democratic Republic of the Congo,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2032,4.40333,Democratic Republic of the Congo,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2023,4.40333,Democratic Republic of the Congo,Africa,Harvesting,Agricultural Production,Rice
+2024,4.40333,Democratic Republic of the Congo,Africa,Harvesting,Agricultural Production,Rice
+2025,4.40333,Democratic Republic of the Congo,Africa,Harvesting,Agricultural Production,Rice
+2026,4.40333,Democratic Republic of the Congo,Africa,Harvesting,Agricultural Production,Rice
+2027,4.40333,Democratic Republic of the Congo,Africa,Harvesting,Agricultural Production,Rice
+2028,4.40333,Democratic Republic of the Congo,Africa,Harvesting,Agricultural Production,Rice
+2029,4.40333,Democratic Republic of the Congo,Africa,Harvesting,Agricultural Production,Rice
+2030,4.40333,Democratic Republic of the Congo,Africa,Harvesting,Agricultural Production,Rice
+2031,4.40333,Democratic Republic of the Congo,Africa,Harvesting,Agricultural Production,Rice
+2032,4.40333,Democratic Republic of the Congo,Africa,Harvesting,Agricultural Production,Rice
+2023,3.13714,Democratic Republic of the Congo,Africa,Shelling,Agricultural Production,Rice
+2024,3.13714,Democratic Republic of the Congo,Africa,Shelling,Agricultural Production,Rice
+2025,3.13714,Democratic Republic of the Congo,Africa,Shelling,Agricultural Production,Rice
+2026,3.13714,Democratic Republic of the Congo,Africa,Shelling,Agricultural Production,Rice
+2027,3.13714,Democratic Republic of the Congo,Africa,Shelling,Agricultural Production,Rice
+2028,3.13714,Democratic Republic of the Congo,Africa,Shelling,Agricultural Production,Rice
+2029,3.13714,Democratic Republic of the Congo,Africa,Shelling,Agricultural Production,Rice
+2030,3.13714,Democratic Republic of the Congo,Africa,Shelling,Agricultural Production,Rice
+2031,3.13714,Democratic Republic of the Congo,Africa,Shelling,Agricultural Production,Rice
+2032,3.13714,Democratic Republic of the Congo,Africa,Shelling,Agricultural Production,Rice
+2023,1.4905941638280296,Democratic Republic of the Congo,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2024,2.154596237422509,Democratic Republic of the Congo,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2025,1.7743163216395328,Democratic Republic of the Congo,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2026,1.9921060245617945,Democratic Republic of the Congo,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2027,1.8673759172635789,Democratic Republic of the Congo,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2028,1.9388099633083433,Democratic Republic of the Congo,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2029,1.8978990473726645,Democratic Republic of the Congo,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2030,1.9213290941832197,Democratic Republic of the Congo,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2031,1.9079104971904781,Democratic Republic of the Congo,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2032,1.9155954474899586,Democratic Republic of the Congo,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2023,3.13714,Democratic Republic of the Congo,Africa,Threshing,Agricultural Production,Rice
+2024,3.13714,Democratic Republic of the Congo,Africa,Threshing,Agricultural Production,Rice
+2025,3.13714,Democratic Republic of the Congo,Africa,Threshing,Agricultural Production,Rice
+2026,3.13714,Democratic Republic of the Congo,Africa,Threshing,Agricultural Production,Rice
+2027,3.13714,Democratic Republic of the Congo,Africa,Threshing,Agricultural Production,Rice
+2028,3.13714,Democratic Republic of the Congo,Africa,Threshing,Agricultural Production,Rice
+2029,3.13714,Democratic Republic of the Congo,Africa,Threshing,Agricultural Production,Rice
+2030,3.13714,Democratic Republic of the Congo,Africa,Threshing,Agricultural Production,Rice
+2031,3.13714,Democratic Republic of the Congo,Africa,Threshing,Agricultural Production,Rice
+2032,3.13714,Democratic Republic of the Congo,Africa,Threshing,Agricultural Production,Rice
+2023,1.050026638823228,Democratic Republic of the Congo,Africa,Transportation,Distribution,Rice
+2024,1.1646538098726589,Democratic Republic of the Congo,Africa,Transportation,Distribution,Rice
+2025,1.0989481165469335,Democratic Republic of the Congo,Africa,Transportation,Distribution,Rice
+2026,1.1366114218164367,Democratic Republic of the Congo,Africa,Transportation,Distribution,Rice
+2027,1.1150223556027727,Democratic Republic of the Congo,Africa,Transportation,Distribution,Rice
+2028,1.1273974718237956,Democratic Republic of the Congo,Africa,Transportation,Distribution,Rice
+2029,1.1203039041832046,Democratic Republic of the Congo,Africa,Transportation,Distribution,Rice
+2030,1.1243700237228464,Democratic Republic of the Congo,Africa,Transportation,Distribution,Rice
+2031,1.122039274380858,Democratic Republic of the Congo,Africa,Transportation,Distribution,Rice
+2032,1.1233752883475447,Democratic Republic of the Congo,Africa,Transportation,Distribution,Rice
+2023,2.5,Democratic Republic of the Congo,Africa,Winnowing,Agricultural Production,Rice
+2024,2.5,Democratic Republic of the Congo,Africa,Winnowing,Agricultural Production,Rice
+2025,2.5,Democratic Republic of the Congo,Africa,Winnowing,Agricultural Production,Rice
+2026,2.5,Democratic Republic of the Congo,Africa,Winnowing,Agricultural Production,Rice
+2027,2.5,Democratic Republic of the Congo,Africa,Winnowing,Agricultural Production,Rice
+2028,2.5,Democratic Republic of the Congo,Africa,Winnowing,Agricultural Production,Rice
+2029,2.5,Democratic Republic of the Congo,Africa,Winnowing,Agricultural Production,Rice
+2030,2.5,Democratic Republic of the Congo,Africa,Winnowing,Agricultural Production,Rice
+2031,2.5,Democratic Republic of the Congo,Africa,Winnowing,Agricultural Production,Rice
+2032,2.5,Democratic Republic of the Congo,Africa,Winnowing,Agricultural Production,Rice
+2023,4.40333,Ethiopia,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2024,4.40333,Ethiopia,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2025,4.40333,Ethiopia,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2026,4.40333,Ethiopia,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2027,4.40333,Ethiopia,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2028,4.40333,Ethiopia,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2029,4.40333,Ethiopia,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2030,4.40333,Ethiopia,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2031,4.40333,Ethiopia,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2032,4.40333,Ethiopia,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2023,4.40333,Ethiopia,Africa,Harvesting,Agricultural Production,Rice
+2024,4.40333,Ethiopia,Africa,Harvesting,Agricultural Production,Rice
+2025,4.40333,Ethiopia,Africa,Harvesting,Agricultural Production,Rice
+2026,4.40333,Ethiopia,Africa,Harvesting,Agricultural Production,Rice
+2027,4.40333,Ethiopia,Africa,Harvesting,Agricultural Production,Rice
+2028,4.40333,Ethiopia,Africa,Harvesting,Agricultural Production,Rice
+2029,4.40333,Ethiopia,Africa,Harvesting,Agricultural Production,Rice
+2030,4.40333,Ethiopia,Africa,Harvesting,Agricultural Production,Rice
+2031,4.40333,Ethiopia,Africa,Harvesting,Agricultural Production,Rice
+2032,4.40333,Ethiopia,Africa,Harvesting,Agricultural Production,Rice
+2023,3.13714,Ethiopia,Africa,Shelling,Agricultural Production,Rice
+2024,3.13714,Ethiopia,Africa,Shelling,Agricultural Production,Rice
+2025,3.13714,Ethiopia,Africa,Shelling,Agricultural Production,Rice
+2026,3.13714,Ethiopia,Africa,Shelling,Agricultural Production,Rice
+2027,3.13714,Ethiopia,Africa,Shelling,Agricultural Production,Rice
+2028,3.13714,Ethiopia,Africa,Shelling,Agricultural Production,Rice
+2029,3.13714,Ethiopia,Africa,Shelling,Agricultural Production,Rice
+2030,3.13714,Ethiopia,Africa,Shelling,Agricultural Production,Rice
+2031,3.13714,Ethiopia,Africa,Shelling,Agricultural Production,Rice
+2032,3.13714,Ethiopia,Africa,Shelling,Agricultural Production,Rice
+2023,2.3951497422432,Ethiopia,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2024,1.5287776697174702,Ethiopia,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2025,2.0637852863729558,Ethiopia,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2026,1.733403965279665,Ethiopia,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2027,1.9374231491740799,Ethiopia,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2028,1.811435919450552,Ethiopia,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2029,1.889236358362334,Ethiopia,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2030,1.8411925343323219,Ethiopia,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2031,1.870860863453756,Ethiopia,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2032,1.8525398873318744,Ethiopia,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2023,3.13714,Ethiopia,Africa,Threshing,Agricultural Production,Rice
+2024,3.13714,Ethiopia,Africa,Threshing,Agricultural Production,Rice
+2025,3.13714,Ethiopia,Africa,Threshing,Agricultural Production,Rice
+2026,3.13714,Ethiopia,Africa,Threshing,Agricultural Production,Rice
+2027,3.13714,Ethiopia,Africa,Threshing,Agricultural Production,Rice
+2028,3.13714,Ethiopia,Africa,Threshing,Agricultural Production,Rice
+2029,3.13714,Ethiopia,Africa,Threshing,Agricultural Production,Rice
+2030,3.13714,Ethiopia,Africa,Threshing,Agricultural Production,Rice
+2031,3.13714,Ethiopia,Africa,Threshing,Agricultural Production,Rice
+2032,3.13714,Ethiopia,Africa,Threshing,Agricultural Production,Rice
+2023,1.0527545422352005,Ethiopia,Africa,Transportation,Distribution,Rice
+2024,1.1614857571846033,Ethiopia,Africa,Transportation,Distribution,Rice
+2025,1.1015478643765941,Ethiopia,Africa,Transportation,Distribution,Rice
+2026,1.134588523362481,Ethiopia,Africa,Transportation,Distribution,Rice
+2027,1.1163749176603501,Ethiopia,Africa,Transportation,Distribution,Rice
+2028,1.1264151360716839,Ethiopia,Africa,Transportation,Distribution,Rice
+2029,1.1208804831646273,Ethiopia,Africa,Transportation,Distribution,Rice
+2030,1.1239314509371026,Ethiopia,Africa,Transportation,Distribution,Rice
+2031,1.1222496102679589,Ethiopia,Africa,Transportation,Distribution,Rice
+2032,1.123176722006701,Ethiopia,Africa,Transportation,Distribution,Rice
+2023,2.5,Ethiopia,Africa,Winnowing,Agricultural Production,Rice
+2024,2.5,Ethiopia,Africa,Winnowing,Agricultural Production,Rice
+2025,2.5,Ethiopia,Africa,Winnowing,Agricultural Production,Rice
+2026,2.5,Ethiopia,Africa,Winnowing,Agricultural Production,Rice
+2027,2.5,Ethiopia,Africa,Winnowing,Agricultural Production,Rice
+2028,2.5,Ethiopia,Africa,Winnowing,Agricultural Production,Rice
+2029,2.5,Ethiopia,Africa,Winnowing,Agricultural Production,Rice
+2030,2.5,Ethiopia,Africa,Winnowing,Agricultural Production,Rice
+2031,2.5,Ethiopia,Africa,Winnowing,Agricultural Production,Rice
+2032,2.5,Ethiopia,Africa,Winnowing,Agricultural Production,Rice
+2023,4.40333,Gambia,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2024,4.40333,Gambia,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2025,4.40333,Gambia,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2026,4.40333,Gambia,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2027,4.40333,Gambia,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2028,4.40333,Gambia,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2029,4.40333,Gambia,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2030,4.40333,Gambia,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2031,4.40333,Gambia,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2032,4.40333,Gambia,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2023,4.40333,Gambia,Africa,Harvesting,Agricultural Production,Rice
+2024,4.40333,Gambia,Africa,Harvesting,Agricultural Production,Rice
+2025,4.40333,Gambia,Africa,Harvesting,Agricultural Production,Rice
+2026,4.40333,Gambia,Africa,Harvesting,Agricultural Production,Rice
+2027,4.40333,Gambia,Africa,Harvesting,Agricultural Production,Rice
+2028,4.40333,Gambia,Africa,Harvesting,Agricultural Production,Rice
+2029,4.40333,Gambia,Africa,Harvesting,Agricultural Production,Rice
+2030,4.40333,Gambia,Africa,Harvesting,Agricultural Production,Rice
+2031,4.40333,Gambia,Africa,Harvesting,Agricultural Production,Rice
+2032,4.40333,Gambia,Africa,Harvesting,Agricultural Production,Rice
+2023,3.13714,Gambia,Africa,Shelling,Agricultural Production,Rice
+2024,3.13714,Gambia,Africa,Shelling,Agricultural Production,Rice
+2025,3.13714,Gambia,Africa,Shelling,Agricultural Production,Rice
+2026,3.13714,Gambia,Africa,Shelling,Agricultural Production,Rice
+2027,3.13714,Gambia,Africa,Shelling,Agricultural Production,Rice
+2028,3.13714,Gambia,Africa,Shelling,Agricultural Production,Rice
+2029,3.13714,Gambia,Africa,Shelling,Agricultural Production,Rice
+2030,3.13714,Gambia,Africa,Shelling,Agricultural Production,Rice
+2031,3.13714,Gambia,Africa,Shelling,Agricultural Production,Rice
+2032,3.13714,Gambia,Africa,Shelling,Agricultural Production,Rice
+2023,1.2,Gambia,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2024,1.2,Gambia,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2025,1.2,Gambia,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2026,1.2,Gambia,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2027,1.2,Gambia,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2028,1.2,Gambia,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2029,1.2,Gambia,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2030,1.2,Gambia,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2031,1.2,Gambia,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2032,1.2,Gambia,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2023,3.13714,Gambia,Africa,Threshing,Agricultural Production,Rice
+2024,3.13714,Gambia,Africa,Threshing,Agricultural Production,Rice
+2025,3.13714,Gambia,Africa,Threshing,Agricultural Production,Rice
+2026,3.13714,Gambia,Africa,Threshing,Agricultural Production,Rice
+2027,3.13714,Gambia,Africa,Threshing,Agricultural Production,Rice
+2028,3.13714,Gambia,Africa,Threshing,Agricultural Production,Rice
+2029,3.13714,Gambia,Africa,Threshing,Agricultural Production,Rice
+2030,3.13714,Gambia,Africa,Threshing,Agricultural Production,Rice
+2031,3.13714,Gambia,Africa,Threshing,Agricultural Production,Rice
+2032,3.13714,Gambia,Africa,Threshing,Agricultural Production,Rice
+2023,1.25,Gambia,Africa,Transportation,Distribution,Rice
+2024,1.25,Gambia,Africa,Transportation,Distribution,Rice
+2025,1.25,Gambia,Africa,Transportation,Distribution,Rice
+2026,1.25,Gambia,Africa,Transportation,Distribution,Rice
+2027,1.25,Gambia,Africa,Transportation,Distribution,Rice
+2028,1.25,Gambia,Africa,Transportation,Distribution,Rice
+2029,1.25,Gambia,Africa,Transportation,Distribution,Rice
+2030,1.25,Gambia,Africa,Transportation,Distribution,Rice
+2031,1.25,Gambia,Africa,Transportation,Distribution,Rice
+2032,1.25,Gambia,Africa,Transportation,Distribution,Rice
+2023,2.5,Gambia,Africa,Winnowing,Agricultural Production,Rice
+2024,2.5,Gambia,Africa,Winnowing,Agricultural Production,Rice
+2025,2.5,Gambia,Africa,Winnowing,Agricultural Production,Rice
+2026,2.5,Gambia,Africa,Winnowing,Agricultural Production,Rice
+2027,2.5,Gambia,Africa,Winnowing,Agricultural Production,Rice
+2028,2.5,Gambia,Africa,Winnowing,Agricultural Production,Rice
+2029,2.5,Gambia,Africa,Winnowing,Agricultural Production,Rice
+2030,2.5,Gambia,Africa,Winnowing,Agricultural Production,Rice
+2031,2.5,Gambia,Africa,Winnowing,Agricultural Production,Rice
+2032,2.5,Gambia,Africa,Winnowing,Agricultural Production,Rice
+2023,10.252507069052944,Ghana,Africa,Cleaning,Agricultural Production,Rice
+2024,11.417536639364428,Ghana,Africa,Cleaning,Agricultural Production,Rice
+2025,12.509919880881682,Ghana,Africa,Cleaning,Agricultural Production,Rice
+2026,13.534186712176531,Ghana,Africa,Cleaning,Agricultural Production,Rice
+2027,14.494584585210195,Ghana,Africa,Cleaning,Agricultural Production,Rice
+2028,15.395096098759412,Ghana,Africa,Cleaning,Agricultural Production,Rice
+2029,16.23945551354362,Ghana,Africa,Cleaning,Agricultural Production,Rice
+2030,17.03116423753848,Ghana,Africa,Cleaning,Agricultural Production,Rice
+2031,17.77350534569058,Ghana,Africa,Cleaning,Agricultural Production,Rice
+2032,18.469557194244,Ghana,Africa,Cleaning,Agricultural Production,Rice
+2023,10.252507069052944,Ghana,Africa,Collection,Agricultural Production,Rice
+2024,11.417536639364428,Ghana,Africa,Collection,Agricultural Production,Rice
+2025,12.509919880881682,Ghana,Africa,Collection,Agricultural Production,Rice
+2026,13.534186712176531,Ghana,Africa,Collection,Agricultural Production,Rice
+2027,14.494584585210195,Ghana,Africa,Collection,Agricultural Production,Rice
+2028,15.395096098759412,Ghana,Africa,Collection,Agricultural Production,Rice
+2029,16.23945551354362,Ghana,Africa,Collection,Agricultural Production,Rice
+2030,17.03116423753848,Ghana,Africa,Collection,Agricultural Production,Rice
+2031,17.77350534569058,Ghana,Africa,Collection,Agricultural Production,Rice
+2032,18.469557194244,Ghana,Africa,Collection,Agricultural Production,Rice
+2023,10.252507069052944,Ghana,Africa,Distribution,Distribution,Rice
+2024,11.417536639364428,Ghana,Africa,Distribution,Distribution,Rice
+2025,12.509919880881682,Ghana,Africa,Distribution,Distribution,Rice
+2026,13.534186712176531,Ghana,Africa,Distribution,Distribution,Rice
+2027,14.494584585210195,Ghana,Africa,Distribution,Distribution,Rice
+2028,15.395096098759412,Ghana,Africa,Distribution,Distribution,Rice
+2029,16.23945551354362,Ghana,Africa,Distribution,Distribution,Rice
+2030,17.03116423753848,Ghana,Africa,Distribution,Distribution,Rice
+2031,17.77350534569058,Ghana,Africa,Distribution,Distribution,Rice
+2032,18.469557194244,Ghana,Africa,Distribution,Distribution,Rice
+2023,4.509032971059899,Ghana,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2024,4.523823635752279,Ghana,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2025,4.525893244201776,Ghana,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2026,4.526182837619199,Ghana,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2027,4.526223359461596,Ghana,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2028,4.526229029548044,Ghana,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2029,4.526229822944356,Ghana,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2030,4.52622993396166,Ghana,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2031,4.526229949495941,Ghana,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2032,4.526229951669602,Ghana,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2023,3.749810683338149,Ghana,Africa,Farm,Agricultural Production,Rice
+2024,3.7781626179317165,Ghana,Africa,Farm,Agricultural Production,Rice
+2025,3.7765555620262394,Ghana,Africa,Farm,Agricultural Production,Rice
+2026,3.77664665382369,Ghana,Africa,Farm,Agricultural Production,Rice
+2027,3.7766414905213215,Ghana,Africa,Farm,Agricultural Production,Rice
+2028,3.7766417831897297,Ghana,Africa,Farm,Agricultural Production,Rice
+2029,3.7766417666005796,Ghana,Africa,Farm,Agricultural Production,Rice
+2030,3.7766417675408928,Ghana,Africa,Farm,Agricultural Production,Rice
+2031,3.7766417674875936,Ghana,Africa,Farm,Agricultural Production,Rice
+2032,3.7766417674906148,Ghana,Africa,Farm,Agricultural Production,Rice
+2023,7.9668581547867054,Ghana,Africa,Field,Agricultural Production,Rice
+2024,7.705200720749653,Ghana,Africa,Field,Agricultural Production,Rice
+2025,7.851850430270383,Ghana,Africa,Field,Agricultural Production,Rice
+2026,7.769658470459797,Ghana,Africa,Field,Agricultural Production,Rice
+2027,7.815724148186558,Ghana,Africa,Field,Agricultural Production,Rice
+2028,7.789905969993507,Ghana,Africa,Field,Agricultural Production,Rice
+2029,7.80437614297483,Ghana,Africa,Field,Agricultural Production,Rice
+2030,7.796266124345949,Ghana,Africa,Field,Agricultural Production,Rice
+2031,7.800811502085779,Ghana,Africa,Field,Agricultural Production,Rice
+2032,7.798263979109176,Ghana,Africa,Field,Agricultural Production,Rice
+2023,4.716435876663204,Ghana,Africa,Harvesting,Agricultural Production,Rice
+2024,4.699967224101117,Ghana,Africa,Harvesting,Agricultural Production,Rice
+2025,4.700833437536972,Ghana,Africa,Harvesting,Agricultural Production,Rice
+2026,4.700787876692597,Ghana,Africa,Harvesting,Agricultural Production,Rice
+2027,4.700790273088744,Ghana,Africa,Harvesting,Agricultural Production,Rice
+2028,4.700790147043791,Ghana,Africa,Harvesting,Agricultural Production,Rice
+2029,4.700790153673467,Ghana,Africa,Harvesting,Agricultural Production,Rice
+2030,4.700790153324761,Ghana,Africa,Harvesting,Agricultural Production,Rice
+2031,4.700790153343102,Ghana,Africa,Harvesting,Agricultural Production,Rice
+2032,4.700790153342138,Ghana,Africa,Harvesting,Agricultural Production,Rice
+2023,0.1199794593143836,Ghana,Africa,Loading,Post-Harvest Handling and Storage,Rice
+2024,0.1199817609268965,Ghana,Africa,Loading,Post-Harvest Handling and Storage,Rice
+2025,0.11998150302799972,Ghana,Africa,Loading,Post-Harvest Handling and Storage,Rice
+2026,0.11998153192593132,Ghana,Africa,Loading,Post-Harvest Handling and Storage,Rice
+2027,0.11998152868787772,Ghana,Africa,Loading,Post-Harvest Handling and Storage,Rice
+2028,0.11998152905070615,Ghana,Africa,Loading,Post-Harvest Handling and Storage,Rice
+2029,0.11998152901005071,Ghana,Africa,Loading,Post-Harvest Handling and Storage,Rice
+2030,0.11998152901460621,Ghana,Africa,Loading,Post-Harvest Handling and Storage,Rice
+2031,0.11998152901409576,Ghana,Africa,Loading,Post-Harvest Handling and Storage,Rice
+2032,0.11998152901415295,Ghana,Africa,Loading,Post-Harvest Handling and Storage,Rice
+2023,0.5052971863379067,Ghana,Africa,Marketing,Distribution,Rice
+2024,0.5026073429532975,Ghana,Africa,Marketing,Distribution,Rice
+2025,0.5021152427607758,Ghana,Africa,Marketing,Distribution,Rice
+2026,0.5020252142480135,Ghana,Africa,Marketing,Distribution,Rice
+2027,0.5020087437543348,Ghana,Africa,Marketing,Distribution,Rice
+2028,0.5020057305182644,Ghana,Africa,Marketing,Distribution,Rice
+2029,0.5020051792541801,Ghana,Africa,Marketing,Distribution,Rice
+2030,0.5020050784017797,Ghana,Africa,Marketing,Distribution,Rice
+2031,0.5020050599510825,Ghana,Africa,Marketing,Distribution,Rice
+2032,0.502005056575573,Ghana,Africa,Marketing,Distribution,Rice
+2023,0.9773246911851049,Ghana,Africa,Processing,Processing and Packaging,Rice
+2024,0.9159722894622835,Ghana,Africa,Processing,Processing and Packaging,Rice
+2025,0.9546481604188054,Ghana,Africa,Processing,Processing and Packaging,Rice
+2026,0.9302673219798576,Ghana,Africa,Processing,Processing and Packaging,Rice
+2027,0.9456367310787325,Ghana,Africa,Processing,Processing and Packaging,Rice
+2028,0.9359480267037745,Ghana,Africa,Processing,Processing and Packaging,Rice
+2029,0.942055678068992,Ghana,Africa,Processing,Processing and Packaging,Rice
+2030,0.9382054826501433,Ghana,Africa,Processing,Processing and Packaging,Rice
+2031,0.9406326029746178,Ghana,Africa,Processing,Processing and Packaging,Rice
+2032,0.9391025733453064,Ghana,Africa,Processing,Processing and Packaging,Rice
+2023,3.1371400140011243,Ghana,Africa,Shelling,Agricultural Production,Rice
+2024,3.1371400072467437,Ghana,Africa,Shelling,Agricultural Production,Rice
+2025,3.137140010505172,Ghana,Africa,Shelling,Agricultural Production,Rice
+2026,3.1371400089332506,Ghana,Africa,Shelling,Agricultural Production,Rice
+2027,3.137140009691572,Ghana,Africa,Shelling,Agricultural Production,Rice
+2028,3.1371400093257447,Ghana,Africa,Shelling,Agricultural Production,Rice
+2029,3.1371400095022257,Ghana,Africa,Shelling,Agricultural Production,Rice
+2030,3.137140009417088,Ghana,Africa,Shelling,Agricultural Production,Rice
+2031,3.1371400094581596,Ghana,Africa,Shelling,Agricultural Production,Rice
+2032,3.1371400094383457,Ghana,Africa,Shelling,Agricultural Production,Rice
+2023,1.1988495531888934,Ghana,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2024,1.19959497736464,Ghana,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2025,1.1996069091347288,Ghana,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2026,1.199607100122816,Ghana,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2027,1.199607103179902,Ghana,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2028,1.1996071032288358,Ghana,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2029,1.1996071032296192,Ghana,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2030,1.1996071032296316,Ghana,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2031,1.1996071032296318,Ghana,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2032,1.1996071032296318,Ghana,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2023,3.1371396338727346,Ghana,Africa,Threshing,Agricultural Production,Rice
+2024,3.137139838303661,Ghana,Africa,Threshing,Agricultural Production,Rice
+2025,3.1371397241575494,Ghana,Africa,Threshing,Agricultural Production,Rice
+2026,3.1371397878922056,Ghana,Africa,Threshing,Agricultural Production,Rice
+2027,3.1371397523053046,Ghana,Africa,Threshing,Agricultural Production,Rice
+2028,3.137139772175617,Ghana,Africa,Threshing,Agricultural Production,Rice
+2029,3.1371397610808236,Ghana,Africa,Threshing,Agricultural Production,Rice
+2030,3.1371397672757158,Ghana,Africa,Threshing,Agricultural Production,Rice
+2031,3.137139763816734,Ghana,Africa,Threshing,Agricultural Production,Rice
+2032,3.1371397657480924,Ghana,Africa,Threshing,Agricultural Production,Rice
+2023,1.6064213028242147,Ghana,Africa,Transportation,Distribution,Rice
+2024,1.6849013914716593,Ghana,Africa,Transportation,Distribution,Rice
+2025,1.7021818521660876,Ghana,Africa,Transportation,Distribution,Rice
+2026,1.705986821387684,Ghana,Africa,Transportation,Distribution,Rice
+2027,1.7068246341655555,Ghana,Africa,Transportation,Distribution,Rice
+2028,1.707009111413566,Ghana,Africa,Transportation,Distribution,Rice
+2029,1.7070497312942032,Ghana,Africa,Transportation,Distribution,Rice
+2030,1.7070586753494772,Ghana,Africa,Transportation,Distribution,Rice
+2031,1.7070606447330274,Ghana,Africa,Transportation,Distribution,Rice
+2032,1.7070610783698341,Ghana,Africa,Transportation,Distribution,Rice
+2023,2.5,Ghana,Africa,Winnowing,Agricultural Production,Rice
+2024,2.5,Ghana,Africa,Winnowing,Agricultural Production,Rice
+2025,2.5,Ghana,Africa,Winnowing,Agricultural Production,Rice
+2026,2.5,Ghana,Africa,Winnowing,Agricultural Production,Rice
+2027,2.5,Ghana,Africa,Winnowing,Agricultural Production,Rice
+2028,2.5,Ghana,Africa,Winnowing,Agricultural Production,Rice
+2029,2.5,Ghana,Africa,Winnowing,Agricultural Production,Rice
+2030,2.5,Ghana,Africa,Winnowing,Agricultural Production,Rice
+2031,2.5,Ghana,Africa,Winnowing,Agricultural Production,Rice
+2032,2.5,Ghana,Africa,Winnowing,Agricultural Production,Rice
+2023,4.40333,Guinea,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2024,4.40333,Guinea,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2025,4.40333,Guinea,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2026,4.40333,Guinea,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2027,4.40333,Guinea,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2028,4.40333,Guinea,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2029,4.40333,Guinea,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2030,4.40333,Guinea,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2031,4.40333,Guinea,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2032,4.40333,Guinea,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2023,4.40333,Guinea,Africa,Harvesting,Agricultural Production,Rice
+2024,4.40333,Guinea,Africa,Harvesting,Agricultural Production,Rice
+2025,4.40333,Guinea,Africa,Harvesting,Agricultural Production,Rice
+2026,4.40333,Guinea,Africa,Harvesting,Agricultural Production,Rice
+2027,4.40333,Guinea,Africa,Harvesting,Agricultural Production,Rice
+2028,4.40333,Guinea,Africa,Harvesting,Agricultural Production,Rice
+2029,4.40333,Guinea,Africa,Harvesting,Agricultural Production,Rice
+2030,4.40333,Guinea,Africa,Harvesting,Agricultural Production,Rice
+2031,4.40333,Guinea,Africa,Harvesting,Agricultural Production,Rice
+2032,4.40333,Guinea,Africa,Harvesting,Agricultural Production,Rice
+2023,3.13714,Guinea,Africa,Shelling,Agricultural Production,Rice
+2024,3.13714,Guinea,Africa,Shelling,Agricultural Production,Rice
+2025,3.13714,Guinea,Africa,Shelling,Agricultural Production,Rice
+2026,3.13714,Guinea,Africa,Shelling,Agricultural Production,Rice
+2027,3.13714,Guinea,Africa,Shelling,Agricultural Production,Rice
+2028,3.13714,Guinea,Africa,Shelling,Agricultural Production,Rice
+2029,3.13714,Guinea,Africa,Shelling,Agricultural Production,Rice
+2030,3.13714,Guinea,Africa,Shelling,Agricultural Production,Rice
+2031,3.13714,Guinea,Africa,Shelling,Agricultural Production,Rice
+2032,3.13714,Guinea,Africa,Shelling,Agricultural Production,Rice
+2023,1.2,Guinea,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2024,1.2,Guinea,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2025,1.2,Guinea,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2026,1.2,Guinea,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2027,1.2,Guinea,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2028,1.2,Guinea,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2029,1.2,Guinea,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2030,1.2,Guinea,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2031,1.2,Guinea,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2032,1.2,Guinea,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2023,3.13714,Guinea,Africa,Threshing,Agricultural Production,Rice
+2024,3.13714,Guinea,Africa,Threshing,Agricultural Production,Rice
+2025,3.13714,Guinea,Africa,Threshing,Agricultural Production,Rice
+2026,3.13714,Guinea,Africa,Threshing,Agricultural Production,Rice
+2027,3.13714,Guinea,Africa,Threshing,Agricultural Production,Rice
+2028,3.13714,Guinea,Africa,Threshing,Agricultural Production,Rice
+2029,3.13714,Guinea,Africa,Threshing,Agricultural Production,Rice
+2030,3.13714,Guinea,Africa,Threshing,Agricultural Production,Rice
+2031,3.13714,Guinea,Africa,Threshing,Agricultural Production,Rice
+2032,3.13714,Guinea,Africa,Threshing,Agricultural Production,Rice
+2023,1.25,Guinea,Africa,Transportation,Distribution,Rice
+2024,1.25,Guinea,Africa,Transportation,Distribution,Rice
+2025,1.25,Guinea,Africa,Transportation,Distribution,Rice
+2026,1.25,Guinea,Africa,Transportation,Distribution,Rice
+2027,1.25,Guinea,Africa,Transportation,Distribution,Rice
+2028,1.25,Guinea,Africa,Transportation,Distribution,Rice
+2029,1.25,Guinea,Africa,Transportation,Distribution,Rice
+2030,1.25,Guinea,Africa,Transportation,Distribution,Rice
+2031,1.25,Guinea,Africa,Transportation,Distribution,Rice
+2032,1.25,Guinea,Africa,Transportation,Distribution,Rice
+2023,2.5,Guinea,Africa,Winnowing,Agricultural Production,Rice
+2024,2.5,Guinea,Africa,Winnowing,Agricultural Production,Rice
+2025,2.5,Guinea,Africa,Winnowing,Agricultural Production,Rice
+2026,2.5,Guinea,Africa,Winnowing,Agricultural Production,Rice
+2027,2.5,Guinea,Africa,Winnowing,Agricultural Production,Rice
+2028,2.5,Guinea,Africa,Winnowing,Agricultural Production,Rice
+2029,2.5,Guinea,Africa,Winnowing,Agricultural Production,Rice
+2030,2.5,Guinea,Africa,Winnowing,Agricultural Production,Rice
+2031,2.5,Guinea,Africa,Winnowing,Agricultural Production,Rice
+2032,2.5,Guinea,Africa,Winnowing,Agricultural Production,Rice
+2023,4.40333,Guinea-Bissau,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2024,4.40333,Guinea-Bissau,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2025,4.40333,Guinea-Bissau,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2026,4.40333,Guinea-Bissau,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2027,4.40333,Guinea-Bissau,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2028,4.40333,Guinea-Bissau,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2029,4.40333,Guinea-Bissau,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2030,4.40333,Guinea-Bissau,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2031,4.40333,Guinea-Bissau,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2032,4.40333,Guinea-Bissau,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2023,4.40333,Guinea-Bissau,Africa,Harvesting,Agricultural Production,Rice
+2024,4.40333,Guinea-Bissau,Africa,Harvesting,Agricultural Production,Rice
+2025,4.40333,Guinea-Bissau,Africa,Harvesting,Agricultural Production,Rice
+2026,4.40333,Guinea-Bissau,Africa,Harvesting,Agricultural Production,Rice
+2027,4.40333,Guinea-Bissau,Africa,Harvesting,Agricultural Production,Rice
+2028,4.40333,Guinea-Bissau,Africa,Harvesting,Agricultural Production,Rice
+2029,4.40333,Guinea-Bissau,Africa,Harvesting,Agricultural Production,Rice
+2030,4.40333,Guinea-Bissau,Africa,Harvesting,Agricultural Production,Rice
+2031,4.40333,Guinea-Bissau,Africa,Harvesting,Agricultural Production,Rice
+2032,4.40333,Guinea-Bissau,Africa,Harvesting,Agricultural Production,Rice
+2023,3.13714,Guinea-Bissau,Africa,Shelling,Agricultural Production,Rice
+2024,3.13714,Guinea-Bissau,Africa,Shelling,Agricultural Production,Rice
+2025,3.13714,Guinea-Bissau,Africa,Shelling,Agricultural Production,Rice
+2026,3.13714,Guinea-Bissau,Africa,Shelling,Agricultural Production,Rice
+2027,3.13714,Guinea-Bissau,Africa,Shelling,Agricultural Production,Rice
+2028,3.13714,Guinea-Bissau,Africa,Shelling,Agricultural Production,Rice
+2029,3.13714,Guinea-Bissau,Africa,Shelling,Agricultural Production,Rice
+2030,3.13714,Guinea-Bissau,Africa,Shelling,Agricultural Production,Rice
+2031,3.13714,Guinea-Bissau,Africa,Shelling,Agricultural Production,Rice
+2032,3.13714,Guinea-Bissau,Africa,Shelling,Agricultural Production,Rice
+2023,1.2,Guinea-Bissau,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2024,1.2,Guinea-Bissau,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2025,1.2,Guinea-Bissau,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2026,1.2,Guinea-Bissau,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2027,1.2,Guinea-Bissau,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2028,1.2,Guinea-Bissau,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2029,1.2,Guinea-Bissau,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2030,1.2,Guinea-Bissau,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2031,1.2,Guinea-Bissau,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2032,1.2,Guinea-Bissau,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2023,3.13714,Guinea-Bissau,Africa,Threshing,Agricultural Production,Rice
+2024,3.13714,Guinea-Bissau,Africa,Threshing,Agricultural Production,Rice
+2025,3.13714,Guinea-Bissau,Africa,Threshing,Agricultural Production,Rice
+2026,3.13714,Guinea-Bissau,Africa,Threshing,Agricultural Production,Rice
+2027,3.13714,Guinea-Bissau,Africa,Threshing,Agricultural Production,Rice
+2028,3.13714,Guinea-Bissau,Africa,Threshing,Agricultural Production,Rice
+2029,3.13714,Guinea-Bissau,Africa,Threshing,Agricultural Production,Rice
+2030,3.13714,Guinea-Bissau,Africa,Threshing,Agricultural Production,Rice
+2031,3.13714,Guinea-Bissau,Africa,Threshing,Agricultural Production,Rice
+2032,3.13714,Guinea-Bissau,Africa,Threshing,Agricultural Production,Rice
+2023,1.25,Guinea-Bissau,Africa,Transportation,Distribution,Rice
+2024,1.25,Guinea-Bissau,Africa,Transportation,Distribution,Rice
+2025,1.25,Guinea-Bissau,Africa,Transportation,Distribution,Rice
+2026,1.25,Guinea-Bissau,Africa,Transportation,Distribution,Rice
+2027,1.25,Guinea-Bissau,Africa,Transportation,Distribution,Rice
+2028,1.25,Guinea-Bissau,Africa,Transportation,Distribution,Rice
+2029,1.25,Guinea-Bissau,Africa,Transportation,Distribution,Rice
+2030,1.25,Guinea-Bissau,Africa,Transportation,Distribution,Rice
+2031,1.25,Guinea-Bissau,Africa,Transportation,Distribution,Rice
+2032,1.25,Guinea-Bissau,Africa,Transportation,Distribution,Rice
+2023,2.5,Guinea-Bissau,Africa,Winnowing,Agricultural Production,Rice
+2024,2.5,Guinea-Bissau,Africa,Winnowing,Agricultural Production,Rice
+2025,2.5,Guinea-Bissau,Africa,Winnowing,Agricultural Production,Rice
+2026,2.5,Guinea-Bissau,Africa,Winnowing,Agricultural Production,Rice
+2027,2.5,Guinea-Bissau,Africa,Winnowing,Agricultural Production,Rice
+2028,2.5,Guinea-Bissau,Africa,Winnowing,Agricultural Production,Rice
+2029,2.5,Guinea-Bissau,Africa,Winnowing,Agricultural Production,Rice
+2030,2.5,Guinea-Bissau,Africa,Winnowing,Agricultural Production,Rice
+2031,2.5,Guinea-Bissau,Africa,Winnowing,Agricultural Production,Rice
+2032,2.5,Guinea-Bissau,Africa,Winnowing,Agricultural Production,Rice
+2023,0.37000000000005023,India,Asia,Collection,Agricultural Production,Rice
+2024,0.37000000000005023,India,Asia,Collection,Agricultural Production,Rice
+2025,0.37000000000005023,India,Asia,Collection,Agricultural Production,Rice
+2026,0.37000000000005023,India,Asia,Collection,Agricultural Production,Rice
+2027,0.37000000000005023,India,Asia,Collection,Agricultural Production,Rice
+2028,0.37000000000005023,India,Asia,Collection,Agricultural Production,Rice
+2029,0.37000000000005023,India,Asia,Collection,Agricultural Production,Rice
+2030,0.37000000000005023,India,Asia,Collection,Agricultural Production,Rice
+2031,0.37000000000005023,India,Asia,Collection,Agricultural Production,Rice
+2032,0.37000000000005023,India,Asia,Collection,Agricultural Production,Rice
+2023,0.10000000000000002,India,Asia,Drying,Post-Harvest Handling and Storage,Rice
+2024,0.10000000000000002,India,Asia,Drying,Post-Harvest Handling and Storage,Rice
+2025,0.10000000000000002,India,Asia,Drying,Post-Harvest Handling and Storage,Rice
+2026,0.10000000000000002,India,Asia,Drying,Post-Harvest Handling and Storage,Rice
+2027,0.10000000000000002,India,Asia,Drying,Post-Harvest Handling and Storage,Rice
+2028,0.10000000000000002,India,Asia,Drying,Post-Harvest Handling and Storage,Rice
+2029,0.10000000000000002,India,Asia,Drying,Post-Harvest Handling and Storage,Rice
+2030,0.10000000000000002,India,Asia,Drying,Post-Harvest Handling and Storage,Rice
+2031,0.10000000000000002,India,Asia,Drying,Post-Harvest Handling and Storage,Rice
+2032,0.10000000000000002,India,Asia,Drying,Post-Harvest Handling and Storage,Rice
+2023,0.08,India,Asia,Packaging,Processing and Packaging,Rice
+2024,0.08,India,Asia,Packaging,Processing and Packaging,Rice
+2025,0.08,India,Asia,Packaging,Processing and Packaging,Rice
+2026,0.08,India,Asia,Packaging,Processing and Packaging,Rice
+2027,0.08,India,Asia,Packaging,Processing and Packaging,Rice
+2028,0.08,India,Asia,Packaging,Processing and Packaging,Rice
+2029,0.08,India,Asia,Packaging,Processing and Packaging,Rice
+2030,0.08,India,Asia,Packaging,Processing and Packaging,Rice
+2031,0.08,India,Asia,Packaging,Processing and Packaging,Rice
+2032,0.08,India,Asia,Packaging,Processing and Packaging,Rice
+2023,1.4815126604953472,India,Asia,Storage,Post-Harvest Handling and Storage,Rice
+2024,1.4736745798535495,India,Asia,Storage,Post-Harvest Handling and Storage,Rice
+2025,1.473773428215059,India,Asia,Storage,Post-Harvest Handling and Storage,Rice
+2026,1.4737721816090312,India,Asia,Storage,Post-Harvest Handling and Storage,Rice
+2027,1.47377219733035,India,Asia,Storage,Post-Harvest Handling and Storage,Rice
+2028,1.4737721971320836,India,Asia,Storage,Post-Harvest Handling and Storage,Rice
+2029,1.473772197134584,India,Asia,Storage,Post-Harvest Handling and Storage,Rice
+2030,1.4737721971345525,India,Asia,Storage,Post-Harvest Handling and Storage,Rice
+2031,1.473772197134553,India,Asia,Storage,Post-Harvest Handling and Storage,Rice
+2032,1.473772197134553,India,Asia,Storage,Post-Harvest Handling and Storage,Rice
+2023,1.4400000000000308,India,Asia,Threshing,Agricultural Production,Rice
+2024,1.4400000000000308,India,Asia,Threshing,Agricultural Production,Rice
+2025,1.4400000000000308,India,Asia,Threshing,Agricultural Production,Rice
+2026,1.4400000000000308,India,Asia,Threshing,Agricultural Production,Rice
+2027,1.4400000000000308,India,Asia,Threshing,Agricultural Production,Rice
+2028,1.4400000000000308,India,Asia,Threshing,Agricultural Production,Rice
+2029,1.4400000000000308,India,Asia,Threshing,Agricultural Production,Rice
+2030,1.4400000000000308,India,Asia,Threshing,Agricultural Production,Rice
+2031,1.4400000000000308,India,Asia,Threshing,Agricultural Production,Rice
+2032,1.4400000000000308,India,Asia,Threshing,Agricultural Production,Rice
+2023,0.25685905045709423,India,Asia,Transportation,Distribution,Rice
+2024,0.2019870977908614,India,Asia,Transportation,Distribution,Rice
+2025,0.2200318558136186,India,Asia,Transportation,Distribution,Rice
+2026,0.21409779886324082,India,Asia,Transportation,Distribution,Rice
+2027,0.216049226078054,India,Asia,Transportation,Distribution,Rice
+2028,0.2154074950993058,India,Asia,Transportation,Distribution,Rice
+2029,0.21561852969283765,India,Asia,Transportation,Distribution,Rice
+2030,0.21554913051913088,India,Asia,Transportation,Distribution,Rice
+2031,0.2155719525846064,India,Asia,Transportation,Distribution,Rice
+2032,0.2155644474999671,India,Asia,Transportation,Distribution,Rice
+2023,0.5,India,Asia,Winnowing,Agricultural Production,Rice
+2024,0.5,India,Asia,Winnowing,Agricultural Production,Rice
+2025,0.5,India,Asia,Winnowing,Agricultural Production,Rice
+2026,0.5,India,Asia,Winnowing,Agricultural Production,Rice
+2027,0.5,India,Asia,Winnowing,Agricultural Production,Rice
+2028,0.5,India,Asia,Winnowing,Agricultural Production,Rice
+2029,0.5,India,Asia,Winnowing,Agricultural Production,Rice
+2030,0.5,India,Asia,Winnowing,Agricultural Production,Rice
+2031,0.5,India,Asia,Winnowing,Agricultural Production,Rice
+2032,0.5,India,Asia,Winnowing,Agricultural Production,Rice
+2023,7.255738654235297,Indonesia,Asia,Drying,Post-Harvest Handling and Storage,Rice
+2024,7.696211987783102,Indonesia,Asia,Drying,Post-Harvest Handling and Storage,Rice
+2025,7.86264445260858,Indonesia,Asia,Drying,Post-Harvest Handling and Storage,Rice
+2026,7.925530814252259,Indonesia,Asia,Drying,Post-Harvest Handling and Storage,Rice
+2027,7.949292371139171,Indonesia,Asia,Drying,Post-Harvest Handling and Storage,Rice
+2028,7.95827065468003,Indonesia,Asia,Drying,Post-Harvest Handling and Storage,Rice
+2029,7.961663091283562,Indonesia,Asia,Drying,Post-Harvest Handling and Storage,Rice
+2030,7.962944920494747,Indonesia,Asia,Drying,Post-Harvest Handling and Storage,Rice
+2031,7.963429258543965,Indonesia,Asia,Drying,Post-Harvest Handling and Storage,Rice
+2032,7.9636122652533405,Indonesia,Asia,Drying,Post-Harvest Handling and Storage,Rice
+2023,5.430281347139536,Kenya,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2024,5.637425098918106,Kenya,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2025,5.679207539751763,Kenya,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2026,5.687635369927805,Kenya,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2027,5.689335326178781,Kenya,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2028,5.689678220042904,Kenya,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2029,5.6897473842946225,Kenya,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2030,5.689761335240429,Kenya,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2031,5.689764149250327,Kenya,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2032,5.689764716857127,Kenya,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2023,5.430281347139536,Kenya,Africa,Harvesting,Agricultural Production,Rice
+2024,5.637425098918106,Kenya,Africa,Harvesting,Agricultural Production,Rice
+2025,5.679207539751763,Kenya,Africa,Harvesting,Agricultural Production,Rice
+2026,5.687635369927805,Kenya,Africa,Harvesting,Agricultural Production,Rice
+2027,5.689335326178781,Kenya,Africa,Harvesting,Agricultural Production,Rice
+2028,5.689678220042904,Kenya,Africa,Harvesting,Agricultural Production,Rice
+2029,5.6897473842946225,Kenya,Africa,Harvesting,Agricultural Production,Rice
+2030,5.689761335240429,Kenya,Africa,Harvesting,Agricultural Production,Rice
+2031,5.689764149250327,Kenya,Africa,Harvesting,Agricultural Production,Rice
+2032,5.689764716857127,Kenya,Africa,Harvesting,Agricultural Production,Rice
+2023,3.13714,Kenya,Africa,Shelling,Agricultural Production,Rice
+2024,3.13714,Kenya,Africa,Shelling,Agricultural Production,Rice
+2025,3.13714,Kenya,Africa,Shelling,Agricultural Production,Rice
+2026,3.13714,Kenya,Africa,Shelling,Agricultural Production,Rice
+2027,3.13714,Kenya,Africa,Shelling,Agricultural Production,Rice
+2028,3.13714,Kenya,Africa,Shelling,Agricultural Production,Rice
+2029,3.13714,Kenya,Africa,Shelling,Agricultural Production,Rice
+2030,3.13714,Kenya,Africa,Shelling,Agricultural Production,Rice
+2031,3.13714,Kenya,Africa,Shelling,Agricultural Production,Rice
+2032,3.13714,Kenya,Africa,Shelling,Agricultural Production,Rice
+2023,1.87106128473238,Kenya,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2024,1.3562299267724611,Kenya,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2025,1.4988349271152348,Kenya,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2026,1.4593342521692736,Kenya,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2027,1.4702756870238443,Kenya,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2028,1.4672449794007318,Kenya,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2029,1.4680844660694254,Kenya,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2030,1.4678519336200595,Kenya,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2031,1.4679163436244402,Kenya,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2032,1.4678985024643112,Kenya,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2023,3.13714,Kenya,Africa,Threshing,Agricultural Production,Rice
+2024,3.13714,Kenya,Africa,Threshing,Agricultural Production,Rice
+2025,3.13714,Kenya,Africa,Threshing,Agricultural Production,Rice
+2026,3.13714,Kenya,Africa,Threshing,Agricultural Production,Rice
+2027,3.13714,Kenya,Africa,Threshing,Agricultural Production,Rice
+2028,3.13714,Kenya,Africa,Threshing,Agricultural Production,Rice
+2029,3.13714,Kenya,Africa,Threshing,Agricultural Production,Rice
+2030,3.13714,Kenya,Africa,Threshing,Agricultural Production,Rice
+2031,3.13714,Kenya,Africa,Threshing,Agricultural Production,Rice
+2032,3.13714,Kenya,Africa,Threshing,Agricultural Production,Rice
+2023,1.2023852457659856,Kenya,Africa,Transportation,Distribution,Rice
+2024,1.0770971026390868,Kenya,Africa,Transportation,Distribution,Rice
+2025,1.1546576913508577,Kenya,Africa,Transportation,Distribution,Rice
+2026,1.1066432123173269,Kenya,Africa,Transportation,Distribution,Rice
+2027,1.1363669448875968,Kenya,Africa,Transportation,Distribution,Rice
+2028,1.11796623960676,Kenya,Africa,Transportation,Distribution,Rice
+2029,1.1293573377480102,Kenya,Africa,Transportation,Distribution,Rice
+2030,1.1223055908240092,Kenya,Africa,Transportation,Distribution,Rice
+2031,1.1266710289989366,Kenya,Africa,Transportation,Distribution,Rice
+2032,1.1239685709180527,Kenya,Africa,Transportation,Distribution,Rice
+2023,2.5,Kenya,Africa,Winnowing,Agricultural Production,Rice
+2024,2.5,Kenya,Africa,Winnowing,Agricultural Production,Rice
+2025,2.5,Kenya,Africa,Winnowing,Agricultural Production,Rice
+2026,2.5,Kenya,Africa,Winnowing,Agricultural Production,Rice
+2027,2.5,Kenya,Africa,Winnowing,Agricultural Production,Rice
+2028,2.5,Kenya,Africa,Winnowing,Agricultural Production,Rice
+2029,2.5,Kenya,Africa,Winnowing,Agricultural Production,Rice
+2030,2.5,Kenya,Africa,Winnowing,Agricultural Production,Rice
+2031,2.5,Kenya,Africa,Winnowing,Agricultural Production,Rice
+2032,2.5,Kenya,Africa,Winnowing,Agricultural Production,Rice
+2023,4.40333,Liberia,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2024,4.40333,Liberia,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2025,4.40333,Liberia,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2026,4.40333,Liberia,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2027,4.40333,Liberia,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2028,4.40333,Liberia,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2029,4.40333,Liberia,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2030,4.40333,Liberia,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2031,4.40333,Liberia,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2032,4.40333,Liberia,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2023,4.40333,Liberia,Africa,Harvesting,Agricultural Production,Rice
+2024,4.40333,Liberia,Africa,Harvesting,Agricultural Production,Rice
+2025,4.40333,Liberia,Africa,Harvesting,Agricultural Production,Rice
+2026,4.40333,Liberia,Africa,Harvesting,Agricultural Production,Rice
+2027,4.40333,Liberia,Africa,Harvesting,Agricultural Production,Rice
+2028,4.40333,Liberia,Africa,Harvesting,Agricultural Production,Rice
+2029,4.40333,Liberia,Africa,Harvesting,Agricultural Production,Rice
+2030,4.40333,Liberia,Africa,Harvesting,Agricultural Production,Rice
+2031,4.40333,Liberia,Africa,Harvesting,Agricultural Production,Rice
+2032,4.40333,Liberia,Africa,Harvesting,Agricultural Production,Rice
+2023,3.13714,Liberia,Africa,Shelling,Agricultural Production,Rice
+2024,3.13714,Liberia,Africa,Shelling,Agricultural Production,Rice
+2025,3.13714,Liberia,Africa,Shelling,Agricultural Production,Rice
+2026,3.13714,Liberia,Africa,Shelling,Agricultural Production,Rice
+2027,3.13714,Liberia,Africa,Shelling,Agricultural Production,Rice
+2028,3.13714,Liberia,Africa,Shelling,Agricultural Production,Rice
+2029,3.13714,Liberia,Africa,Shelling,Agricultural Production,Rice
+2030,3.13714,Liberia,Africa,Shelling,Agricultural Production,Rice
+2031,3.13714,Liberia,Africa,Shelling,Agricultural Production,Rice
+2032,3.13714,Liberia,Africa,Shelling,Agricultural Production,Rice
+2023,0.5675915408163977,Liberia,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2024,0.5680428355471132,Liberia,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2025,0.5678248838831503,Liberia,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2026,0.5679301430953483,Liberia,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2027,0.5678793084214987,Liberia,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2028,0.5679038589003731,Liberia,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2029,0.5678920023078681,Liberia,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2030,0.5678977284196295,Liberia,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2031,0.5678949630082443,Liberia,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2032,0.5678962985567715,Liberia,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2023,3.13714,Liberia,Africa,Threshing,Agricultural Production,Rice
+2024,3.13714,Liberia,Africa,Threshing,Agricultural Production,Rice
+2025,3.13714,Liberia,Africa,Threshing,Agricultural Production,Rice
+2026,3.13714,Liberia,Africa,Threshing,Agricultural Production,Rice
+2027,3.13714,Liberia,Africa,Threshing,Agricultural Production,Rice
+2028,3.13714,Liberia,Africa,Threshing,Agricultural Production,Rice
+2029,3.13714,Liberia,Africa,Threshing,Agricultural Production,Rice
+2030,3.13714,Liberia,Africa,Threshing,Agricultural Production,Rice
+2031,3.13714,Liberia,Africa,Threshing,Agricultural Production,Rice
+2032,3.13714,Liberia,Africa,Threshing,Agricultural Production,Rice
+2023,1.25,Liberia,Africa,Transportation,Distribution,Rice
+2024,1.25,Liberia,Africa,Transportation,Distribution,Rice
+2025,1.25,Liberia,Africa,Transportation,Distribution,Rice
+2026,1.25,Liberia,Africa,Transportation,Distribution,Rice
+2027,1.25,Liberia,Africa,Transportation,Distribution,Rice
+2028,1.25,Liberia,Africa,Transportation,Distribution,Rice
+2029,1.25,Liberia,Africa,Transportation,Distribution,Rice
+2030,1.25,Liberia,Africa,Transportation,Distribution,Rice
+2031,1.25,Liberia,Africa,Transportation,Distribution,Rice
+2032,1.25,Liberia,Africa,Transportation,Distribution,Rice
+2023,2.5,Liberia,Africa,Winnowing,Agricultural Production,Rice
+2024,2.5,Liberia,Africa,Winnowing,Agricultural Production,Rice
+2025,2.5,Liberia,Africa,Winnowing,Agricultural Production,Rice
+2026,2.5,Liberia,Africa,Winnowing,Agricultural Production,Rice
+2027,2.5,Liberia,Africa,Winnowing,Agricultural Production,Rice
+2028,2.5,Liberia,Africa,Winnowing,Agricultural Production,Rice
+2029,2.5,Liberia,Africa,Winnowing,Agricultural Production,Rice
+2030,2.5,Liberia,Africa,Winnowing,Agricultural Production,Rice
+2031,2.5,Liberia,Africa,Winnowing,Agricultural Production,Rice
+2032,2.5,Liberia,Africa,Winnowing,Agricultural Production,Rice
+2023,4.40333,Madagascar,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2024,4.40333,Madagascar,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2025,4.40333,Madagascar,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2026,4.40333,Madagascar,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2027,4.40333,Madagascar,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2028,4.40333,Madagascar,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2029,4.40333,Madagascar,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2030,4.40333,Madagascar,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2031,4.40333,Madagascar,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2032,4.40333,Madagascar,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2023,4.40333,Madagascar,Africa,Harvesting,Agricultural Production,Rice
+2024,4.40333,Madagascar,Africa,Harvesting,Agricultural Production,Rice
+2025,4.40333,Madagascar,Africa,Harvesting,Agricultural Production,Rice
+2026,4.40333,Madagascar,Africa,Harvesting,Agricultural Production,Rice
+2027,4.40333,Madagascar,Africa,Harvesting,Agricultural Production,Rice
+2028,4.40333,Madagascar,Africa,Harvesting,Agricultural Production,Rice
+2029,4.40333,Madagascar,Africa,Harvesting,Agricultural Production,Rice
+2030,4.40333,Madagascar,Africa,Harvesting,Agricultural Production,Rice
+2031,4.40333,Madagascar,Africa,Harvesting,Agricultural Production,Rice
+2032,4.40333,Madagascar,Africa,Harvesting,Agricultural Production,Rice
+2023,3.13714,Madagascar,Africa,Shelling,Agricultural Production,Rice
+2024,3.13714,Madagascar,Africa,Shelling,Agricultural Production,Rice
+2025,3.13714,Madagascar,Africa,Shelling,Agricultural Production,Rice
+2026,3.13714,Madagascar,Africa,Shelling,Agricultural Production,Rice
+2027,3.13714,Madagascar,Africa,Shelling,Agricultural Production,Rice
+2028,3.13714,Madagascar,Africa,Shelling,Agricultural Production,Rice
+2029,3.13714,Madagascar,Africa,Shelling,Agricultural Production,Rice
+2030,3.13714,Madagascar,Africa,Shelling,Agricultural Production,Rice
+2031,3.13714,Madagascar,Africa,Shelling,Agricultural Production,Rice
+2032,3.13714,Madagascar,Africa,Shelling,Agricultural Production,Rice
+2023,0.6607119735632643,Madagascar,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2024,0.6634804008442247,Madagascar,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2025,0.6620332423563433,Madagascar,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2026,0.6627897251808877,Madagascar,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2027,0.6623942838601042,Madagascar,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2028,0.6626009955435812,Madagascar,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2029,0.6624929397642783,Madagascar,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2030,0.6625494244836923,Madagascar,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2031,0.6625198978489499,Madagascar,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2032,0.6625353325039902,Madagascar,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2023,3.13714,Madagascar,Africa,Threshing,Agricultural Production,Rice
+2024,3.13714,Madagascar,Africa,Threshing,Agricultural Production,Rice
+2025,3.13714,Madagascar,Africa,Threshing,Agricultural Production,Rice
+2026,3.13714,Madagascar,Africa,Threshing,Agricultural Production,Rice
+2027,3.13714,Madagascar,Africa,Threshing,Agricultural Production,Rice
+2028,3.13714,Madagascar,Africa,Threshing,Agricultural Production,Rice
+2029,3.13714,Madagascar,Africa,Threshing,Agricultural Production,Rice
+2030,3.13714,Madagascar,Africa,Threshing,Agricultural Production,Rice
+2031,3.13714,Madagascar,Africa,Threshing,Agricultural Production,Rice
+2032,3.13714,Madagascar,Africa,Threshing,Agricultural Production,Rice
+2023,1.25,Madagascar,Africa,Transportation,Distribution,Rice
+2024,1.25,Madagascar,Africa,Transportation,Distribution,Rice
+2025,1.25,Madagascar,Africa,Transportation,Distribution,Rice
+2026,1.25,Madagascar,Africa,Transportation,Distribution,Rice
+2027,1.25,Madagascar,Africa,Transportation,Distribution,Rice
+2028,1.25,Madagascar,Africa,Transportation,Distribution,Rice
+2029,1.25,Madagascar,Africa,Transportation,Distribution,Rice
+2030,1.25,Madagascar,Africa,Transportation,Distribution,Rice
+2031,1.25,Madagascar,Africa,Transportation,Distribution,Rice
+2032,1.25,Madagascar,Africa,Transportation,Distribution,Rice
+2023,2.5,Madagascar,Africa,Winnowing,Agricultural Production,Rice
+2024,2.5,Madagascar,Africa,Winnowing,Agricultural Production,Rice
+2025,2.5,Madagascar,Africa,Winnowing,Agricultural Production,Rice
+2026,2.5,Madagascar,Africa,Winnowing,Agricultural Production,Rice
+2027,2.5,Madagascar,Africa,Winnowing,Agricultural Production,Rice
+2028,2.5,Madagascar,Africa,Winnowing,Agricultural Production,Rice
+2029,2.5,Madagascar,Africa,Winnowing,Agricultural Production,Rice
+2030,2.5,Madagascar,Africa,Winnowing,Agricultural Production,Rice
+2031,2.5,Madagascar,Africa,Winnowing,Agricultural Production,Rice
+2032,2.5,Madagascar,Africa,Winnowing,Agricultural Production,Rice
+2023,4.460501220544651,Malawi,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2024,4.495342686749296,Malawi,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2025,4.516575883377333,Malawi,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2026,4.529515885281867,Malawi,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2027,4.537401822205197,Malawi,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2028,4.542207694848612,Malawi,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2029,4.545136504968357,Malawi,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2030,4.546921389702928,Malawi,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2031,4.548009139808073,Malawi,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2032,4.548672039920516,Malawi,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2023,4.460501220544651,Malawi,Africa,Harvesting,Agricultural Production,Rice
+2024,4.495342686749296,Malawi,Africa,Harvesting,Agricultural Production,Rice
+2025,4.516575883377333,Malawi,Africa,Harvesting,Agricultural Production,Rice
+2026,4.529515885281867,Malawi,Africa,Harvesting,Agricultural Production,Rice
+2027,4.537401822205197,Malawi,Africa,Harvesting,Agricultural Production,Rice
+2028,4.542207694848612,Malawi,Africa,Harvesting,Agricultural Production,Rice
+2029,4.545136504968357,Malawi,Africa,Harvesting,Agricultural Production,Rice
+2030,4.546921389702928,Malawi,Africa,Harvesting,Agricultural Production,Rice
+2031,4.548009139808073,Malawi,Africa,Harvesting,Agricultural Production,Rice
+2032,4.548672039920516,Malawi,Africa,Harvesting,Agricultural Production,Rice
+2023,3.1371208785898825,Malawi,Africa,Shelling,Agricultural Production,Rice
+2024,3.1371208785898514,Malawi,Africa,Shelling,Agricultural Production,Rice
+2025,3.1371208785898514,Malawi,Africa,Shelling,Agricultural Production,Rice
+2026,3.1371208785898514,Malawi,Africa,Shelling,Agricultural Production,Rice
+2027,3.1371208785898514,Malawi,Africa,Shelling,Agricultural Production,Rice
+2028,3.1371208785898514,Malawi,Africa,Shelling,Agricultural Production,Rice
+2029,3.1371208785898514,Malawi,Africa,Shelling,Agricultural Production,Rice
+2030,3.1371208785898514,Malawi,Africa,Shelling,Agricultural Production,Rice
+2031,3.1371208785898514,Malawi,Africa,Shelling,Agricultural Production,Rice
+2032,3.1371208785898514,Malawi,Africa,Shelling,Agricultural Production,Rice
+2023,2.2836361293205547,Malawi,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2024,1.104598306576118,Malawi,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2025,1.7489419182221035,Malawi,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2026,1.3968084396687315,Malawi,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2027,1.5892492189003955,Malawi,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2028,1.4840804242051846,Malawi,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2029,1.5415551206900113,Malawi,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2030,1.510145226285532,Malawi,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2031,1.5273107186994155,Malawi,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2032,1.517929785226138,Malawi,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2023,3.1371208785898825,Malawi,Africa,Threshing,Agricultural Production,Rice
+2024,3.1371208785898514,Malawi,Africa,Threshing,Agricultural Production,Rice
+2025,3.1371208785898514,Malawi,Africa,Threshing,Agricultural Production,Rice
+2026,3.1371208785898514,Malawi,Africa,Threshing,Agricultural Production,Rice
+2027,3.1371208785898514,Malawi,Africa,Threshing,Agricultural Production,Rice
+2028,3.1371208785898514,Malawi,Africa,Threshing,Agricultural Production,Rice
+2029,3.1371208785898514,Malawi,Africa,Threshing,Agricultural Production,Rice
+2030,3.1371208785898514,Malawi,Africa,Threshing,Agricultural Production,Rice
+2031,3.1371208785898514,Malawi,Africa,Threshing,Agricultural Production,Rice
+2032,3.1371208785898514,Malawi,Africa,Threshing,Agricultural Production,Rice
+2023,1.0624587102128547,Malawi,Africa,Transportation,Distribution,Rice
+2024,1.152150419616965,Malawi,Africa,Transportation,Distribution,Rice
+2025,1.1092553177172084,Malawi,Africa,Transportation,Distribution,Rice
+2026,1.129769920228577,Malawi,Africa,Transportation,Distribution,Rice
+2027,1.1199588019992055,Malawi,Africa,Transportation,Distribution,Rice
+2028,1.1246509738732333,Malawi,Africa,Transportation,Distribution,Rice
+2029,1.122406940483695,Malawi,Africa,Transportation,Distribution,Rice
+2030,1.1234801504999854,Malawi,Africa,Transportation,Distribution,Rice
+2031,1.1229668873086105,Malawi,Africa,Transportation,Distribution,Rice
+2032,1.123212355669529,Malawi,Africa,Transportation,Distribution,Rice
+2023,2.5,Malawi,Africa,Winnowing,Agricultural Production,Rice
+2024,2.5,Malawi,Africa,Winnowing,Agricultural Production,Rice
+2025,2.5,Malawi,Africa,Winnowing,Agricultural Production,Rice
+2026,2.5,Malawi,Africa,Winnowing,Agricultural Production,Rice
+2027,2.5,Malawi,Africa,Winnowing,Agricultural Production,Rice
+2028,2.5,Malawi,Africa,Winnowing,Agricultural Production,Rice
+2029,2.5,Malawi,Africa,Winnowing,Agricultural Production,Rice
+2030,2.5,Malawi,Africa,Winnowing,Agricultural Production,Rice
+2031,2.5,Malawi,Africa,Winnowing,Agricultural Production,Rice
+2032,2.5,Malawi,Africa,Winnowing,Agricultural Production,Rice
+2023,4.40333,Mali,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2024,4.40333,Mali,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2025,4.40333,Mali,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2026,4.40333,Mali,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2027,4.40333,Mali,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2028,4.40333,Mali,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2029,4.40333,Mali,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2030,4.40333,Mali,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2031,4.40333,Mali,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2032,4.40333,Mali,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2023,4.40333,Mali,Africa,Harvesting,Agricultural Production,Rice
+2024,4.40333,Mali,Africa,Harvesting,Agricultural Production,Rice
+2025,4.40333,Mali,Africa,Harvesting,Agricultural Production,Rice
+2026,4.40333,Mali,Africa,Harvesting,Agricultural Production,Rice
+2027,4.40333,Mali,Africa,Harvesting,Agricultural Production,Rice
+2028,4.40333,Mali,Africa,Harvesting,Agricultural Production,Rice
+2029,4.40333,Mali,Africa,Harvesting,Agricultural Production,Rice
+2030,4.40333,Mali,Africa,Harvesting,Agricultural Production,Rice
+2031,4.40333,Mali,Africa,Harvesting,Agricultural Production,Rice
+2032,4.40333,Mali,Africa,Harvesting,Agricultural Production,Rice
+2023,3.13714,Mali,Africa,Shelling,Agricultural Production,Rice
+2024,3.13714,Mali,Africa,Shelling,Agricultural Production,Rice
+2025,3.13714,Mali,Africa,Shelling,Agricultural Production,Rice
+2026,3.13714,Mali,Africa,Shelling,Agricultural Production,Rice
+2027,3.13714,Mali,Africa,Shelling,Agricultural Production,Rice
+2028,3.13714,Mali,Africa,Shelling,Agricultural Production,Rice
+2029,3.13714,Mali,Africa,Shelling,Agricultural Production,Rice
+2030,3.13714,Mali,Africa,Shelling,Agricultural Production,Rice
+2031,3.13714,Mali,Africa,Shelling,Agricultural Production,Rice
+2032,3.13714,Mali,Africa,Shelling,Agricultural Production,Rice
+2023,0.11558678072660687,Mali,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2024,0.11140156496889521,Mali,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2025,0.11363325311877813,Mali,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2026,0.11244324708643656,Mali,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2027,0.11307779558152249,Mali,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2028,0.11273943444580327,Mali,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2029,0.11291985920301541,Mali,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2030,0.11282365107040626,Mali,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2031,0.11287495226057084,Mali,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2032,0.11284759685889191,Mali,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2023,3.13714,Mali,Africa,Threshing,Agricultural Production,Rice
+2024,3.13714,Mali,Africa,Threshing,Agricultural Production,Rice
+2025,3.13714,Mali,Africa,Threshing,Agricultural Production,Rice
+2026,3.13714,Mali,Africa,Threshing,Agricultural Production,Rice
+2027,3.13714,Mali,Africa,Threshing,Agricultural Production,Rice
+2028,3.13714,Mali,Africa,Threshing,Agricultural Production,Rice
+2029,3.13714,Mali,Africa,Threshing,Agricultural Production,Rice
+2030,3.13714,Mali,Africa,Threshing,Agricultural Production,Rice
+2031,3.13714,Mali,Africa,Threshing,Agricultural Production,Rice
+2032,3.13714,Mali,Africa,Threshing,Agricultural Production,Rice
+2023,1.25,Mali,Africa,Transportation,Distribution,Rice
+2024,1.25,Mali,Africa,Transportation,Distribution,Rice
+2025,1.25,Mali,Africa,Transportation,Distribution,Rice
+2026,1.25,Mali,Africa,Transportation,Distribution,Rice
+2027,1.25,Mali,Africa,Transportation,Distribution,Rice
+2028,1.25,Mali,Africa,Transportation,Distribution,Rice
+2029,1.25,Mali,Africa,Transportation,Distribution,Rice
+2030,1.25,Mali,Africa,Transportation,Distribution,Rice
+2031,1.25,Mali,Africa,Transportation,Distribution,Rice
+2032,1.25,Mali,Africa,Transportation,Distribution,Rice
+2023,2.5,Mali,Africa,Winnowing,Agricultural Production,Rice
+2024,2.5,Mali,Africa,Winnowing,Agricultural Production,Rice
+2025,2.5,Mali,Africa,Winnowing,Agricultural Production,Rice
+2026,2.5,Mali,Africa,Winnowing,Agricultural Production,Rice
+2027,2.5,Mali,Africa,Winnowing,Agricultural Production,Rice
+2028,2.5,Mali,Africa,Winnowing,Agricultural Production,Rice
+2029,2.5,Mali,Africa,Winnowing,Agricultural Production,Rice
+2030,2.5,Mali,Africa,Winnowing,Agricultural Production,Rice
+2031,2.5,Mali,Africa,Winnowing,Agricultural Production,Rice
+2032,2.5,Mali,Africa,Winnowing,Agricultural Production,Rice
+2023,4.40333,Mauritania,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2024,4.40333,Mauritania,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2025,4.40333,Mauritania,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2026,4.40333,Mauritania,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2027,4.40333,Mauritania,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2028,4.40333,Mauritania,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2029,4.40333,Mauritania,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2030,4.40333,Mauritania,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2031,4.40333,Mauritania,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2032,4.40333,Mauritania,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2023,4.40333,Mauritania,Africa,Harvesting,Agricultural Production,Rice
+2024,4.40333,Mauritania,Africa,Harvesting,Agricultural Production,Rice
+2025,4.40333,Mauritania,Africa,Harvesting,Agricultural Production,Rice
+2026,4.40333,Mauritania,Africa,Harvesting,Agricultural Production,Rice
+2027,4.40333,Mauritania,Africa,Harvesting,Agricultural Production,Rice
+2028,4.40333,Mauritania,Africa,Harvesting,Agricultural Production,Rice
+2029,4.40333,Mauritania,Africa,Harvesting,Agricultural Production,Rice
+2030,4.40333,Mauritania,Africa,Harvesting,Agricultural Production,Rice
+2031,4.40333,Mauritania,Africa,Harvesting,Agricultural Production,Rice
+2032,4.40333,Mauritania,Africa,Harvesting,Agricultural Production,Rice
+2023,3.13714,Mauritania,Africa,Shelling,Agricultural Production,Rice
+2024,3.13714,Mauritania,Africa,Shelling,Agricultural Production,Rice
+2025,3.13714,Mauritania,Africa,Shelling,Agricultural Production,Rice
+2026,3.13714,Mauritania,Africa,Shelling,Agricultural Production,Rice
+2027,3.13714,Mauritania,Africa,Shelling,Agricultural Production,Rice
+2028,3.13714,Mauritania,Africa,Shelling,Agricultural Production,Rice
+2029,3.13714,Mauritania,Africa,Shelling,Agricultural Production,Rice
+2030,3.13714,Mauritania,Africa,Shelling,Agricultural Production,Rice
+2031,3.13714,Mauritania,Africa,Shelling,Agricultural Production,Rice
+2032,3.13714,Mauritania,Africa,Shelling,Agricultural Production,Rice
+2023,0.1,Mauritania,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2024,0.1,Mauritania,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2025,0.1,Mauritania,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2026,0.1,Mauritania,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2027,0.1,Mauritania,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2028,0.1,Mauritania,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2029,0.1,Mauritania,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2030,0.1,Mauritania,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2031,0.1,Mauritania,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2032,0.1,Mauritania,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2023,3.13714,Mauritania,Africa,Threshing,Agricultural Production,Rice
+2024,3.13714,Mauritania,Africa,Threshing,Agricultural Production,Rice
+2025,3.13714,Mauritania,Africa,Threshing,Agricultural Production,Rice
+2026,3.13714,Mauritania,Africa,Threshing,Agricultural Production,Rice
+2027,3.13714,Mauritania,Africa,Threshing,Agricultural Production,Rice
+2028,3.13714,Mauritania,Africa,Threshing,Agricultural Production,Rice
+2029,3.13714,Mauritania,Africa,Threshing,Agricultural Production,Rice
+2030,3.13714,Mauritania,Africa,Threshing,Agricultural Production,Rice
+2031,3.13714,Mauritania,Africa,Threshing,Agricultural Production,Rice
+2032,3.13714,Mauritania,Africa,Threshing,Agricultural Production,Rice
+2023,1.25,Mauritania,Africa,Transportation,Distribution,Rice
+2024,1.25,Mauritania,Africa,Transportation,Distribution,Rice
+2025,1.25,Mauritania,Africa,Transportation,Distribution,Rice
+2026,1.25,Mauritania,Africa,Transportation,Distribution,Rice
+2027,1.25,Mauritania,Africa,Transportation,Distribution,Rice
+2028,1.25,Mauritania,Africa,Transportation,Distribution,Rice
+2029,1.25,Mauritania,Africa,Transportation,Distribution,Rice
+2030,1.25,Mauritania,Africa,Transportation,Distribution,Rice
+2031,1.25,Mauritania,Africa,Transportation,Distribution,Rice
+2032,1.25,Mauritania,Africa,Transportation,Distribution,Rice
+2023,2.5,Mauritania,Africa,Winnowing,Agricultural Production,Rice
+2024,2.5,Mauritania,Africa,Winnowing,Agricultural Production,Rice
+2025,2.5,Mauritania,Africa,Winnowing,Agricultural Production,Rice
+2026,2.5,Mauritania,Africa,Winnowing,Agricultural Production,Rice
+2027,2.5,Mauritania,Africa,Winnowing,Agricultural Production,Rice
+2028,2.5,Mauritania,Africa,Winnowing,Agricultural Production,Rice
+2029,2.5,Mauritania,Africa,Winnowing,Agricultural Production,Rice
+2030,2.5,Mauritania,Africa,Winnowing,Agricultural Production,Rice
+2031,2.5,Mauritania,Africa,Winnowing,Agricultural Production,Rice
+2032,2.5,Mauritania,Africa,Winnowing,Agricultural Production,Rice
+2023,4.40333,Mozambique,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2024,4.40333,Mozambique,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2025,4.40333,Mozambique,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2026,4.40333,Mozambique,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2027,4.40333,Mozambique,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2028,4.40333,Mozambique,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2029,4.40333,Mozambique,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2030,4.40333,Mozambique,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2031,4.40333,Mozambique,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2032,4.40333,Mozambique,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2023,4.40333,Mozambique,Africa,Harvesting,Agricultural Production,Rice
+2024,4.40333,Mozambique,Africa,Harvesting,Agricultural Production,Rice
+2025,4.40333,Mozambique,Africa,Harvesting,Agricultural Production,Rice
+2026,4.40333,Mozambique,Africa,Harvesting,Agricultural Production,Rice
+2027,4.40333,Mozambique,Africa,Harvesting,Agricultural Production,Rice
+2028,4.40333,Mozambique,Africa,Harvesting,Agricultural Production,Rice
+2029,4.40333,Mozambique,Africa,Harvesting,Agricultural Production,Rice
+2030,4.40333,Mozambique,Africa,Harvesting,Agricultural Production,Rice
+2031,4.40333,Mozambique,Africa,Harvesting,Agricultural Production,Rice
+2032,4.40333,Mozambique,Africa,Harvesting,Agricultural Production,Rice
+2023,3.0968377318858993,Mozambique,Africa,Shelling,Agricultural Production,Rice
+2024,3.0967697604661977,Mozambique,Africa,Shelling,Agricultural Production,Rice
+2025,3.0967688256496744,Mozambique,Africa,Shelling,Agricultural Production,Rice
+2026,3.0967688127930657,Mozambique,Africa,Shelling,Agricultural Production,Rice
+2027,3.0967688126162476,Mozambique,Africa,Shelling,Agricultural Production,Rice
+2028,3.0967688126138158,Mozambique,Africa,Shelling,Agricultural Production,Rice
+2029,3.0967688126137825,Mozambique,Africa,Shelling,Agricultural Production,Rice
+2030,3.096768812613782,Mozambique,Africa,Shelling,Agricultural Production,Rice
+2031,3.096768812613782,Mozambique,Africa,Shelling,Agricultural Production,Rice
+2032,3.096768812613782,Mozambique,Africa,Shelling,Agricultural Production,Rice
+2023,1.0875272962573204,Mozambique,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2024,1.1907533355166107,Mozambique,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2025,1.1406028220931768,Mozambique,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2026,1.164967546485212,Mozambique,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2027,1.153130383629319,Mozambique,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2028,1.1588812561703907,Mozambique,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2029,1.1560872982442998,Mozambique,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2030,1.1574446924200559,Mozambique,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2031,1.156785226888678,Mozambique,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2032,1.15710561634875,Mozambique,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2023,3.0968377318858993,Mozambique,Africa,Threshing,Agricultural Production,Rice
+2024,3.0967697604661977,Mozambique,Africa,Threshing,Agricultural Production,Rice
+2025,3.0967688256496744,Mozambique,Africa,Threshing,Agricultural Production,Rice
+2026,3.0967688127930657,Mozambique,Africa,Threshing,Agricultural Production,Rice
+2027,3.0967688126162476,Mozambique,Africa,Threshing,Agricultural Production,Rice
+2028,3.0967688126138158,Mozambique,Africa,Threshing,Agricultural Production,Rice
+2029,3.0967688126137825,Mozambique,Africa,Threshing,Agricultural Production,Rice
+2030,3.096768812613782,Mozambique,Africa,Threshing,Agricultural Production,Rice
+2031,3.096768812613782,Mozambique,Africa,Threshing,Agricultural Production,Rice
+2032,3.096768812613782,Mozambique,Africa,Threshing,Agricultural Production,Rice
+2023,1.075081416980006,Mozambique,Africa,Transportation,Distribution,Rice
+2024,1.1418608811820299,Mozambique,Africa,Transportation,Distribution,Rice
+2025,1.1163661809499816,Mozambique,Africa,Transportation,Distribution,Rice
+2026,1.1260994087871452,Mozambique,Africa,Transportation,Distribution,Rice
+2027,1.1223835100604347,Mozambique,Africa,Transportation,Distribution,Rice
+2028,1.1238021456434266,Mozambique,Africa,Transportation,Distribution,Rice
+2029,1.123260546674955,Mozambique,Africa,Transportation,Distribution,Rice
+2030,1.1234673153801575,Mozambique,Africa,Transportation,Distribution,Rice
+2031,1.123388376349731,Mozambique,Africa,Transportation,Distribution,Rice
+2032,1.123418513262948,Mozambique,Africa,Transportation,Distribution,Rice
+2023,2.5,Mozambique,Africa,Winnowing,Agricultural Production,Rice
+2024,2.5,Mozambique,Africa,Winnowing,Agricultural Production,Rice
+2025,2.5,Mozambique,Africa,Winnowing,Agricultural Production,Rice
+2026,2.5,Mozambique,Africa,Winnowing,Agricultural Production,Rice
+2027,2.5,Mozambique,Africa,Winnowing,Agricultural Production,Rice
+2028,2.5,Mozambique,Africa,Winnowing,Agricultural Production,Rice
+2029,2.5,Mozambique,Africa,Winnowing,Agricultural Production,Rice
+2030,2.5,Mozambique,Africa,Winnowing,Agricultural Production,Rice
+2031,2.5,Mozambique,Africa,Winnowing,Agricultural Production,Rice
+2032,2.5,Mozambique,Africa,Winnowing,Agricultural Production,Rice
+2023,1.7799991709058485,Myanmar,Asia,Storage,Post-Harvest Handling and Storage,"Rice, milled"
+2024,1.779999170905814,Myanmar,Asia,Storage,Post-Harvest Handling and Storage,"Rice, milled"
+2025,1.779999170905814,Myanmar,Asia,Storage,Post-Harvest Handling and Storage,"Rice, milled"
+2026,1.779999170905814,Myanmar,Asia,Storage,Post-Harvest Handling and Storage,"Rice, milled"
+2027,1.779999170905814,Myanmar,Asia,Storage,Post-Harvest Handling and Storage,"Rice, milled"
+2028,1.779999170905814,Myanmar,Asia,Storage,Post-Harvest Handling and Storage,"Rice, milled"
+2029,1.779999170905814,Myanmar,Asia,Storage,Post-Harvest Handling and Storage,"Rice, milled"
+2030,1.779999170905814,Myanmar,Asia,Storage,Post-Harvest Handling and Storage,"Rice, milled"
+2031,1.779999170905814,Myanmar,Asia,Storage,Post-Harvest Handling and Storage,"Rice, milled"
+2032,1.779999170905814,Myanmar,Asia,Storage,Post-Harvest Handling and Storage,"Rice, milled"
+2023,4.40333,Niger,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2024,4.40333,Niger,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2025,4.40333,Niger,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2026,4.40333,Niger,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2027,4.40333,Niger,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2028,4.40333,Niger,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2029,4.40333,Niger,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2030,4.40333,Niger,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2031,4.40333,Niger,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2032,4.40333,Niger,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2023,4.40333,Niger,Africa,Harvesting,Agricultural Production,Rice
+2024,4.40333,Niger,Africa,Harvesting,Agricultural Production,Rice
+2025,4.40333,Niger,Africa,Harvesting,Agricultural Production,Rice
+2026,4.40333,Niger,Africa,Harvesting,Agricultural Production,Rice
+2027,4.40333,Niger,Africa,Harvesting,Agricultural Production,Rice
+2028,4.40333,Niger,Africa,Harvesting,Agricultural Production,Rice
+2029,4.40333,Niger,Africa,Harvesting,Agricultural Production,Rice
+2030,4.40333,Niger,Africa,Harvesting,Agricultural Production,Rice
+2031,4.40333,Niger,Africa,Harvesting,Agricultural Production,Rice
+2032,4.40333,Niger,Africa,Harvesting,Agricultural Production,Rice
+2023,3.13714,Niger,Africa,Shelling,Agricultural Production,Rice
+2024,3.13714,Niger,Africa,Shelling,Agricultural Production,Rice
+2025,3.13714,Niger,Africa,Shelling,Agricultural Production,Rice
+2026,3.13714,Niger,Africa,Shelling,Agricultural Production,Rice
+2027,3.13714,Niger,Africa,Shelling,Agricultural Production,Rice
+2028,3.13714,Niger,Africa,Shelling,Agricultural Production,Rice
+2029,3.13714,Niger,Africa,Shelling,Agricultural Production,Rice
+2030,3.13714,Niger,Africa,Shelling,Agricultural Production,Rice
+2031,3.13714,Niger,Africa,Shelling,Agricultural Production,Rice
+2032,3.13714,Niger,Africa,Shelling,Agricultural Production,Rice
+2023,0.1,Niger,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2024,0.1,Niger,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2025,0.1,Niger,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2026,0.1,Niger,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2027,0.1,Niger,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2028,0.1,Niger,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2029,0.1,Niger,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2030,0.1,Niger,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2031,0.1,Niger,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2032,0.1,Niger,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2023,3.13714,Niger,Africa,Threshing,Agricultural Production,Rice
+2024,3.13714,Niger,Africa,Threshing,Agricultural Production,Rice
+2025,3.13714,Niger,Africa,Threshing,Agricultural Production,Rice
+2026,3.13714,Niger,Africa,Threshing,Agricultural Production,Rice
+2027,3.13714,Niger,Africa,Threshing,Agricultural Production,Rice
+2028,3.13714,Niger,Africa,Threshing,Agricultural Production,Rice
+2029,3.13714,Niger,Africa,Threshing,Agricultural Production,Rice
+2030,3.13714,Niger,Africa,Threshing,Agricultural Production,Rice
+2031,3.13714,Niger,Africa,Threshing,Agricultural Production,Rice
+2032,3.13714,Niger,Africa,Threshing,Agricultural Production,Rice
+2023,1.25,Niger,Africa,Transportation,Distribution,Rice
+2024,1.25,Niger,Africa,Transportation,Distribution,Rice
+2025,1.25,Niger,Africa,Transportation,Distribution,Rice
+2026,1.25,Niger,Africa,Transportation,Distribution,Rice
+2027,1.25,Niger,Africa,Transportation,Distribution,Rice
+2028,1.25,Niger,Africa,Transportation,Distribution,Rice
+2029,1.25,Niger,Africa,Transportation,Distribution,Rice
+2030,1.25,Niger,Africa,Transportation,Distribution,Rice
+2031,1.25,Niger,Africa,Transportation,Distribution,Rice
+2032,1.25,Niger,Africa,Transportation,Distribution,Rice
+2023,2.5,Niger,Africa,Winnowing,Agricultural Production,Rice
+2024,2.5,Niger,Africa,Winnowing,Agricultural Production,Rice
+2025,2.5,Niger,Africa,Winnowing,Agricultural Production,Rice
+2026,2.5,Niger,Africa,Winnowing,Agricultural Production,Rice
+2027,2.5,Niger,Africa,Winnowing,Agricultural Production,Rice
+2028,2.5,Niger,Africa,Winnowing,Agricultural Production,Rice
+2029,2.5,Niger,Africa,Winnowing,Agricultural Production,Rice
+2030,2.5,Niger,Africa,Winnowing,Agricultural Production,Rice
+2031,2.5,Niger,Africa,Winnowing,Agricultural Production,Rice
+2032,2.5,Niger,Africa,Winnowing,Agricultural Production,Rice
+2023,4.398395178993399,Nigeria,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2024,4.400245624961403,Nigeria,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2025,4.399551749686915,Nigeria,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2026,4.399811937179482,Nigeria,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2027,4.399714372770175,Nigeria,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2028,4.399750957211147,Nigeria,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2029,4.399737238875426,Nigeria,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2030,4.399742382940223,Nigeria,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2031,4.399740454032579,Nigeria,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2032,4.399741177329203,Nigeria,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2023,4.398395178993399,Nigeria,Africa,Harvesting,Agricultural Production,Rice
+2024,4.400245624961403,Nigeria,Africa,Harvesting,Agricultural Production,Rice
+2025,4.399551749686915,Nigeria,Africa,Harvesting,Agricultural Production,Rice
+2026,4.399811937179482,Nigeria,Africa,Harvesting,Agricultural Production,Rice
+2027,4.399714372770175,Nigeria,Africa,Harvesting,Agricultural Production,Rice
+2028,4.399750957211147,Nigeria,Africa,Harvesting,Agricultural Production,Rice
+2029,4.399737238875426,Nigeria,Africa,Harvesting,Agricultural Production,Rice
+2030,4.399742382940223,Nigeria,Africa,Harvesting,Agricultural Production,Rice
+2031,4.399740454032579,Nigeria,Africa,Harvesting,Agricultural Production,Rice
+2032,4.399741177329203,Nigeria,Africa,Harvesting,Agricultural Production,Rice
+2023,3.13714,Nigeria,Africa,Shelling,Agricultural Production,Rice
+2024,3.13714,Nigeria,Africa,Shelling,Agricultural Production,Rice
+2025,3.13714,Nigeria,Africa,Shelling,Agricultural Production,Rice
+2026,3.13714,Nigeria,Africa,Shelling,Agricultural Production,Rice
+2027,3.13714,Nigeria,Africa,Shelling,Agricultural Production,Rice
+2028,3.13714,Nigeria,Africa,Shelling,Agricultural Production,Rice
+2029,3.13714,Nigeria,Africa,Shelling,Agricultural Production,Rice
+2030,3.13714,Nigeria,Africa,Shelling,Agricultural Production,Rice
+2031,3.13714,Nigeria,Africa,Shelling,Agricultural Production,Rice
+2032,3.13714,Nigeria,Africa,Shelling,Agricultural Production,Rice
+2023,0.9782625729139536,Nigeria,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2024,0.978305475319393,Nigeria,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2025,0.9783045789562327,Nigeria,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2026,0.9783045976840151,Nigeria,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2027,0.9783045972927341,Nigeria,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2028,0.9783045973009091,Nigeria,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2029,0.9783045973007384,Nigeria,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2030,0.9783045973007419,Nigeria,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2031,0.9783045973007418,Nigeria,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2032,0.9783045973007418,Nigeria,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2023,3.2171828441797024,Nigeria,Africa,Threshing,Agricultural Production,Rice
+2024,3.2168629113418774,Nigeria,Africa,Threshing,Agricultural Production,Rice
+2025,3.216864190119784,Nigeria,Africa,Threshing,Agricultural Production,Rice
+2026,3.2168641850084834,Nigeria,Africa,Threshing,Agricultural Production,Rice
+2027,3.2168641850289132,Nigeria,Africa,Threshing,Agricultural Production,Rice
+2028,3.2168641850288315,Nigeria,Africa,Threshing,Agricultural Production,Rice
+2029,3.216864185028832,Nigeria,Africa,Threshing,Agricultural Production,Rice
+2030,3.216864185028832,Nigeria,Africa,Threshing,Agricultural Production,Rice
+2031,3.216864185028832,Nigeria,Africa,Threshing,Agricultural Production,Rice
+2032,3.216864185028832,Nigeria,Africa,Threshing,Agricultural Production,Rice
+2023,1.25,Nigeria,Africa,Transportation,Distribution,Rice
+2024,1.25,Nigeria,Africa,Transportation,Distribution,Rice
+2025,1.25,Nigeria,Africa,Transportation,Distribution,Rice
+2026,1.25,Nigeria,Africa,Transportation,Distribution,Rice
+2027,1.25,Nigeria,Africa,Transportation,Distribution,Rice
+2028,1.25,Nigeria,Africa,Transportation,Distribution,Rice
+2029,1.25,Nigeria,Africa,Transportation,Distribution,Rice
+2030,1.25,Nigeria,Africa,Transportation,Distribution,Rice
+2031,1.25,Nigeria,Africa,Transportation,Distribution,Rice
+2032,1.25,Nigeria,Africa,Transportation,Distribution,Rice
+2023,2.5,Nigeria,Africa,Winnowing,Agricultural Production,Rice
+2024,2.5,Nigeria,Africa,Winnowing,Agricultural Production,Rice
+2025,2.5,Nigeria,Africa,Winnowing,Agricultural Production,Rice
+2026,2.5,Nigeria,Africa,Winnowing,Agricultural Production,Rice
+2027,2.5,Nigeria,Africa,Winnowing,Agricultural Production,Rice
+2028,2.5,Nigeria,Africa,Winnowing,Agricultural Production,Rice
+2029,2.5,Nigeria,Africa,Winnowing,Agricultural Production,Rice
+2030,2.5,Nigeria,Africa,Winnowing,Agricultural Production,Rice
+2031,2.5,Nigeria,Africa,Winnowing,Agricultural Production,Rice
+2032,2.5,Nigeria,Africa,Winnowing,Agricultural Production,Rice
+2023,4.548616180256712,Rwanda,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2024,4.6198197821735985,Rwanda,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2025,4.65471610140355,Rwanda,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2026,4.671818510031981,Rwanda,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2027,4.680200264536415,Rwanda,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2028,4.684308095783987,Rwanda,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2029,4.686321311221112,Rwanda,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2030,4.68730797210176,Rwanda,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2031,4.687791526755399,Rwanda,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2032,4.688028513046882,Rwanda,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2023,4.548616180256712,Rwanda,Africa,Harvesting,Agricultural Production,Rice
+2024,4.6198197821735985,Rwanda,Africa,Harvesting,Agricultural Production,Rice
+2025,4.65471610140355,Rwanda,Africa,Harvesting,Agricultural Production,Rice
+2026,4.671818510031981,Rwanda,Africa,Harvesting,Agricultural Production,Rice
+2027,4.680200264536415,Rwanda,Africa,Harvesting,Agricultural Production,Rice
+2028,4.684308095783987,Rwanda,Africa,Harvesting,Agricultural Production,Rice
+2029,4.686321311221112,Rwanda,Africa,Harvesting,Agricultural Production,Rice
+2030,4.68730797210176,Rwanda,Africa,Harvesting,Agricultural Production,Rice
+2031,4.687791526755399,Rwanda,Africa,Harvesting,Agricultural Production,Rice
+2032,4.688028513046882,Rwanda,Africa,Harvesting,Agricultural Production,Rice
+2023,3.13714,Rwanda,Africa,Shelling,Agricultural Production,Rice
+2024,3.13714,Rwanda,Africa,Shelling,Agricultural Production,Rice
+2025,3.13714,Rwanda,Africa,Shelling,Agricultural Production,Rice
+2026,3.13714,Rwanda,Africa,Shelling,Agricultural Production,Rice
+2027,3.13714,Rwanda,Africa,Shelling,Agricultural Production,Rice
+2028,3.13714,Rwanda,Africa,Shelling,Agricultural Production,Rice
+2029,3.13714,Rwanda,Africa,Shelling,Agricultural Production,Rice
+2030,3.13714,Rwanda,Africa,Shelling,Agricultural Production,Rice
+2031,3.13714,Rwanda,Africa,Shelling,Agricultural Production,Rice
+2032,3.13714,Rwanda,Africa,Shelling,Agricultural Production,Rice
+2023,1.1432753801754054,Rwanda,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2024,1.864174962372473,Rwanda,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2025,1.5192571182129961,Rwanda,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2026,1.6842847061844644,Rwanda,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2027,1.6053264694540716,Rwanda,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2028,1.6431044144886353,Rwanda,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2029,1.625029376466856,Rwanda,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2030,1.6336774646354915,Rwanda,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2031,1.6295397455954332,Rwanda,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2032,1.6315194570091713,Rwanda,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2023,3.13714,Rwanda,Africa,Threshing,Agricultural Production,Rice
+2024,3.13714,Rwanda,Africa,Threshing,Agricultural Production,Rice
+2025,3.13714,Rwanda,Africa,Threshing,Agricultural Production,Rice
+2026,3.13714,Rwanda,Africa,Threshing,Agricultural Production,Rice
+2027,3.13714,Rwanda,Africa,Threshing,Agricultural Production,Rice
+2028,3.13714,Rwanda,Africa,Threshing,Agricultural Production,Rice
+2029,3.13714,Rwanda,Africa,Threshing,Agricultural Production,Rice
+2030,3.13714,Rwanda,Africa,Threshing,Agricultural Production,Rice
+2031,3.13714,Rwanda,Africa,Threshing,Agricultural Production,Rice
+2032,3.13714,Rwanda,Africa,Threshing,Agricultural Production,Rice
+2023,1.0596479213003027,Rwanda,Africa,Transportation,Distribution,Rice
+2024,1.1591562016040802,Rwanda,Africa,Transportation,Distribution,Rice
+2025,1.1071373430938112,Rwanda,Africa,Transportation,Distribution,Rice
+2026,1.1343306744673478,Rwanda,Africa,Transportation,Distribution,Rice
+2027,1.1201151131811464,Rwanda,Africa,Transportation,Distribution,Rice
+2028,1.127546427127418,Rwanda,Africa,Transportation,Distribution,Rice
+2029,1.123661640177665,Rwanda,Africa,Transportation,Distribution,Rice
+2030,1.1256924478859767,Rwanda,Africa,Transportation,Distribution,Rice
+2031,1.1246308246872063,Rwanda,Africa,Transportation,Distribution,Rice
+2032,1.125185797869332,Rwanda,Africa,Transportation,Distribution,Rice
+2023,2.5,Rwanda,Africa,Winnowing,Agricultural Production,Rice
+2024,2.5,Rwanda,Africa,Winnowing,Agricultural Production,Rice
+2025,2.5,Rwanda,Africa,Winnowing,Agricultural Production,Rice
+2026,2.5,Rwanda,Africa,Winnowing,Agricultural Production,Rice
+2027,2.5,Rwanda,Africa,Winnowing,Agricultural Production,Rice
+2028,2.5,Rwanda,Africa,Winnowing,Agricultural Production,Rice
+2029,2.5,Rwanda,Africa,Winnowing,Agricultural Production,Rice
+2030,2.5,Rwanda,Africa,Winnowing,Agricultural Production,Rice
+2031,2.5,Rwanda,Africa,Winnowing,Agricultural Production,Rice
+2032,2.5,Rwanda,Africa,Winnowing,Agricultural Production,Rice
+2023,4.911656309248783,Senegal,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2024,4.865147972729194,Senegal,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2025,4.869403163394057,Senegal,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2026,4.869013842920582,Senegal,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2027,4.869049463047388,Senegal,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2028,4.869046204052498,Senegal,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2029,4.869046502227959,Senegal,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2030,4.86904647494697,Senegal,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2031,4.869046477442991,Senegal,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2032,4.8690464772146225,Senegal,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2023,4.911656309248783,Senegal,Africa,Harvesting,Agricultural Production,Rice
+2024,4.865147972729194,Senegal,Africa,Harvesting,Agricultural Production,Rice
+2025,4.869403163394057,Senegal,Africa,Harvesting,Agricultural Production,Rice
+2026,4.869013842920582,Senegal,Africa,Harvesting,Agricultural Production,Rice
+2027,4.869049463047388,Senegal,Africa,Harvesting,Agricultural Production,Rice
+2028,4.869046204052498,Senegal,Africa,Harvesting,Agricultural Production,Rice
+2029,4.869046502227959,Senegal,Africa,Harvesting,Agricultural Production,Rice
+2030,4.86904647494697,Senegal,Africa,Harvesting,Agricultural Production,Rice
+2031,4.869046477442991,Senegal,Africa,Harvesting,Agricultural Production,Rice
+2032,4.8690464772146225,Senegal,Africa,Harvesting,Agricultural Production,Rice
+2023,3.13714,Senegal,Africa,Shelling,Agricultural Production,Rice
+2024,3.13714,Senegal,Africa,Shelling,Agricultural Production,Rice
+2025,3.13714,Senegal,Africa,Shelling,Agricultural Production,Rice
+2026,3.13714,Senegal,Africa,Shelling,Agricultural Production,Rice
+2027,3.13714,Senegal,Africa,Shelling,Agricultural Production,Rice
+2028,3.13714,Senegal,Africa,Shelling,Agricultural Production,Rice
+2029,3.13714,Senegal,Africa,Shelling,Agricultural Production,Rice
+2030,3.13714,Senegal,Africa,Shelling,Agricultural Production,Rice
+2031,3.13714,Senegal,Africa,Shelling,Agricultural Production,Rice
+2032,3.13714,Senegal,Africa,Shelling,Agricultural Production,Rice
+2023,0.7460258822242984,Senegal,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2024,2.0091873562948197,Senegal,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2025,1.1711628817604554,Senegal,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2026,1.72713694709946,Senegal,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2027,1.3582847587414404,Senegal,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2028,1.6029939013766143,Senegal,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2029,1.4406454962991908,Senegal,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2030,1.548352974439792,Senegal,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2031,1.4768961538946463,Senegal,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2032,1.5243030497812595,Senegal,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2023,3.13714,Senegal,Africa,Threshing,Agricultural Production,Rice
+2024,3.13714,Senegal,Africa,Threshing,Agricultural Production,Rice
+2025,3.13714,Senegal,Africa,Threshing,Agricultural Production,Rice
+2026,3.13714,Senegal,Africa,Threshing,Agricultural Production,Rice
+2027,3.13714,Senegal,Africa,Threshing,Agricultural Production,Rice
+2028,3.13714,Senegal,Africa,Threshing,Agricultural Production,Rice
+2029,3.13714,Senegal,Africa,Threshing,Agricultural Production,Rice
+2030,3.13714,Senegal,Africa,Threshing,Agricultural Production,Rice
+2031,3.13714,Senegal,Africa,Threshing,Agricultural Production,Rice
+2032,3.13714,Senegal,Africa,Threshing,Agricultural Production,Rice
+2023,1.0476043168392486,Senegal,Africa,Transportation,Distribution,Rice
+2024,1.1729062908325218,Senegal,Africa,Transportation,Distribution,Rice
+2025,1.0953325775921026,Senegal,Africa,Transportation,Distribution,Rice
+2026,1.14335800603611,Senegal,Africa,Transportation,Distribution,Rice
+2027,1.1136257464743913,Senegal,Africa,Transportation,Distribution,Rice
+2028,1.1320328130490511,Senegal,Africa,Transportation,Distribution,Rice
+2029,1.1206371066722576,Senegal,Africa,Transportation,Distribution,Rice
+2030,1.1276921212939177,Senegal,Africa,Transportation,Distribution,Rice
+2031,1.1233244033424272,Senegal,Africa,Transportation,Distribution,Rice
+2032,1.126028431771398,Senegal,Africa,Transportation,Distribution,Rice
+2023,2.5,Senegal,Africa,Winnowing,Agricultural Production,Rice
+2024,2.5,Senegal,Africa,Winnowing,Agricultural Production,Rice
+2025,2.5,Senegal,Africa,Winnowing,Agricultural Production,Rice
+2026,2.5,Senegal,Africa,Winnowing,Agricultural Production,Rice
+2027,2.5,Senegal,Africa,Winnowing,Agricultural Production,Rice
+2028,2.5,Senegal,Africa,Winnowing,Agricultural Production,Rice
+2029,2.5,Senegal,Africa,Winnowing,Agricultural Production,Rice
+2030,2.5,Senegal,Africa,Winnowing,Agricultural Production,Rice
+2031,2.5,Senegal,Africa,Winnowing,Agricultural Production,Rice
+2032,2.5,Senegal,Africa,Winnowing,Agricultural Production,Rice
+2023,5.006682570344489,Sierra Leone,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2024,5.05632777928129,Sierra Leone,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2025,5.060412698931125,Sierra Leone,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2026,5.060748815323884,Sierra Leone,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2027,5.060776471738004,Sierra Leone,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2028,5.060778747370072,Sierra Leone,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2029,5.060778934614206,Sierra Leone,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2030,5.060778950021075,Sierra Leone,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2031,5.060778951288787,Sierra Leone,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2032,5.060778951393098,Sierra Leone,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2023,4.648572386352029,Sierra Leone,Africa,Harvesting,Agricultural Production,Rice
+2024,4.616205788136355,Sierra Leone,Africa,Harvesting,Agricultural Production,Rice
+2025,4.620477466844257,Sierra Leone,Africa,Harvesting,Agricultural Production,Rice
+2026,4.6199136992570065,Sierra Leone,Africa,Harvesting,Agricultural Production,Rice
+2027,4.619988104172303,Sierra Leone,Africa,Harvesting,Agricultural Production,Rice
+2028,4.619978284360832,Sierra Leone,Africa,Harvesting,Agricultural Production,Rice
+2029,4.6199795803598525,Sierra Leone,Africa,Harvesting,Agricultural Production,Rice
+2030,4.619979409316501,Sierra Leone,Africa,Harvesting,Agricultural Production,Rice
+2031,4.61997943189046,Sierra Leone,Africa,Harvesting,Agricultural Production,Rice
+2032,4.619979428911194,Sierra Leone,Africa,Harvesting,Agricultural Production,Rice
+2023,3.13714,Sierra Leone,Africa,Shelling,Agricultural Production,Rice
+2024,3.13714,Sierra Leone,Africa,Shelling,Agricultural Production,Rice
+2025,3.13714,Sierra Leone,Africa,Shelling,Agricultural Production,Rice
+2026,3.13714,Sierra Leone,Africa,Shelling,Agricultural Production,Rice
+2027,3.13714,Sierra Leone,Africa,Shelling,Agricultural Production,Rice
+2028,3.13714,Sierra Leone,Africa,Shelling,Agricultural Production,Rice
+2029,3.13714,Sierra Leone,Africa,Shelling,Agricultural Production,Rice
+2030,3.13714,Sierra Leone,Africa,Shelling,Agricultural Production,Rice
+2031,3.13714,Sierra Leone,Africa,Shelling,Agricultural Production,Rice
+2032,3.13714,Sierra Leone,Africa,Shelling,Agricultural Production,Rice
+2023,0.9918047873295757,Sierra Leone,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2024,1.7047077996970121,Sierra Leone,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2025,1.398211495064646,Sierra Leone,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2026,1.5299825538533254,Sierra Leone,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2027,1.4733306083914812,Sierra Leone,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2028,1.4976868134194665,Sierra Leone,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2029,1.4872154215099902,Sierra Leone,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2030,1.4917173563720043,Sierra Leone,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2031,1.4897818526990423,Sierra Leone,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2032,1.4906139781257468,Sierra Leone,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2023,3.2708832378073365,Sierra Leone,Africa,Threshing,Agricultural Production,Rice
+2024,3.270343640571536,Sierra Leone,Africa,Threshing,Agricultural Production,Rice
+2025,3.270345817617506,Sierra Leone,Africa,Threshing,Agricultural Production,Rice
+2026,3.270345808834049,Sierra Leone,Africa,Threshing,Agricultural Production,Rice
+2027,3.2703458088694863,Sierra Leone,Africa,Threshing,Agricultural Production,Rice
+2028,3.2703458088693433,Sierra Leone,Africa,Threshing,Agricultural Production,Rice
+2029,3.270345808869344,Sierra Leone,Africa,Threshing,Agricultural Production,Rice
+2030,3.270345808869344,Sierra Leone,Africa,Threshing,Agricultural Production,Rice
+2031,3.270345808869344,Sierra Leone,Africa,Threshing,Agricultural Production,Rice
+2032,3.270345808869344,Sierra Leone,Africa,Threshing,Agricultural Production,Rice
+2023,1.1748918339540453,Sierra Leone,Africa,Transportation,Distribution,Rice
+2024,1.1081575009112345,Sierra Leone,Africa,Transportation,Distribution,Rice
+2025,1.1336216469835947,Sierra Leone,Africa,Transportation,Distribution,Rice
+2026,1.1239051681393613,Sierra Leone,Africa,Transportation,Distribution,Rice
+2027,1.1276127325266434,Sierra Leone,Africa,Transportation,Distribution,Rice
+2028,1.126198019037713,Sierra Leone,Africa,Transportation,Distribution,Rice
+2029,1.1267378381876183,Sierra Leone,Africa,Transportation,Distribution,Rice
+2030,1.1265318567525895,Sierra Leone,Africa,Transportation,Distribution,Rice
+2031,1.126610454096874,Sierra Leone,Africa,Transportation,Distribution,Rice
+2032,1.126580463323542,Sierra Leone,Africa,Transportation,Distribution,Rice
+2023,2.5,Sierra Leone,Africa,Winnowing,Agricultural Production,Rice
+2024,2.5,Sierra Leone,Africa,Winnowing,Agricultural Production,Rice
+2025,2.5,Sierra Leone,Africa,Winnowing,Agricultural Production,Rice
+2026,2.5,Sierra Leone,Africa,Winnowing,Agricultural Production,Rice
+2027,2.5,Sierra Leone,Africa,Winnowing,Agricultural Production,Rice
+2028,2.5,Sierra Leone,Africa,Winnowing,Agricultural Production,Rice
+2029,2.5,Sierra Leone,Africa,Winnowing,Agricultural Production,Rice
+2030,2.5,Sierra Leone,Africa,Winnowing,Agricultural Production,Rice
+2031,2.5,Sierra Leone,Africa,Winnowing,Agricultural Production,Rice
+2032,2.5,Sierra Leone,Africa,Winnowing,Agricultural Production,Rice
+2023,4.40333,Somalia,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2024,4.40333,Somalia,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2025,4.40333,Somalia,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2026,4.40333,Somalia,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2027,4.40333,Somalia,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2028,4.40333,Somalia,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2029,4.40333,Somalia,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2030,4.40333,Somalia,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2031,4.40333,Somalia,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2032,4.40333,Somalia,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2023,4.40333,Somalia,Africa,Harvesting,Agricultural Production,Rice
+2024,4.40333,Somalia,Africa,Harvesting,Agricultural Production,Rice
+2025,4.40333,Somalia,Africa,Harvesting,Agricultural Production,Rice
+2026,4.40333,Somalia,Africa,Harvesting,Agricultural Production,Rice
+2027,4.40333,Somalia,Africa,Harvesting,Agricultural Production,Rice
+2028,4.40333,Somalia,Africa,Harvesting,Agricultural Production,Rice
+2029,4.40333,Somalia,Africa,Harvesting,Agricultural Production,Rice
+2030,4.40333,Somalia,Africa,Harvesting,Agricultural Production,Rice
+2031,4.40333,Somalia,Africa,Harvesting,Agricultural Production,Rice
+2032,4.40333,Somalia,Africa,Harvesting,Agricultural Production,Rice
+2023,3.13714,Somalia,Africa,Shelling,Agricultural Production,Rice
+2024,3.13714,Somalia,Africa,Shelling,Agricultural Production,Rice
+2025,3.13714,Somalia,Africa,Shelling,Agricultural Production,Rice
+2026,3.13714,Somalia,Africa,Shelling,Agricultural Production,Rice
+2027,3.13714,Somalia,Africa,Shelling,Agricultural Production,Rice
+2028,3.13714,Somalia,Africa,Shelling,Agricultural Production,Rice
+2029,3.13714,Somalia,Africa,Shelling,Agricultural Production,Rice
+2030,3.13714,Somalia,Africa,Shelling,Agricultural Production,Rice
+2031,3.13714,Somalia,Africa,Shelling,Agricultural Production,Rice
+2032,3.13714,Somalia,Africa,Shelling,Agricultural Production,Rice
+2023,0.1,Somalia,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2024,0.1,Somalia,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2025,0.1,Somalia,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2026,0.1,Somalia,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2027,0.1,Somalia,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2028,0.1,Somalia,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2029,0.1,Somalia,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2030,0.1,Somalia,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2031,0.1,Somalia,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2032,0.1,Somalia,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2023,3.13714,Somalia,Africa,Threshing,Agricultural Production,Rice
+2024,3.13714,Somalia,Africa,Threshing,Agricultural Production,Rice
+2025,3.13714,Somalia,Africa,Threshing,Agricultural Production,Rice
+2026,3.13714,Somalia,Africa,Threshing,Agricultural Production,Rice
+2027,3.13714,Somalia,Africa,Threshing,Agricultural Production,Rice
+2028,3.13714,Somalia,Africa,Threshing,Agricultural Production,Rice
+2029,3.13714,Somalia,Africa,Threshing,Agricultural Production,Rice
+2030,3.13714,Somalia,Africa,Threshing,Agricultural Production,Rice
+2031,3.13714,Somalia,Africa,Threshing,Agricultural Production,Rice
+2032,3.13714,Somalia,Africa,Threshing,Agricultural Production,Rice
+2023,1.25,Somalia,Africa,Transportation,Distribution,Rice
+2024,1.25,Somalia,Africa,Transportation,Distribution,Rice
+2025,1.25,Somalia,Africa,Transportation,Distribution,Rice
+2026,1.25,Somalia,Africa,Transportation,Distribution,Rice
+2027,1.25,Somalia,Africa,Transportation,Distribution,Rice
+2028,1.25,Somalia,Africa,Transportation,Distribution,Rice
+2029,1.25,Somalia,Africa,Transportation,Distribution,Rice
+2030,1.25,Somalia,Africa,Transportation,Distribution,Rice
+2031,1.25,Somalia,Africa,Transportation,Distribution,Rice
+2032,1.25,Somalia,Africa,Transportation,Distribution,Rice
+2023,2.5,Somalia,Africa,Winnowing,Agricultural Production,Rice
+2024,2.5,Somalia,Africa,Winnowing,Agricultural Production,Rice
+2025,2.5,Somalia,Africa,Winnowing,Agricultural Production,Rice
+2026,2.5,Somalia,Africa,Winnowing,Agricultural Production,Rice
+2027,2.5,Somalia,Africa,Winnowing,Agricultural Production,Rice
+2028,2.5,Somalia,Africa,Winnowing,Agricultural Production,Rice
+2029,2.5,Somalia,Africa,Winnowing,Agricultural Production,Rice
+2030,2.5,Somalia,Africa,Winnowing,Agricultural Production,Rice
+2031,2.5,Somalia,Africa,Winnowing,Agricultural Production,Rice
+2032,2.5,Somalia,Africa,Winnowing,Agricultural Production,Rice
+2023,4.40333,Togo,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2024,4.40333,Togo,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2025,4.40333,Togo,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2026,4.40333,Togo,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2027,4.40333,Togo,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2028,4.40333,Togo,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2029,4.40333,Togo,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2030,4.40333,Togo,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2031,4.40333,Togo,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2032,4.40333,Togo,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2023,4.40333,Togo,Africa,Harvesting,Agricultural Production,Rice
+2024,4.40333,Togo,Africa,Harvesting,Agricultural Production,Rice
+2025,4.40333,Togo,Africa,Harvesting,Agricultural Production,Rice
+2026,4.40333,Togo,Africa,Harvesting,Agricultural Production,Rice
+2027,4.40333,Togo,Africa,Harvesting,Agricultural Production,Rice
+2028,4.40333,Togo,Africa,Harvesting,Agricultural Production,Rice
+2029,4.40333,Togo,Africa,Harvesting,Agricultural Production,Rice
+2030,4.40333,Togo,Africa,Harvesting,Agricultural Production,Rice
+2031,4.40333,Togo,Africa,Harvesting,Agricultural Production,Rice
+2032,4.40333,Togo,Africa,Harvesting,Agricultural Production,Rice
+2023,3.13714,Togo,Africa,Shelling,Agricultural Production,Rice
+2024,3.13714,Togo,Africa,Shelling,Agricultural Production,Rice
+2025,3.13714,Togo,Africa,Shelling,Agricultural Production,Rice
+2026,3.13714,Togo,Africa,Shelling,Agricultural Production,Rice
+2027,3.13714,Togo,Africa,Shelling,Agricultural Production,Rice
+2028,3.13714,Togo,Africa,Shelling,Agricultural Production,Rice
+2029,3.13714,Togo,Africa,Shelling,Agricultural Production,Rice
+2030,3.13714,Togo,Africa,Shelling,Agricultural Production,Rice
+2031,3.13714,Togo,Africa,Shelling,Agricultural Production,Rice
+2032,3.13714,Togo,Africa,Shelling,Agricultural Production,Rice
+2023,1.2,Togo,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2024,1.2,Togo,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2025,1.2,Togo,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2026,1.2,Togo,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2027,1.2,Togo,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2028,1.2,Togo,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2029,1.2,Togo,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2030,1.2,Togo,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2031,1.2,Togo,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2032,1.2,Togo,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2023,3.13714,Togo,Africa,Threshing,Agricultural Production,Rice
+2024,3.13714,Togo,Africa,Threshing,Agricultural Production,Rice
+2025,3.13714,Togo,Africa,Threshing,Agricultural Production,Rice
+2026,3.13714,Togo,Africa,Threshing,Agricultural Production,Rice
+2027,3.13714,Togo,Africa,Threshing,Agricultural Production,Rice
+2028,3.13714,Togo,Africa,Threshing,Agricultural Production,Rice
+2029,3.13714,Togo,Africa,Threshing,Agricultural Production,Rice
+2030,3.13714,Togo,Africa,Threshing,Agricultural Production,Rice
+2031,3.13714,Togo,Africa,Threshing,Agricultural Production,Rice
+2032,3.13714,Togo,Africa,Threshing,Agricultural Production,Rice
+2023,1.25,Togo,Africa,Transportation,Distribution,Rice
+2024,1.25,Togo,Africa,Transportation,Distribution,Rice
+2025,1.25,Togo,Africa,Transportation,Distribution,Rice
+2026,1.25,Togo,Africa,Transportation,Distribution,Rice
+2027,1.25,Togo,Africa,Transportation,Distribution,Rice
+2028,1.25,Togo,Africa,Transportation,Distribution,Rice
+2029,1.25,Togo,Africa,Transportation,Distribution,Rice
+2030,1.25,Togo,Africa,Transportation,Distribution,Rice
+2031,1.25,Togo,Africa,Transportation,Distribution,Rice
+2032,1.25,Togo,Africa,Transportation,Distribution,Rice
+2023,2.5,Togo,Africa,Winnowing,Agricultural Production,Rice
+2024,2.5,Togo,Africa,Winnowing,Agricultural Production,Rice
+2025,2.5,Togo,Africa,Winnowing,Agricultural Production,Rice
+2026,2.5,Togo,Africa,Winnowing,Agricultural Production,Rice
+2027,2.5,Togo,Africa,Winnowing,Agricultural Production,Rice
+2028,2.5,Togo,Africa,Winnowing,Agricultural Production,Rice
+2029,2.5,Togo,Africa,Winnowing,Agricultural Production,Rice
+2030,2.5,Togo,Africa,Winnowing,Agricultural Production,Rice
+2031,2.5,Togo,Africa,Winnowing,Agricultural Production,Rice
+2032,2.5,Togo,Africa,Winnowing,Agricultural Production,Rice
+2023,4.40333002201801,Uganda,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2024,4.4033300095495544,Uganda,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2025,4.403330016610246,Uganda,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2026,4.403330012611886,Uganda,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2027,4.4033300148760945,Uganda,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2028,4.403330013593909,Uganda,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2029,4.403330014319991,Uganda,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2030,4.403330013908822,Uganda,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2031,4.403330014141661,Uganda,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2032,4.403330014009808,Uganda,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2023,4.40333002201801,Uganda,Africa,Harvesting,Agricultural Production,Rice
+2024,4.4033300095495544,Uganda,Africa,Harvesting,Agricultural Production,Rice
+2025,4.403330016610246,Uganda,Africa,Harvesting,Agricultural Production,Rice
+2026,4.403330012611886,Uganda,Africa,Harvesting,Agricultural Production,Rice
+2027,4.4033300148760945,Uganda,Africa,Harvesting,Agricultural Production,Rice
+2028,4.403330013593909,Uganda,Africa,Harvesting,Agricultural Production,Rice
+2029,4.403330014319991,Uganda,Africa,Harvesting,Agricultural Production,Rice
+2030,4.403330013908822,Uganda,Africa,Harvesting,Agricultural Production,Rice
+2031,4.403330014141661,Uganda,Africa,Harvesting,Agricultural Production,Rice
+2032,4.403330014009808,Uganda,Africa,Harvesting,Agricultural Production,Rice
+2023,3.13714,Uganda,Africa,Shelling,Agricultural Production,Rice
+2024,3.13714,Uganda,Africa,Shelling,Agricultural Production,Rice
+2025,3.13714,Uganda,Africa,Shelling,Agricultural Production,Rice
+2026,3.13714,Uganda,Africa,Shelling,Agricultural Production,Rice
+2027,3.13714,Uganda,Africa,Shelling,Agricultural Production,Rice
+2028,3.13714,Uganda,Africa,Shelling,Agricultural Production,Rice
+2029,3.13714,Uganda,Africa,Shelling,Agricultural Production,Rice
+2030,3.13714,Uganda,Africa,Shelling,Agricultural Production,Rice
+2031,3.13714,Uganda,Africa,Shelling,Agricultural Production,Rice
+2032,3.13714,Uganda,Africa,Shelling,Agricultural Production,Rice
+2023,2.448862916858167,Uganda,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2024,2.5416601210221073,Uganda,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2025,2.4988469263285573,Uganda,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2026,2.5185993494363657,Uganda,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2027,2.509486312639589,Uganda,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2028,2.5136907304574,Uganda,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2029,2.5117509677217797,Uganda,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2030,2.512645902438915,Uganda,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2031,2.51223301269048,Uganda,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2032,2.5124235047354286,Uganda,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2023,3.13714,Uganda,Africa,Threshing,Agricultural Production,Rice
+2024,3.13714,Uganda,Africa,Threshing,Agricultural Production,Rice
+2025,3.13714,Uganda,Africa,Threshing,Agricultural Production,Rice
+2026,3.13714,Uganda,Africa,Threshing,Agricultural Production,Rice
+2027,3.13714,Uganda,Africa,Threshing,Agricultural Production,Rice
+2028,3.13714,Uganda,Africa,Threshing,Agricultural Production,Rice
+2029,3.13714,Uganda,Africa,Threshing,Agricultural Production,Rice
+2030,3.13714,Uganda,Africa,Threshing,Agricultural Production,Rice
+2031,3.13714,Uganda,Africa,Threshing,Agricultural Production,Rice
+2032,3.13714,Uganda,Africa,Threshing,Agricultural Production,Rice
+2023,1.1749077164351316,Uganda,Africa,Transportation,Distribution,Rice
+2024,1.1081469286347523,Uganda,Africa,Transportation,Distribution,Rice
+2025,1.1336289535480455,Uganda,Africa,Transportation,Distribution,Rice
+2026,1.123902681359298,Uganda,Africa,Transportation,Distribution,Rice
+2027,1.1276151167333115,Uganda,Africa,Transportation,Distribution,Rice
+2028,1.1261981117247357,Uganda,Africa,Transportation,Distribution,Rice
+2029,1.126738970485102,Uganda,Africa,Transportation,Distribution,Rice
+2030,1.1265325292961899,Uganda,Africa,Transportation,Distribution,Rice
+2031,1.1266113261422475,Uganda,Africa,Transportation,Distribution,Rice
+2032,1.1265812500562622,Uganda,Africa,Transportation,Distribution,Rice
+2023,2.5,Uganda,Africa,Winnowing,Agricultural Production,Rice
+2024,2.5,Uganda,Africa,Winnowing,Agricultural Production,Rice
+2025,2.5,Uganda,Africa,Winnowing,Agricultural Production,Rice
+2026,2.5,Uganda,Africa,Winnowing,Agricultural Production,Rice
+2027,2.5,Uganda,Africa,Winnowing,Agricultural Production,Rice
+2028,2.5,Uganda,Africa,Winnowing,Agricultural Production,Rice
+2029,2.5,Uganda,Africa,Winnowing,Agricultural Production,Rice
+2030,2.5,Uganda,Africa,Winnowing,Agricultural Production,Rice
+2031,2.5,Uganda,Africa,Winnowing,Agricultural Production,Rice
+2032,2.5,Uganda,Africa,Winnowing,Agricultural Production,Rice
+2023,4.40333,United Republic of Tanzania,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2024,4.40333,United Republic of Tanzania,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2025,4.40333,United Republic of Tanzania,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2026,4.40333,United Republic of Tanzania,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2027,4.40333,United Republic of Tanzania,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2028,4.40333,United Republic of Tanzania,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2029,4.40333,United Republic of Tanzania,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2030,4.40333,United Republic of Tanzania,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2031,4.40333,United Republic of Tanzania,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2032,4.40333,United Republic of Tanzania,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2023,4.40333,United Republic of Tanzania,Africa,Harvesting,Agricultural Production,Rice
+2024,4.40333,United Republic of Tanzania,Africa,Harvesting,Agricultural Production,Rice
+2025,4.40333,United Republic of Tanzania,Africa,Harvesting,Agricultural Production,Rice
+2026,4.40333,United Republic of Tanzania,Africa,Harvesting,Agricultural Production,Rice
+2027,4.40333,United Republic of Tanzania,Africa,Harvesting,Agricultural Production,Rice
+2028,4.40333,United Republic of Tanzania,Africa,Harvesting,Agricultural Production,Rice
+2029,4.40333,United Republic of Tanzania,Africa,Harvesting,Agricultural Production,Rice
+2030,4.40333,United Republic of Tanzania,Africa,Harvesting,Agricultural Production,Rice
+2031,4.40333,United Republic of Tanzania,Africa,Harvesting,Agricultural Production,Rice
+2032,4.40333,United Republic of Tanzania,Africa,Harvesting,Agricultural Production,Rice
+2023,3.13714,United Republic of Tanzania,Africa,Shelling,Agricultural Production,Rice
+2024,3.13714,United Republic of Tanzania,Africa,Shelling,Agricultural Production,Rice
+2025,3.13714,United Republic of Tanzania,Africa,Shelling,Agricultural Production,Rice
+2026,3.13714,United Republic of Tanzania,Africa,Shelling,Agricultural Production,Rice
+2027,3.13714,United Republic of Tanzania,Africa,Shelling,Agricultural Production,Rice
+2028,3.13714,United Republic of Tanzania,Africa,Shelling,Agricultural Production,Rice
+2029,3.13714,United Republic of Tanzania,Africa,Shelling,Agricultural Production,Rice
+2030,3.13714,United Republic of Tanzania,Africa,Shelling,Agricultural Production,Rice
+2031,3.13714,United Republic of Tanzania,Africa,Shelling,Agricultural Production,Rice
+2032,3.13714,United Republic of Tanzania,Africa,Shelling,Agricultural Production,Rice
+2023,0.9729961817545494,United Republic of Tanzania,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2024,0.9729644907000994,United Republic of Tanzania,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2025,0.9729671964444412,United Republic of Tanzania,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2026,0.9729669654312241,United Republic of Tanzania,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2027,0.9729669851548564,United Republic of Tanzania,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2028,0.9729669834708762,United Republic of Tanzania,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2029,0.9729669836146524,United Republic of Tanzania,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2030,0.972966983602377,United Republic of Tanzania,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2031,0.972966983603425,United Republic of Tanzania,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2032,0.9729669836033356,United Republic of Tanzania,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2023,3.13714,United Republic of Tanzania,Africa,Threshing,Agricultural Production,Rice
+2024,3.13714,United Republic of Tanzania,Africa,Threshing,Agricultural Production,Rice
+2025,3.13714,United Republic of Tanzania,Africa,Threshing,Agricultural Production,Rice
+2026,3.13714,United Republic of Tanzania,Africa,Threshing,Agricultural Production,Rice
+2027,3.13714,United Republic of Tanzania,Africa,Threshing,Agricultural Production,Rice
+2028,3.13714,United Republic of Tanzania,Africa,Threshing,Agricultural Production,Rice
+2029,3.13714,United Republic of Tanzania,Africa,Threshing,Agricultural Production,Rice
+2030,3.13714,United Republic of Tanzania,Africa,Threshing,Agricultural Production,Rice
+2031,3.13714,United Republic of Tanzania,Africa,Threshing,Agricultural Production,Rice
+2032,3.13714,United Republic of Tanzania,Africa,Threshing,Agricultural Production,Rice
+2023,1.25,United Republic of Tanzania,Africa,Transportation,Distribution,Rice
+2024,1.25,United Republic of Tanzania,Africa,Transportation,Distribution,Rice
+2025,1.25,United Republic of Tanzania,Africa,Transportation,Distribution,Rice
+2026,1.25,United Republic of Tanzania,Africa,Transportation,Distribution,Rice
+2027,1.25,United Republic of Tanzania,Africa,Transportation,Distribution,Rice
+2028,1.25,United Republic of Tanzania,Africa,Transportation,Distribution,Rice
+2029,1.25,United Republic of Tanzania,Africa,Transportation,Distribution,Rice
+2030,1.25,United Republic of Tanzania,Africa,Transportation,Distribution,Rice
+2031,1.25,United Republic of Tanzania,Africa,Transportation,Distribution,Rice
+2032,1.25,United Republic of Tanzania,Africa,Transportation,Distribution,Rice
+2023,2.5,United Republic of Tanzania,Africa,Winnowing,Agricultural Production,Rice
+2024,2.5,United Republic of Tanzania,Africa,Winnowing,Agricultural Production,Rice
+2025,2.5,United Republic of Tanzania,Africa,Winnowing,Agricultural Production,Rice
+2026,2.5,United Republic of Tanzania,Africa,Winnowing,Agricultural Production,Rice
+2027,2.5,United Republic of Tanzania,Africa,Winnowing,Agricultural Production,Rice
+2028,2.5,United Republic of Tanzania,Africa,Winnowing,Agricultural Production,Rice
+2029,2.5,United Republic of Tanzania,Africa,Winnowing,Agricultural Production,Rice
+2030,2.5,United Republic of Tanzania,Africa,Winnowing,Agricultural Production,Rice
+2031,2.5,United Republic of Tanzania,Africa,Winnowing,Agricultural Production,Rice
+2032,2.5,United Republic of Tanzania,Africa,Winnowing,Agricultural Production,Rice
+2023,4.40333,Zambia,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2024,4.40333,Zambia,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2025,4.40333,Zambia,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2026,4.40333,Zambia,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2027,4.40333,Zambia,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2028,4.40333,Zambia,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2029,4.40333,Zambia,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2030,4.40333,Zambia,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2031,4.40333,Zambia,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2032,4.40333,Zambia,Africa,Drying,Post-Harvest Handling and Storage,Rice
+2023,4.40333,Zambia,Africa,Harvesting,Agricultural Production,Rice
+2024,4.40333,Zambia,Africa,Harvesting,Agricultural Production,Rice
+2025,4.40333,Zambia,Africa,Harvesting,Agricultural Production,Rice
+2026,4.40333,Zambia,Africa,Harvesting,Agricultural Production,Rice
+2027,4.40333,Zambia,Africa,Harvesting,Agricultural Production,Rice
+2028,4.40333,Zambia,Africa,Harvesting,Agricultural Production,Rice
+2029,4.40333,Zambia,Africa,Harvesting,Agricultural Production,Rice
+2030,4.40333,Zambia,Africa,Harvesting,Agricultural Production,Rice
+2031,4.40333,Zambia,Africa,Harvesting,Agricultural Production,Rice
+2032,4.40333,Zambia,Africa,Harvesting,Agricultural Production,Rice
+2023,3.13714,Zambia,Africa,Shelling,Agricultural Production,Rice
+2024,3.13714,Zambia,Africa,Shelling,Agricultural Production,Rice
+2025,3.13714,Zambia,Africa,Shelling,Agricultural Production,Rice
+2026,3.13714,Zambia,Africa,Shelling,Agricultural Production,Rice
+2027,3.13714,Zambia,Africa,Shelling,Agricultural Production,Rice
+2028,3.13714,Zambia,Africa,Shelling,Agricultural Production,Rice
+2029,3.13714,Zambia,Africa,Shelling,Agricultural Production,Rice
+2030,3.13714,Zambia,Africa,Shelling,Agricultural Production,Rice
+2031,3.13714,Zambia,Africa,Shelling,Agricultural Production,Rice
+2032,3.13714,Zambia,Africa,Shelling,Agricultural Production,Rice
+2023,0.9439724907385323,Zambia,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2024,2.1677941677235273,Zambia,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2025,1.2898836481524034,Zambia,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2026,1.9196542224671207,Zambia,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2027,1.4678872514249681,Zambia,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2028,1.7919630410038707,Zambia,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2029,1.5594867332540734,Zambia,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2030,1.7262540000567053,Zambia,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2031,1.6066232232863165,Zambia,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2032,1.6924405603757597,Zambia,Africa,Storage,Post-Harvest Handling and Storage,Rice
+2023,3.13714,Zambia,Africa,Threshing,Agricultural Production,Rice
+2024,3.13714,Zambia,Africa,Threshing,Agricultural Production,Rice
+2025,3.13714,Zambia,Africa,Threshing,Agricultural Production,Rice
+2026,3.13714,Zambia,Africa,Threshing,Agricultural Production,Rice
+2027,3.13714,Zambia,Africa,Threshing,Agricultural Production,Rice
+2028,3.13714,Zambia,Africa,Threshing,Agricultural Production,Rice
+2029,3.13714,Zambia,Africa,Threshing,Agricultural Production,Rice
+2030,3.13714,Zambia,Africa,Threshing,Agricultural Production,Rice
+2031,3.13714,Zambia,Africa,Threshing,Agricultural Production,Rice
+2032,3.13714,Zambia,Africa,Threshing,Agricultural Production,Rice
+2023,1.1903528521558435,Zambia,Africa,Transportation,Distribution,Rice
+2024,1.0908349821683938,Zambia,Africa,Transportation,Distribution,Rice
+2025,1.1428636559427725,Zambia,Africa,Transportation,Distribution,Rice
+2026,1.1156626829410181,Zambia,Africa,Transportation,Distribution,Rice
+2027,1.129883551523037,Zambia,Africa,Transportation,Distribution,Rice
+2028,1.1224487769208928,Zambia,Africa,Transportation,Distribution,Rice
+2029,1.1263357317201643,Zambia,Africa,Transportation,Distribution,Rice
+2030,1.1243036031863387,Zambia,Africa,Transportation,Distribution,Rice
+2031,1.1253660149176927,Zambia,Africa,Transportation,Distribution,Rice
+2032,1.124810578257004,Zambia,Africa,Transportation,Distribution,Rice
+2023,2.5,Zambia,Africa,Winnowing,Agricultural Production,Rice
+2024,2.5,Zambia,Africa,Winnowing,Agricultural Production,Rice
+2025,2.5,Zambia,Africa,Winnowing,Agricultural Production,Rice
+2026,2.5,Zambia,Africa,Winnowing,Agricultural Production,Rice
+2027,2.5,Zambia,Africa,Winnowing,Agricultural Production,Rice
+2028,2.5,Zambia,Africa,Winnowing,Agricultural Production,Rice
+2029,2.5,Zambia,Africa,Winnowing,Agricultural Production,Rice
+2030,2.5,Zambia,Africa,Winnowing,Agricultural Production,Rice
+2031,2.5,Zambia,Africa,Winnowing,Agricultural Production,Rice
+2032,2.5,Zambia,Africa,Winnowing,Agricultural Production,Rice

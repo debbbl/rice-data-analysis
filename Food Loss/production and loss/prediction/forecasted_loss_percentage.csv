@@ -1,0 +1,4786 @@
+Year,Loss Percentage,Area
+2024,7.04,Afghanistan
+2025,7.04,Afghanistan
+2026,7.04,Afghanistan
+2027,7.04,Afghanistan
+2028,7.04,Afghanistan
+2029,7.04,Afghanistan
+2030,7.04,Afghanistan
+2031,7.04,Afghanistan
+2032,7.04,Afghanistan
+2033,7.04,Afghanistan
+2034,7.04,Afghanistan
+2024,7.49,Africa
+2025,7.47,Africa
+2026,7.47,Africa
+2027,7.47,Africa
+2028,7.47,Africa
+2029,7.47,Africa
+2030,7.47,Africa
+2031,7.47,Africa
+2032,7.47,Africa
+2033,7.47,Africa
+2034,7.47,Africa
+2024,5.33,Americas
+2025,5.31,Americas
+2026,5.33,Americas
+2027,5.32,Americas
+2028,5.33,Americas
+2029,5.32,Americas
+2030,5.33,Americas
+2031,5.32,Americas
+2032,5.32,Americas
+2033,5.32,Americas
+2034,5.32,Americas
+2024,-0.25,Angola
+2025,-0.5,Angola
+2026,-0.75,Angola
+2027,-1.0,Angola
+2028,-1.25,Angola
+2029,-1.5,Angola
+2030,-1.74,Angola
+2031,-1.99,Angola
+2032,-2.24,Angola
+2033,-2.49,Angola
+2034,-2.74,Angola
+2024,3.98,Argentina
+2025,3.96,Argentina
+2026,3.95,Argentina
+2027,3.94,Argentina
+2028,3.93,Argentina
+2029,3.92,Argentina
+2030,3.91,Argentina
+2031,3.91,Argentina
+2032,3.9,Argentina
+2033,3.9,Argentina
+2034,3.9,Argentina
+2024,3.96,Asia
+2025,3.96,Asia
+2026,3.96,Asia
+2027,3.96,Asia
+2028,3.96,Asia
+2029,3.96,Asia
+2030,3.96,Asia
+2031,3.96,Asia
+2032,3.96,Asia
+2033,3.96,Asia
+2034,3.96,Asia
+2024,1.81,Australia
+2025,1.84,Australia
+2026,1.83,Australia
+2027,1.83,Australia
+2028,1.83,Australia
+2029,1.83,Australia
+2030,1.83,Australia
+2031,1.83,Australia
+2032,1.83,Australia
+2033,1.83,Australia
+2034,1.83,Australia
+2024,1.81,Australia and New Zealand
+2025,1.84,Australia and New Zealand
+2026,1.83,Australia and New Zealand
+2027,1.83,Australia and New Zealand
+2028,1.83,Australia and New Zealand
+2029,1.83,Australia and New Zealand
+2030,1.83,Australia and New Zealand
+2031,1.83,Australia and New Zealand
+2032,1.83,Australia and New Zealand
+2033,1.83,Australia and New Zealand
+2034,1.83,Australia and New Zealand
+2024,8.73,Azerbaijan
+2025,11.11,Azerbaijan
+2026,8.73,Azerbaijan
+2027,11.11,Azerbaijan
+2028,8.73,Azerbaijan
+2029,11.11,Azerbaijan
+2030,8.73,Azerbaijan
+2031,11.11,Azerbaijan
+2032,8.73,Azerbaijan
+2033,11.11,Azerbaijan
+2034,8.73,Azerbaijan
+2024,3.98,Bangladesh
+2025,3.98,Bangladesh
+2026,3.98,Bangladesh
+2027,3.98,Bangladesh
+2028,3.98,Bangladesh
+2029,3.98,Bangladesh
+2030,3.98,Bangladesh
+2031,3.98,Bangladesh
+2032,3.98,Bangladesh
+2033,3.98,Bangladesh
+2034,3.98,Bangladesh
+2024,6.63,Belize
+2025,6.74,Belize
+2026,6.72,Belize
+2027,6.72,Belize
+2028,6.72,Belize
+2029,6.72,Belize
+2030,6.72,Belize
+2031,6.72,Belize
+2032,6.72,Belize
+2033,6.72,Belize
+2034,6.72,Belize
+2024,25.28,Benin
+2025,25.3,Benin
+2026,25.31,Benin
+2027,25.31,Benin
+2028,25.31,Benin
+2029,25.31,Benin
+2030,25.31,Benin
+2031,25.31,Benin
+2032,25.31,Benin
+2033,25.31,Benin
+2034,25.31,Benin
+2024,7.04,Afghanistan
+2025,7.04,Afghanistan
+2026,7.04,Afghanistan
+2027,7.04,Afghanistan
+2028,7.04,Afghanistan
+2029,7.04,Afghanistan
+2030,7.04,Afghanistan
+2031,7.04,Afghanistan
+2032,7.04,Afghanistan
+2033,7.04,Afghanistan
+2034,7.04,Afghanistan
+2024,7.49,Africa
+2025,7.47,Africa
+2026,7.47,Africa
+2027,7.47,Africa
+2028,7.47,Africa
+2029,7.47,Africa
+2030,7.47,Africa
+2031,7.47,Africa
+2032,7.47,Africa
+2033,7.47,Africa
+2034,7.47,Africa
+2024,5.33,Americas
+2025,5.31,Americas
+2026,5.33,Americas
+2027,5.32,Americas
+2028,5.33,Americas
+2029,5.32,Americas
+2030,5.33,Americas
+2031,5.32,Americas
+2032,5.32,Americas
+2033,5.32,Americas
+2034,5.32,Americas
+2024,-0.25,Angola
+2025,-0.5,Angola
+2026,-0.75,Angola
+2027,-1.0,Angola
+2028,-1.25,Angola
+2029,-1.5,Angola
+2030,-1.74,Angola
+2031,-1.99,Angola
+2032,-2.24,Angola
+2033,-2.49,Angola
+2034,-2.74,Angola
+2024,3.98,Argentina
+2025,3.96,Argentina
+2026,3.95,Argentina
+2027,3.94,Argentina
+2028,3.93,Argentina
+2029,3.92,Argentina
+2030,3.91,Argentina
+2031,3.91,Argentina
+2032,3.9,Argentina
+2033,3.9,Argentina
+2034,3.9,Argentina
+2024,3.96,Asia
+2025,3.96,Asia
+2026,3.96,Asia
+2027,3.96,Asia
+2028,3.96,Asia
+2029,3.96,Asia
+2030,3.96,Asia
+2031,3.96,Asia
+2032,3.96,Asia
+2033,3.96,Asia
+2034,3.96,Asia
+2024,1.81,Australia
+2025,1.84,Australia
+2026,1.83,Australia
+2027,1.83,Australia
+2028,1.83,Australia
+2029,1.83,Australia
+2030,1.83,Australia
+2031,1.83,Australia
+2032,1.83,Australia
+2033,1.83,Australia
+2034,1.83,Australia
+2024,1.81,Australia and New Zealand
+2025,1.84,Australia and New Zealand
+2026,1.83,Australia and New Zealand
+2027,1.83,Australia and New Zealand
+2028,1.83,Australia and New Zealand
+2029,1.83,Australia and New Zealand
+2030,1.83,Australia and New Zealand
+2031,1.83,Australia and New Zealand
+2032,1.83,Australia and New Zealand
+2033,1.83,Australia and New Zealand
+2034,1.83,Australia and New Zealand
+2024,8.73,Azerbaijan
+2025,11.11,Azerbaijan
+2026,8.73,Azerbaijan
+2027,11.11,Azerbaijan
+2028,8.73,Azerbaijan
+2029,11.11,Azerbaijan
+2030,8.73,Azerbaijan
+2031,11.11,Azerbaijan
+2032,8.73,Azerbaijan
+2033,11.11,Azerbaijan
+2034,8.73,Azerbaijan
+2024,3.98,Bangladesh
+2025,3.98,Bangladesh
+2026,3.98,Bangladesh
+2027,3.98,Bangladesh
+2028,3.98,Bangladesh
+2029,3.98,Bangladesh
+2030,3.98,Bangladesh
+2031,3.98,Bangladesh
+2032,3.98,Bangladesh
+2033,3.98,Bangladesh
+2034,3.98,Bangladesh
+2024,6.63,Belize
+2025,6.74,Belize
+2026,6.72,Belize
+2027,6.72,Belize
+2028,6.72,Belize
+2029,6.72,Belize
+2030,6.72,Belize
+2031,6.72,Belize
+2032,6.72,Belize
+2033,6.72,Belize
+2034,6.72,Belize
+2024,25.28,Benin
+2025,25.3,Benin
+2026,25.31,Benin
+2027,25.31,Benin
+2028,25.31,Benin
+2029,25.31,Benin
+2030,25.31,Benin
+2031,25.31,Benin
+2032,25.31,Benin
+2033,25.31,Benin
+2034,25.31,Benin
+2024,2.03,Bolivia (Plurinational State of)
+2025,2.04,Bolivia (Plurinational State of)
+2026,2.03,Bolivia (Plurinational State of)
+2027,2.04,Bolivia (Plurinational State of)
+2028,2.04,Bolivia (Plurinational State of)
+2029,2.04,Bolivia (Plurinational State of)
+2030,2.04,Bolivia (Plurinational State of)
+2031,2.04,Bolivia (Plurinational State of)
+2032,2.04,Bolivia (Plurinational State of)
+2033,2.04,Bolivia (Plurinational State of)
+2034,2.04,Bolivia (Plurinational State of)
+2024,10.23,Brazil
+2025,10.22,Brazil
+2026,10.23,Brazil
+2027,10.23,Brazil
+2028,10.23,Brazil
+2029,10.23,Brazil
+2030,10.23,Brazil
+2031,10.23,Brazil
+2032,10.23,Brazil
+2033,10.23,Brazil
+2034,10.23,Brazil
+2024,4.55,Bulgaria
+2025,4.55,Bulgaria
+2026,4.55,Bulgaria
+2027,4.55,Bulgaria
+2028,4.55,Bulgaria
+2029,4.55,Bulgaria
+2030,4.55,Bulgaria
+2031,4.55,Bulgaria
+2032,4.55,Bulgaria
+2033,4.55,Bulgaria
+2034,4.55,Bulgaria
+2024,1.86,Burkina Faso
+2025,1.82,Burkina Faso
+2026,1.84,Burkina Faso
+2027,1.83,Burkina Faso
+2028,1.84,Burkina Faso
+2029,1.83,Burkina Faso
+2030,1.83,Burkina Faso
+2031,1.83,Burkina Faso
+2032,1.83,Burkina Faso
+2033,1.83,Burkina Faso
+2034,1.83,Burkina Faso
+2024,4.06,Burundi
+2025,4.09,Burundi
+2026,4.11,Burundi
+2027,4.12,Burundi
+2028,4.12,Burundi
+2029,4.12,Burundi
+2030,4.13,Burundi
+2031,4.13,Burundi
+2032,4.13,Burundi
+2033,4.13,Burundi
+2034,4.13,Burundi
+2024,5.0,Cambodia
+2025,5.0,Cambodia
+2026,5.0,Cambodia
+2027,5.0,Cambodia
+2028,5.0,Cambodia
+2029,5.0,Cambodia
+2030,5.0,Cambodia
+2031,5.0,Cambodia
+2032,5.0,Cambodia
+2033,5.0,Cambodia
+2034,5.0,Cambodia
+2024,3.9,Cameroon
+2025,3.93,Cameroon
+2026,3.91,Cameroon
+2027,3.92,Cameroon
+2028,3.92,Cameroon
+2029,3.92,Cameroon
+2030,3.92,Cameroon
+2031,3.92,Cameroon
+2032,3.92,Cameroon
+2033,3.92,Cameroon
+2034,3.92,Cameroon
+2024,3.51,Caribbean
+2025,3.53,Caribbean
+2026,3.52,Caribbean
+2027,3.53,Caribbean
+2028,3.52,Caribbean
+2029,3.53,Caribbean
+2030,3.53,Caribbean
+2031,3.53,Caribbean
+2032,3.53,Caribbean
+2033,3.53,Caribbean
+2034,3.53,Caribbean
+2024,0.02,Central African Republic
+2025,0.01,Central African Republic
+2026,0.01,Central African Republic
+2027,0.01,Central African Republic
+2028,0.01,Central African Republic
+2029,0.01,Central African Republic
+2030,0.01,Central African Republic
+2031,0.01,Central African Republic
+2032,0.01,Central African Republic
+2033,0.01,Central African Republic
+2034,0.01,Central African Republic
+2024,4.88,Central America
+2025,4.89,Central America
+2026,4.89,Central America
+2027,4.89,Central America
+2028,4.89,Central America
+2029,4.89,Central America
+2030,4.89,Central America
+2031,4.89,Central America
+2032,4.89,Central America
+2033,4.89,Central America
+2034,4.89,Central America
+2024,6.79,Central Asia
+2025,6.77,Central Asia
+2026,6.76,Central Asia
+2027,6.75,Central Asia
+2028,6.75,Central Asia
+2029,6.74,Central Asia
+2030,6.74,Central Asia
+2031,6.73,Central Asia
+2032,6.73,Central Asia
+2033,6.73,Central Asia
+2034,6.73,Central Asia
+2024,12.99,Chad
+2025,12.98,Chad
+2026,12.98,Chad
+2027,12.98,Chad
+2028,12.98,Chad
+2029,12.98,Chad
+2030,12.98,Chad
+2031,12.98,Chad
+2032,12.98,Chad
+2033,12.98,Chad
+2034,12.98,Chad
+2024,1.17,Chile
+2025,1.17,Chile
+2026,1.17,Chile
+2027,1.17,Chile
+2028,1.17,Chile
+2029,1.17,Chile
+2030,1.17,Chile
+2031,1.17,Chile
+2032,1.17,Chile
+2033,1.17,Chile
+2034,1.17,Chile
+2024,3.95,China
+2025,3.95,China
+2026,3.95,China
+2027,3.95,China
+2028,3.95,China
+2029,3.95,China
+2030,3.95,China
+2031,3.95,China
+2032,3.95,China
+2033,3.95,China
+2034,3.95,China
+2024,0.92,"China, Taiwan Province of"
+2025,0.92,"China, Taiwan Province of"
+2026,0.92,"China, Taiwan Province of"
+2027,0.92,"China, Taiwan Province of"
+2028,0.92,"China, Taiwan Province of"
+2029,0.92,"China, Taiwan Province of"
+2030,0.92,"China, Taiwan Province of"
+2031,0.92,"China, Taiwan Province of"
+2032,0.92,"China, Taiwan Province of"
+2033,0.92,"China, Taiwan Province of"
+2034,0.92,"China, Taiwan Province of"
+2024,3.98,"China, mainland"
+2025,3.98,"China, mainland"
+2026,3.98,"China, mainland"
+2027,3.98,"China, mainland"
+2028,3.98,"China, mainland"
+2029,3.98,"China, mainland"
+2030,3.98,"China, mainland"
+2031,3.98,"China, mainland"
+2032,3.98,"China, mainland"
+2033,3.98,"China, mainland"
+2034,3.98,"China, mainland"
+2024,1.04,Colombia
+2025,1.04,Colombia
+2026,1.04,Colombia
+2027,1.04,Colombia
+2028,1.04,Colombia
+2029,1.04,Colombia
+2030,1.04,Colombia
+2031,1.04,Colombia
+2032,1.04,Colombia
+2033,1.04,Colombia
+2034,1.04,Colombia
+2024,3.22,Comoros
+2025,3.22,Comoros
+2026,3.22,Comoros
+2027,3.21,Comoros
+2028,3.21,Comoros
+2029,3.21,Comoros
+2030,3.2,Comoros
+2031,3.2,Comoros
+2032,3.2,Comoros
+2033,3.2,Comoros
+2034,3.2,Comoros
+2024,9.29,Congo
+2025,9.11,Congo
+2026,9.12,Congo
+2027,9.12,Congo
+2028,9.12,Congo
+2029,9.12,Congo
+2030,9.12,Congo
+2031,9.12,Congo
+2032,9.12,Congo
+2033,9.12,Congo
+2034,9.12,Congo
+2024,6.02,Costa Rica
+2025,6.09,Costa Rica
+2026,6.11,Costa Rica
+2027,6.12,Costa Rica
+2028,6.12,Costa Rica
+2029,6.12,Costa Rica
+2030,6.12,Costa Rica
+2031,6.12,Costa Rica
+2032,6.12,Costa Rica
+2033,6.12,Costa Rica
+2034,6.12,Costa Rica
+2024,5.09,Cuba
+2025,4.94,Cuba
+2026,5.04,Cuba
+2027,4.97,Cuba
+2028,5.02,Cuba
+2029,4.99,Cuba
+2030,5.01,Cuba
+2031,4.99,Cuba
+2032,5.01,Cuba
+2033,5.0,Cuba
+2034,5.0,Cuba
+2024,13.98,Côte d'Ivoire
+2025,13.98,Côte d'Ivoire
+2026,13.98,Côte d'Ivoire
+2027,13.98,Côte d'Ivoire
+2028,13.98,Côte d'Ivoire
+2029,13.98,Côte d'Ivoire
+2030,13.98,Côte d'Ivoire
+2031,13.98,Côte d'Ivoire
+2032,13.98,Côte d'Ivoire
+2033,13.98,Côte d'Ivoire
+2034,13.98,Côte d'Ivoire
+2024,1.89,Democratic People's Republic of Korea
+2025,1.89,Democratic People's Republic of Korea
+2026,1.89,Democratic People's Republic of Korea
+2027,1.89,Democratic People's Republic of Korea
+2028,1.89,Democratic People's Republic of Korea
+2029,1.89,Democratic People's Republic of Korea
+2030,1.89,Democratic People's Republic of Korea
+2031,1.89,Democratic People's Republic of Korea
+2032,1.89,Democratic People's Republic of Korea
+2033,1.89,Democratic People's Republic of Korea
+2034,1.89,Democratic People's Republic of Korea
+2024,7.01,Democratic Republic of the Congo
+2025,7.02,Democratic Republic of the Congo
+2026,7.01,Democratic Republic of the Congo
+2027,7.02,Democratic Republic of the Congo
+2028,7.02,Democratic Republic of the Congo
+2029,7.02,Democratic Republic of the Congo
+2030,7.02,Democratic Republic of the Congo
+2031,7.02,Democratic Republic of the Congo
+2032,7.02,Democratic Republic of the Congo
+2033,7.02,Democratic Republic of the Congo
+2034,7.02,Democratic Republic of the Congo
+2024,3.05,Dominican Republic
+2025,3.08,Dominican Republic
+2026,3.05,Dominican Republic
+2027,3.07,Dominican Republic
+2028,3.05,Dominican Republic
+2029,3.07,Dominican Republic
+2030,3.06,Dominican Republic
+2031,3.07,Dominican Republic
+2032,3.06,Dominican Republic
+2033,3.07,Dominican Republic
+2034,3.06,Dominican Republic
+2024,5.51,Eastern Africa
+2025,5.44,Eastern Africa
+2026,5.47,Eastern Africa
+2027,5.46,Eastern Africa
+2028,5.46,Eastern Africa
+2029,5.46,Eastern Africa
+2030,5.46,Eastern Africa
+2031,5.46,Eastern Africa
+2032,5.46,Eastern Africa
+2033,5.46,Eastern Africa
+2034,5.46,Eastern Africa
+2024,3.82,Eastern Asia
+2025,3.83,Eastern Asia
+2026,3.82,Eastern Asia
+2027,3.82,Eastern Asia
+2028,3.82,Eastern Asia
+2029,3.82,Eastern Asia
+2030,3.82,Eastern Asia
+2031,3.82,Eastern Asia
+2032,3.82,Eastern Asia
+2033,3.82,Eastern Asia
+2034,3.82,Eastern Asia
+2024,2.11,Eastern Europe
+2025,2.13,Eastern Europe
+2026,2.12,Eastern Europe
+2027,2.12,Eastern Europe
+2028,2.12,Eastern Europe
+2029,2.12,Eastern Europe
+2030,2.12,Eastern Europe
+2031,2.12,Eastern Europe
+2032,2.12,Eastern Europe
+2033,2.12,Eastern Europe
+2034,2.12,Eastern Europe
+2024,4.35,Ecuador
+2025,4.35,Ecuador
+2026,4.35,Ecuador
+2027,4.35,Ecuador
+2028,4.35,Ecuador
+2029,4.35,Ecuador
+2030,4.35,Ecuador
+2031,4.35,Ecuador
+2032,4.35,Ecuador
+2033,4.35,Ecuador
+2034,4.35,Ecuador
+2024,4.16,Egypt
+2025,4.18,Egypt
+2026,4.19,Egypt
+2027,4.19,Egypt
+2028,4.19,Egypt
+2029,4.19,Egypt
+2030,4.19,Egypt
+2031,4.19,Egypt
+2032,4.19,Egypt
+2033,4.19,Egypt
+2034,4.19,Egypt
+2024,3.74,El Salvador
+2025,3.75,El Salvador
+2026,3.76,El Salvador
+2027,3.76,El Salvador
+2028,3.76,El Salvador
+2029,3.76,El Salvador
+2030,3.76,El Salvador
+2031,3.76,El Salvador
+2032,3.76,El Salvador
+2033,3.76,El Salvador
+2034,3.76,El Salvador
+2024,0.0,Eswatini
+2025,0.0,Eswatini
+2026,0.0,Eswatini
+2027,0.0,Eswatini
+2028,0.0,Eswatini
+2029,0.0,Eswatini
+2030,0.0,Eswatini
+2031,0.0,Eswatini
+2032,0.0,Eswatini
+2033,0.0,Eswatini
+2034,0.0,Eswatini
+2024,4.13,Ethiopia
+2025,4.19,Ethiopia
+2026,4.14,Ethiopia
+2027,4.18,Ethiopia
+2028,4.15,Ethiopia
+2029,4.17,Ethiopia
+2030,4.16,Ethiopia
+2031,4.17,Ethiopia
+2032,4.16,Ethiopia
+2033,4.17,Ethiopia
+2034,4.16,Ethiopia
+2024,2.56,Europe
+2025,2.56,Europe
+2026,2.56,Europe
+2027,2.56,Europe
+2028,2.56,Europe
+2029,2.56,Europe
+2030,2.56,Europe
+2031,2.56,Europe
+2032,2.56,Europe
+2033,2.56,Europe
+2034,2.56,Europe
+2024,2.81,European Union (27)
+2025,2.85,European Union (27)
+2026,2.81,European Union (27)
+2027,2.85,European Union (27)
+2028,2.81,European Union (27)
+2029,2.85,European Union (27)
+2030,2.81,European Union (27)
+2031,2.85,European Union (27)
+2032,2.81,European Union (27)
+2033,2.85,European Union (27)
+2034,2.81,European Union (27)
+2024,12.94,Fiji
+2025,12.88,Fiji
+2026,12.89,Fiji
+2027,12.89,Fiji
+2028,12.89,Fiji
+2029,12.89,Fiji
+2030,12.89,Fiji
+2031,12.89,Fiji
+2032,12.89,Fiji
+2033,12.89,Fiji
+2034,12.89,Fiji
+2024,1.39,France
+2025,1.38,France
+2026,1.38,France
+2027,1.38,France
+2028,1.38,France
+2029,1.38,France
+2030,1.38,France
+2031,1.38,France
+2032,1.38,France
+2033,1.38,France
+2034,1.38,France
+2024,0.0,Gabon
+2025,0.0,Gabon
+2026,0.0,Gabon
+2027,0.0,Gabon
+2028,0.0,Gabon
+2029,0.0,Gabon
+2030,0.0,Gabon
+2031,0.0,Gabon
+2032,0.0,Gabon
+2033,0.0,Gabon
+2034,0.0,Gabon
+2024,3.95,Gambia
+2025,4.16,Gambia
+2026,4.26,Gambia
+2027,4.32,Gambia
+2028,4.35,Gambia
+2029,4.37,Gambia
+2030,4.38,Gambia
+2031,4.38,Gambia
+2032,4.38,Gambia
+2033,4.38,Gambia
+2034,4.38,Gambia
+2024,15.01,Ghana
+2025,15.01,Ghana
+2026,15.01,Ghana
+2027,15.01,Ghana
+2028,15.01,Ghana
+2029,15.01,Ghana
+2030,15.01,Ghana
+2031,15.01,Ghana
+2032,15.01,Ghana
+2033,15.01,Ghana
+2034,15.01,Ghana
+2024,3.7,Greece
+2025,3.77,Greece
+2026,3.73,Greece
+2027,3.75,Greece
+2028,3.74,Greece
+2029,3.74,Greece
+2030,3.74,Greece
+2031,3.74,Greece
+2032,3.74,Greece
+2033,3.74,Greece
+2034,3.74,Greece
+2024,4.39,Guatemala
+2025,4.2,Guatemala
+2026,4.37,Guatemala
+2027,4.22,Guatemala
+2028,4.35,Guatemala
+2029,4.23,Guatemala
+2030,4.34,Guatemala
+2031,4.25,Guatemala
+2032,4.33,Guatemala
+2033,4.26,Guatemala
+2034,4.32,Guatemala
+2024,20.01,Guinea
+2025,20.01,Guinea
+2026,20.01,Guinea
+2027,20.01,Guinea
+2028,20.01,Guinea
+2029,20.01,Guinea
+2030,20.01,Guinea
+2031,20.01,Guinea
+2032,20.01,Guinea
+2033,20.01,Guinea
+2034,20.01,Guinea
+2024,3.82,Guinea-Bissau
+2025,3.93,Guinea-Bissau
+2026,3.87,Guinea-Bissau
+2027,3.9,Guinea-Bissau
+2028,3.89,Guinea-Bissau
+2029,3.9,Guinea-Bissau
+2030,3.89,Guinea-Bissau
+2031,3.89,Guinea-Bissau
+2032,3.89,Guinea-Bissau
+2033,3.89,Guinea-Bissau
+2034,3.89,Guinea-Bissau
+2024,4.25,Guyana
+2025,4.23,Guyana
+2026,4.24,Guyana
+2027,4.24,Guyana
+2028,4.24,Guyana
+2029,4.24,Guyana
+2030,4.24,Guyana
+2031,4.24,Guyana
+2032,4.24,Guyana
+2033,4.24,Guyana
+2034,4.24,Guyana
+2024,3.96,Haiti
+2025,3.94,Haiti
+2026,3.94,Haiti
+2027,3.94,Haiti
+2028,3.94,Haiti
+2029,3.94,Haiti
+2030,3.94,Haiti
+2031,3.94,Haiti
+2032,3.94,Haiti
+2033,3.94,Haiti
+2034,3.94,Haiti
+2024,4.27,Honduras
+2025,4.23,Honduras
+2026,4.22,Honduras
+2027,4.22,Honduras
+2028,4.22,Honduras
+2029,4.22,Honduras
+2030,4.22,Honduras
+2031,4.22,Honduras
+2032,4.22,Honduras
+2033,4.22,Honduras
+2034,4.22,Honduras
+2024,0.0,Hungary
+2025,0.0,Hungary
+2026,0.0,Hungary
+2027,0.0,Hungary
+2028,0.0,Hungary
+2029,0.0,Hungary
+2030,0.0,Hungary
+2031,0.0,Hungary
+2032,0.0,Hungary
+2033,0.0,Hungary
+2034,0.0,Hungary
+2024,2.76,India
+2025,2.82,India
+2026,2.86,India
+2027,2.89,India
+2028,2.92,India
+2029,2.94,India
+2030,2.95,India
+2031,2.96,India
+2032,2.97,India
+2033,2.97,India
+2034,2.98,India
+2024,4.95,Indonesia
+2025,4.97,Indonesia
+2026,4.98,Indonesia
+2027,4.98,Indonesia
+2028,4.98,Indonesia
+2029,4.98,Indonesia
+2030,4.98,Indonesia
+2031,4.98,Indonesia
+2032,4.98,Indonesia
+2033,4.98,Indonesia
+2034,4.98,Indonesia
+2024,4.02,Iran (Islamic Republic of)
+2025,4.02,Iran (Islamic Republic of)
+2026,4.02,Iran (Islamic Republic of)
+2027,4.03,Iran (Islamic Republic of)
+2028,4.03,Iran (Islamic Republic of)
+2029,4.03,Iran (Islamic Republic of)
+2030,4.03,Iran (Islamic Republic of)
+2031,4.03,Iran (Islamic Republic of)
+2032,4.03,Iran (Islamic Republic of)
+2033,4.03,Iran (Islamic Republic of)
+2034,4.03,Iran (Islamic Republic of)
+2024,4.11,Iraq
+2025,4.11,Iraq
+2026,4.11,Iraq
+2027,4.11,Iraq
+2028,4.11,Iraq
+2029,4.11,Iraq
+2030,4.11,Iraq
+2031,4.11,Iraq
+2032,4.11,Iraq
+2033,4.11,Iraq
+2034,4.11,Iraq
+2024,2.19,Italy
+2025,2.19,Italy
+2026,2.19,Italy
+2027,2.19,Italy
+2028,2.19,Italy
+2029,2.19,Italy
+2030,2.19,Italy
+2031,2.19,Italy
+2032,2.19,Italy
+2033,2.19,Italy
+2034,2.19,Italy
+2024,1.52,Japan
+2025,1.48,Japan
+2026,1.52,Japan
+2027,1.49,Japan
+2028,1.52,Japan
+2029,1.49,Japan
+2030,1.51,Japan
+2031,1.49,Japan
+2032,1.51,Japan
+2033,1.49,Japan
+2034,1.51,Japan
+2024,9.8,Kazakhstan
+2025,9.76,Kazakhstan
+2026,9.78,Kazakhstan
+2027,9.77,Kazakhstan
+2028,9.77,Kazakhstan
+2029,9.77,Kazakhstan
+2030,9.77,Kazakhstan
+2031,9.77,Kazakhstan
+2032,9.77,Kazakhstan
+2033,9.77,Kazakhstan
+2034,9.77,Kazakhstan
+2024,1.93,Kenya
+2025,2.01,Kenya
+2026,1.99,Kenya
+2027,1.99,Kenya
+2028,1.99,Kenya
+2029,1.99,Kenya
+2030,1.99,Kenya
+2031,1.99,Kenya
+2032,1.99,Kenya
+2033,1.99,Kenya
+2034,1.99,Kenya
+2024,4.46,Kyrgyzstan
+2025,4.41,Kyrgyzstan
+2026,4.39,Kyrgyzstan
+2027,4.38,Kyrgyzstan
+2028,4.37,Kyrgyzstan
+2029,4.37,Kyrgyzstan
+2030,4.37,Kyrgyzstan
+2031,4.36,Kyrgyzstan
+2032,4.36,Kyrgyzstan
+2033,4.36,Kyrgyzstan
+2034,4.36,Kyrgyzstan
+2024,6.79,Land Locked Developing Countries
+2025,6.78,Land Locked Developing Countries
+2026,6.77,Land Locked Developing Countries
+2027,6.77,Land Locked Developing Countries
+2028,6.77,Land Locked Developing Countries
+2029,6.77,Land Locked Developing Countries
+2030,6.77,Land Locked Developing Countries
+2031,6.77,Land Locked Developing Countries
+2032,6.77,Land Locked Developing Countries
+2033,6.77,Land Locked Developing Countries
+2034,6.77,Land Locked Developing Countries
+2024,3.99,Lao People's Democratic Republic
+2025,3.99,Lao People's Democratic Republic
+2026,3.99,Lao People's Democratic Republic
+2027,3.99,Lao People's Democratic Republic
+2028,3.99,Lao People's Democratic Republic
+2029,3.99,Lao People's Democratic Republic
+2030,3.99,Lao People's Democratic Republic
+2031,3.99,Lao People's Democratic Republic
+2032,3.99,Lao People's Democratic Republic
+2033,3.99,Lao People's Democratic Republic
+2034,3.99,Lao People's Democratic Republic
+2024,5.08,Least Developed Countries
+2025,5.08,Least Developed Countries
+2026,5.08,Least Developed Countries
+2027,5.08,Least Developed Countries
+2028,5.08,Least Developed Countries
+2029,5.08,Least Developed Countries
+2030,5.08,Least Developed Countries
+2031,5.08,Least Developed Countries
+2032,5.08,Least Developed Countries
+2033,5.08,Least Developed Countries
+2034,5.08,Least Developed Countries
+2024,9.64,Liberia
+2025,9.63,Liberia
+2026,9.64,Liberia
+2027,9.63,Liberia
+2028,9.64,Liberia
+2029,9.63,Liberia
+2030,9.64,Liberia
+2031,9.63,Liberia
+2032,9.64,Liberia
+2033,9.63,Liberia
+2034,9.64,Liberia
+2024,4.43,Low Income Food Deficit Countries
+2025,4.45,Low Income Food Deficit Countries
+2026,4.48,Low Income Food Deficit Countries
+2027,4.5,Low Income Food Deficit Countries
+2028,4.51,Low Income Food Deficit Countries
+2029,4.53,Low Income Food Deficit Countries
+2030,4.54,Low Income Food Deficit Countries
+2031,4.55,Low Income Food Deficit Countries
+2032,4.56,Low Income Food Deficit Countries
+2033,4.57,Low Income Food Deficit Countries
+2034,4.58,Low Income Food Deficit Countries
+2024,10.0,Madagascar
+2025,10.0,Madagascar
+2026,10.0,Madagascar
+2027,10.0,Madagascar
+2028,10.0,Madagascar
+2029,10.0,Madagascar
+2030,10.0,Madagascar
+2031,10.0,Madagascar
+2032,10.0,Madagascar
+2033,10.0,Madagascar
+2034,10.0,Madagascar
+2024,3.97,Malawi
+2025,3.92,Malawi
+2026,3.91,Malawi
+2027,3.9,Malawi
+2028,3.9,Malawi
+2029,3.9,Malawi
+2030,3.9,Malawi
+2031,3.9,Malawi
+2032,3.9,Malawi
+2033,3.9,Malawi
+2034,3.9,Malawi
+2024,4.09,Malaysia
+2025,4.09,Malaysia
+2026,4.09,Malaysia
+2027,4.09,Malaysia
+2028,4.09,Malaysia
+2029,4.09,Malaysia
+2030,4.09,Malaysia
+2031,4.09,Malaysia
+2032,4.09,Malaysia
+2033,4.09,Malaysia
+2034,4.09,Malaysia
+2024,8.36,Mali
+2025,8.37,Mali
+2026,8.37,Mali
+2027,8.38,Mali
+2028,8.38,Mali
+2029,8.38,Mali
+2030,8.38,Mali
+2031,8.38,Mali
+2032,8.38,Mali
+2033,8.38,Mali
+2034,8.38,Mali
+2024,3.18,Mauritania
+2025,3.17,Mauritania
+2026,3.17,Mauritania
+2027,3.17,Mauritania
+2028,3.17,Mauritania
+2029,3.17,Mauritania
+2030,3.17,Mauritania
+2031,3.17,Mauritania
+2032,3.17,Mauritania
+2033,3.17,Mauritania
+2034,3.17,Mauritania
+2024,0.0,Mauritius
+2025,0.0,Mauritius
+2026,0.0,Mauritius
+2027,0.0,Mauritius
+2028,0.0,Mauritius
+2029,0.0,Mauritius
+2030,0.0,Mauritius
+2031,0.0,Mauritius
+2032,0.0,Mauritius
+2033,0.0,Mauritius
+2034,0.0,Mauritius
+2024,9.37,Melanesia
+2025,9.29,Melanesia
+2026,9.3,Melanesia
+2027,9.29,Melanesia
+2028,9.29,Melanesia
+2029,9.29,Melanesia
+2030,9.29,Melanesia
+2031,9.29,Melanesia
+2032,9.29,Melanesia
+2033,9.29,Melanesia
+2034,9.29,Melanesia
+2024,12.88,Mexico
+2025,12.97,Mexico
+2026,12.95,Mexico
+2027,12.95,Mexico
+2028,12.95,Mexico
+2029,12.95,Mexico
+2030,12.95,Mexico
+2031,12.95,Mexico
+2032,12.95,Mexico
+2033,12.95,Mexico
+2034,12.95,Mexico
+2024,7.37,Middle Africa
+2025,7.4,Middle Africa
+2026,7.42,Middle Africa
+2027,7.43,Middle Africa
+2028,7.43,Middle Africa
+2029,7.43,Middle Africa
+2030,7.43,Middle Africa
+2031,7.43,Middle Africa
+2032,7.43,Middle Africa
+2033,7.43,Middle Africa
+2034,7.43,Middle Africa
+2024,4.91,Morocco
+2025,4.38,Morocco
+2026,4.88,Morocco
+2027,4.4,Morocco
+2028,4.86,Morocco
+2029,4.43,Morocco
+2030,4.84,Morocco
+2031,4.45,Morocco
+2032,4.82,Morocco
+2033,4.46,Morocco
+2034,4.8,Morocco
+2024,3.79,Mozambique
+2025,3.76,Mozambique
+2026,3.76,Mozambique
+2027,3.76,Mozambique
+2028,3.76,Mozambique
+2029,3.76,Mozambique
+2030,3.76,Mozambique
+2031,3.76,Mozambique
+2032,3.76,Mozambique
+2033,3.76,Mozambique
+2034,3.76,Mozambique
+2024,3.92,Myanmar
+2025,3.87,Myanmar
+2026,3.91,Myanmar
+2027,3.88,Myanmar
+2028,3.9,Myanmar
+2029,3.89,Myanmar
+2030,3.9,Myanmar
+2031,3.89,Myanmar
+2032,3.89,Myanmar
+2033,3.89,Myanmar
+2034,3.89,Myanmar
+2024,9.96,Nepal
+2025,10.15,Nepal
+2026,10.27,Nepal
+2027,10.36,Nepal
+2028,10.43,Nepal
+2029,10.48,Nepal
+2030,10.51,Nepal
+2031,10.53,Nepal
+2032,10.55,Nepal
+2033,10.56,Nepal
+2034,10.57,Nepal
+2024,5.03,Net Food Importing Developing Countries
+2025,5.02,Net Food Importing Developing Countries
+2026,5.02,Net Food Importing Developing Countries
+2027,5.02,Net Food Importing Developing Countries
+2028,5.02,Net Food Importing Developing Countries
+2029,5.02,Net Food Importing Developing Countries
+2030,5.02,Net Food Importing Developing Countries
+2031,5.02,Net Food Importing Developing Countries
+2032,5.02,Net Food Importing Developing Countries
+2033,5.02,Net Food Importing Developing Countries
+2034,5.02,Net Food Importing Developing Countries
+2024,1.71,Nicaragua
+2025,1.69,Nicaragua
+2026,1.7,Nicaragua
+2027,1.69,Nicaragua
+2028,1.7,Nicaragua
+2029,1.69,Nicaragua
+2030,1.7,Nicaragua
+2031,1.69,Nicaragua
+2032,1.7,Nicaragua
+2033,1.69,Nicaragua
+2034,1.69,Nicaragua
+2024,4.02,Niger
+2025,4.03,Niger
+2026,4.03,Niger
+2027,4.03,Niger
+2028,4.03,Niger
+2029,4.03,Niger
+2030,4.03,Niger
+2031,4.03,Niger
+2032,4.03,Niger
+2033,4.03,Niger
+2034,4.03,Niger
+2024,3.98,Nigeria
+2025,3.98,Nigeria
+2026,3.98,Nigeria
+2027,3.98,Nigeria
+2028,3.98,Nigeria
+2029,3.98,Nigeria
+2030,3.98,Nigeria
+2031,3.98,Nigeria
+2032,3.98,Nigeria
+2033,3.98,Nigeria
+2034,3.98,Nigeria
+2024,0.46,North Macedonia
+2025,0.32,North Macedonia
+2026,0.36,North Macedonia
+2027,0.35,North Macedonia
+2028,0.35,North Macedonia
+2029,0.35,North Macedonia
+2030,0.35,North Macedonia
+2031,0.35,North Macedonia
+2032,0.35,North Macedonia
+2033,0.35,North Macedonia
+2034,0.35,North Macedonia
+2024,4.18,Northern Africa
+2025,4.2,Northern Africa
+2026,4.2,Northern Africa
+2027,4.21,Northern Africa
+2028,4.21,Northern Africa
+2029,4.21,Northern Africa
+2030,4.21,Northern Africa
+2031,4.21,Northern Africa
+2032,4.21,Northern Africa
+2033,4.21,Northern Africa
+2034,4.21,Northern Africa
+2024,3.98,Northern America
+2025,3.98,Northern America
+2026,3.98,Northern America
+2027,3.98,Northern America
+2028,3.98,Northern America
+2029,3.98,Northern America
+2030,3.98,Northern America
+2031,3.98,Northern America
+2032,3.98,Northern America
+2033,3.98,Northern America
+2034,3.98,Northern America
+2024,2.13,Oceania
+2025,2.19,Oceania
+2026,2.19,Oceania
+2027,2.19,Oceania
+2028,2.19,Oceania
+2029,2.19,Oceania
+2030,2.19,Oceania
+2031,2.19,Oceania
+2032,2.19,Oceania
+2033,2.19,Oceania
+2034,2.19,Oceania
+2024,3.98,Pakistan
+2025,3.98,Pakistan
+2026,3.98,Pakistan
+2027,3.98,Pakistan
+2028,3.98,Pakistan
+2029,3.98,Pakistan
+2030,3.98,Pakistan
+2031,3.98,Pakistan
+2032,3.98,Pakistan
+2033,3.98,Pakistan
+2034,3.98,Pakistan
+2024,2.37,Panama
+2025,2.36,Panama
+2026,2.36,Panama
+2027,2.36,Panama
+2028,2.36,Panama
+2029,2.36,Panama
+2030,2.36,Panama
+2031,2.36,Panama
+2032,2.36,Panama
+2033,2.36,Panama
+2034,2.36,Panama
+2024,0.0,Papua New Guinea
+2025,0.0,Papua New Guinea
+2026,0.0,Papua New Guinea
+2027,0.0,Papua New Guinea
+2028,0.0,Papua New Guinea
+2029,0.0,Papua New Guinea
+2030,0.0,Papua New Guinea
+2031,0.0,Papua New Guinea
+2032,0.0,Papua New Guinea
+2033,0.0,Papua New Guinea
+2034,0.0,Papua New Guinea
+2024,3.97,Paraguay
+2025,3.97,Paraguay
+2026,3.97,Paraguay
+2027,3.97,Paraguay
+2028,3.97,Paraguay
+2029,3.97,Paraguay
+2030,3.97,Paraguay
+2031,3.97,Paraguay
+2032,3.97,Paraguay
+2033,3.97,Paraguay
+2034,3.97,Paraguay
+2024,1.98,Peru
+2025,1.98,Peru
+2026,1.98,Peru
+2027,1.98,Peru
+2028,1.98,Peru
+2029,1.98,Peru
+2030,1.98,Peru
+2031,1.98,Peru
+2032,1.98,Peru
+2033,1.98,Peru
+2034,1.98,Peru
+2024,0.98,Philippines
+2025,0.98,Philippines
+2026,0.98,Philippines
+2027,0.98,Philippines
+2028,0.98,Philippines
+2029,0.98,Philippines
+2030,0.98,Philippines
+2031,0.98,Philippines
+2032,0.98,Philippines
+2033,0.98,Philippines
+2034,0.98,Philippines
+2024,0.05,Portugal
+2025,0.05,Portugal
+2026,0.05,Portugal
+2027,0.05,Portugal
+2028,0.05,Portugal
+2029,0.05,Portugal
+2030,0.05,Portugal
+2031,0.05,Portugal
+2032,0.05,Portugal
+2033,0.05,Portugal
+2034,0.05,Portugal
+2024,3.99,Republic of Korea
+2025,4.0,Republic of Korea
+2026,4.0,Republic of Korea
+2027,4.0,Republic of Korea
+2028,4.0,Republic of Korea
+2029,4.0,Republic of Korea
+2030,4.0,Republic of Korea
+2031,4.0,Republic of Korea
+2032,4.0,Republic of Korea
+2033,4.0,Republic of Korea
+2034,4.0,Republic of Korea
+2024,8.22,Romania
+2025,8.15,Romania
+2026,8.18,Romania
+2027,8.17,Romania
+2028,8.17,Romania
+2029,8.17,Romania
+2030,8.17,Romania
+2031,8.17,Romania
+2032,8.17,Romania
+2033,8.17,Romania
+2034,8.17,Romania
+2024,1.82,Russian Federation
+2025,1.9,Russian Federation
+2026,1.84,Russian Federation
+2027,1.88,Russian Federation
+2028,1.85,Russian Federation
+2029,1.87,Russian Federation
+2030,1.86,Russian Federation
+2031,1.87,Russian Federation
+2032,1.86,Russian Federation
+2033,1.87,Russian Federation
+2034,1.86,Russian Federation
+2024,3.93,Rwanda
+2025,3.97,Rwanda
+2026,3.97,Rwanda
+2027,3.97,Rwanda
+2028,3.97,Rwanda
+2029,3.97,Rwanda
+2030,3.97,Rwanda
+2031,3.97,Rwanda
+2032,3.97,Rwanda
+2033,3.97,Rwanda
+2034,3.97,Rwanda
+2024,4.21,Senegal
+2025,4.21,Senegal
+2026,4.21,Senegal
+2027,4.21,Senegal
+2028,4.21,Senegal
+2029,4.21,Senegal
+2030,4.21,Senegal
+2031,4.21,Senegal
+2032,4.21,Senegal
+2033,4.21,Senegal
+2034,4.21,Senegal
+2024,12.19,Sierra Leone
+2025,12.19,Sierra Leone
+2026,12.19,Sierra Leone
+2027,12.19,Sierra Leone
+2028,12.19,Sierra Leone
+2029,12.19,Sierra Leone
+2030,12.19,Sierra Leone
+2031,12.19,Sierra Leone
+2032,12.19,Sierra Leone
+2033,12.19,Sierra Leone
+2034,12.19,Sierra Leone
+2024,4.72,Small Island Developing States
+2025,4.71,Small Island Developing States
+2026,4.71,Small Island Developing States
+2027,4.71,Small Island Developing States
+2028,4.71,Small Island Developing States
+2029,4.71,Small Island Developing States
+2030,4.71,Small Island Developing States
+2031,4.71,Small Island Developing States
+2032,4.71,Small Island Developing States
+2033,4.71,Small Island Developing States
+2034,4.71,Small Island Developing States
+2024,0.0,Solomon Islands
+2025,0.0,Solomon Islands
+2026,0.0,Solomon Islands
+2027,0.0,Solomon Islands
+2028,0.0,Solomon Islands
+2029,0.0,Solomon Islands
+2030,0.0,Solomon Islands
+2031,0.0,Solomon Islands
+2032,0.0,Solomon Islands
+2033,0.0,Solomon Islands
+2034,0.0,Solomon Islands
+2024,0.0,South Africa
+2025,0.0,South Africa
+2026,0.0,South Africa
+2027,0.0,South Africa
+2028,0.0,South Africa
+2029,0.0,South Africa
+2030,0.0,South Africa
+2031,0.0,South Africa
+2032,0.0,South Africa
+2033,0.0,South Africa
+2034,0.0,South Africa
+2024,6.01,South America
+2025,6.02,South America
+2026,6.02,South America
+2027,6.02,South America
+2028,6.02,South America
+2029,6.02,South America
+2030,6.02,South America
+2031,6.02,South America
+2032,6.02,South America
+2033,6.02,South America
+2034,6.02,South America
+2024,5.03,South-eastern Asia
+2025,5.05,South-eastern Asia
+2026,5.04,South-eastern Asia
+2027,5.05,South-eastern Asia
+2028,5.04,South-eastern Asia
+2029,5.04,South-eastern Asia
+2030,5.04,South-eastern Asia
+2031,5.04,South-eastern Asia
+2032,5.04,South-eastern Asia
+2033,5.04,South-eastern Asia
+2034,5.04,South-eastern Asia
+2024,0.0,Southern Africa
+2025,0.0,Southern Africa
+2026,0.0,Southern Africa
+2027,0.0,Southern Africa
+2028,0.0,Southern Africa
+2029,0.0,Southern Africa
+2030,0.0,Southern Africa
+2031,0.0,Southern Africa
+2032,0.0,Southern Africa
+2033,0.0,Southern Africa
+2034,0.0,Southern Africa
+2024,3.27,Southern Asia
+2025,3.3,Southern Asia
+2026,3.33,Southern Asia
+2027,3.36,Southern Asia
+2028,3.37,Southern Asia
+2029,3.39,Southern Asia
+2030,3.4,Southern Asia
+2031,3.41,Southern Asia
+2032,3.42,Southern Asia
+2033,3.43,Southern Asia
+2034,3.43,Southern Asia
+2024,2.79,Southern Europe
+2025,2.79,Southern Europe
+2026,2.79,Southern Europe
+2027,2.79,Southern Europe
+2028,2.79,Southern Europe
+2029,2.79,Southern Europe
+2030,2.79,Southern Europe
+2031,2.79,Southern Europe
+2032,2.79,Southern Europe
+2033,2.79,Southern Europe
+2034,2.79,Southern Europe
+2024,4.14,Spain
+2025,4.17,Spain
+2026,4.18,Spain
+2027,4.19,Spain
+2028,4.19,Spain
+2029,4.19,Spain
+2030,4.19,Spain
+2031,4.19,Spain
+2032,4.19,Spain
+2033,4.19,Spain
+2034,4.19,Spain
+2024,4.59,Sri Lanka
+2025,4.59,Sri Lanka
+2026,4.59,Sri Lanka
+2027,4.59,Sri Lanka
+2028,4.59,Sri Lanka
+2029,4.59,Sri Lanka
+2030,4.59,Sri Lanka
+2031,4.59,Sri Lanka
+2032,4.59,Sri Lanka
+2033,4.59,Sri Lanka
+2034,4.59,Sri Lanka
+2024,4.04,Sudan
+2025,4.75,Sudan
+2026,5.2,Sudan
+2027,5.48,Sudan
+2028,5.67,Sudan
+2029,5.78,Sudan
+2030,5.86,Sudan
+2031,5.91,Sudan
+2032,5.94,Sudan
+2033,5.96,Sudan
+2034,5.97,Sudan
+2024,10.85,Suriname
+2025,10.86,Suriname
+2026,10.86,Suriname
+2027,10.86,Suriname
+2028,10.86,Suriname
+2029,10.86,Suriname
+2030,10.86,Suriname
+2031,10.86,Suriname
+2032,10.86,Suriname
+2033,10.86,Suriname
+2034,10.86,Suriname
+2024,3.86,Tajikistan
+2025,3.97,Tajikistan
+2026,3.9,Tajikistan
+2027,3.95,Tajikistan
+2028,3.92,Tajikistan
+2029,3.94,Tajikistan
+2030,3.92,Tajikistan
+2031,3.93,Tajikistan
+2032,3.93,Tajikistan
+2033,3.93,Tajikistan
+2034,3.93,Tajikistan
+2024,3.98,Thailand
+2025,3.98,Thailand
+2026,3.98,Thailand
+2027,3.98,Thailand
+2028,3.98,Thailand
+2029,3.98,Thailand
+2030,3.98,Thailand
+2031,3.98,Thailand
+2032,3.98,Thailand
+2033,3.98,Thailand
+2034,3.98,Thailand
+2024,4.18,Timor-Leste
+2025,4.22,Timor-Leste
+2026,4.21,Timor-Leste
+2027,4.22,Timor-Leste
+2028,4.21,Timor-Leste
+2029,4.21,Timor-Leste
+2030,4.21,Timor-Leste
+2031,4.21,Timor-Leste
+2032,4.21,Timor-Leste
+2033,4.21,Timor-Leste
+2034,4.21,Timor-Leste
+2024,8.11,Togo
+2025,8.11,Togo
+2026,8.11,Togo
+2027,8.11,Togo
+2028,8.11,Togo
+2029,8.11,Togo
+2030,8.11,Togo
+2031,8.11,Togo
+2032,8.11,Togo
+2033,8.11,Togo
+2034,8.11,Togo
+2024,0.0,Trinidad and Tobago
+2025,0.0,Trinidad and Tobago
+2026,0.0,Trinidad and Tobago
+2027,0.0,Trinidad and Tobago
+2028,0.0,Trinidad and Tobago
+2029,0.0,Trinidad and Tobago
+2030,0.0,Trinidad and Tobago
+2031,0.0,Trinidad and Tobago
+2032,0.0,Trinidad and Tobago
+2033,0.0,Trinidad and Tobago
+2034,0.0,Trinidad and Tobago
+2024,4.07,Turkmenistan
+2025,4.13,Turkmenistan
+2026,4.19,Turkmenistan
+2027,4.23,Turkmenistan
+2028,4.26,Turkmenistan
+2029,4.29,Turkmenistan
+2030,4.32,Turkmenistan
+2031,4.34,Turkmenistan
+2032,4.35,Turkmenistan
+2033,4.37,Turkmenistan
+2034,4.38,Turkmenistan
+2024,3.18,Türkiye
+2025,3.19,Türkiye
+2026,3.2,Türkiye
+2027,3.2,Türkiye
+2028,3.21,Türkiye
+2029,3.21,Türkiye
+2030,3.21,Türkiye
+2031,3.22,Türkiye
+2032,3.22,Türkiye
+2033,3.22,Türkiye
+2034,3.22,Türkiye
+2024,5.76,Uganda
+2025,2.92,Uganda
+2026,5.14,Uganda
+2027,3.41,Uganda
+2028,4.77,Uganda
+2029,3.7,Uganda
+2030,4.53,Uganda
+2031,3.88,Uganda
+2032,4.39,Uganda
+2033,3.99,Uganda
+2034,4.31,Uganda
+2024,1.96,Ukraine
+2025,1.92,Ukraine
+2026,1.92,Ukraine
+2027,1.92,Ukraine
+2028,1.92,Ukraine
+2029,1.92,Ukraine
+2030,1.92,Ukraine
+2031,1.92,Ukraine
+2032,1.92,Ukraine
+2033,1.92,Ukraine
+2034,1.92,Ukraine
+2024,1.52,United Republic of Tanzania
+2025,1.52,United Republic of Tanzania
+2026,1.52,United Republic of Tanzania
+2027,1.52,United Republic of Tanzania
+2028,1.52,United Republic of Tanzania
+2029,1.52,United Republic of Tanzania
+2030,1.52,United Republic of Tanzania
+2031,1.52,United Republic of Tanzania
+2032,1.52,United Republic of Tanzania
+2033,1.52,United Republic of Tanzania
+2034,1.52,United Republic of Tanzania
+2024,3.98,United States of America
+2025,3.98,United States of America
+2026,3.98,United States of America
+2027,3.98,United States of America
+2028,3.98,United States of America
+2029,3.98,United States of America
+2030,3.98,United States of America
+2031,3.98,United States of America
+2032,3.98,United States of America
+2033,3.98,United States of America
+2034,3.98,United States of America
+2024,1.99,Uruguay
+2025,1.99,Uruguay
+2026,1.99,Uruguay
+2027,1.99,Uruguay
+2028,1.99,Uruguay
+2029,1.99,Uruguay
+2030,1.99,Uruguay
+2031,1.99,Uruguay
+2032,1.99,Uruguay
+2033,1.99,Uruguay
+2034,1.99,Uruguay
+2024,4.13,Uzbekistan
+2025,4.1,Uzbekistan
+2026,4.13,Uzbekistan
+2027,4.1,Uzbekistan
+2028,4.13,Uzbekistan
+2029,4.11,Uzbekistan
+2030,4.13,Uzbekistan
+2031,4.11,Uzbekistan
+2032,4.12,Uzbekistan
+2033,4.11,Uzbekistan
+2034,4.12,Uzbekistan
+2024,4.14,Venezuela (Bolivarian Republic of)
+2025,4.19,Venezuela (Bolivarian Republic of)
+2026,4.19,Venezuela (Bolivarian Republic of)
+2027,4.19,Venezuela (Bolivarian Republic of)
+2028,4.19,Venezuela (Bolivarian Republic of)
+2029,4.19,Venezuela (Bolivarian Republic of)
+2030,4.19,Venezuela (Bolivarian Republic of)
+2031,4.19,Venezuela (Bolivarian Republic of)
+2032,4.19,Venezuela (Bolivarian Republic of)
+2033,4.19,Venezuela (Bolivarian Republic of)
+2034,4.19,Venezuela (Bolivarian Republic of)
+2024,8.8,Viet Nam
+2025,8.83,Viet Nam
+2026,8.81,Viet Nam
+2027,8.82,Viet Nam
+2028,8.82,Viet Nam
+2029,8.82,Viet Nam
+2030,8.82,Viet Nam
+2031,8.82,Viet Nam
+2032,8.82,Viet Nam
+2033,8.82,Viet Nam
+2034,8.82,Viet Nam
+2024,8.94,Western Africa
+2025,8.93,Western Africa
+2026,8.94,Western Africa
+2027,8.93,Western Africa
+2028,8.94,Western Africa
+2029,8.93,Western Africa
+2030,8.94,Western Africa
+2031,8.94,Western Africa
+2032,8.94,Western Africa
+2033,8.94,Western Africa
+2034,8.94,Western Africa
+2024,3.58,Western Asia
+2025,3.64,Western Asia
+2026,3.69,Western Asia
+2027,3.73,Western Asia
+2028,3.76,Western Asia
+2029,3.79,Western Asia
+2030,3.82,Western Asia
+2031,3.84,Western Asia
+2032,3.86,Western Asia
+2033,3.88,Western Asia
+2034,3.89,Western Asia
+2024,1.95,Western Europe
+2025,2.04,Western Europe
+2026,2.05,Western Europe
+2027,2.05,Western Europe
+2028,2.05,Western Europe
+2029,2.05,Western Europe
+2030,2.05,Western Europe
+2031,2.05,Western Europe
+2032,2.05,Western Europe
+2033,2.05,Western Europe
+2034,2.05,Western Europe
+2024,4.18,World
+2025,4.18,World
+2026,4.18,World
+2027,4.18,World
+2028,4.18,World
+2029,4.18,World
+2030,4.18,World
+2031,4.18,World
+2032,4.18,World
+2033,4.18,World
+2034,4.18,World
+2024,6.87,Zambia
+2025,6.39,Zambia
+2026,6.25,Zambia
+2027,6.22,Zambia
+2028,6.21,Zambia
+2029,6.2,Zambia
+2030,6.2,Zambia
+2031,6.2,Zambia
+2032,6.2,Zambia
+2033,6.2,Zambia
+2034,6.2,Zambia
+2024,0.0,Zimbabwe
+2025,0.0,Zimbabwe
+2026,0.0,Zimbabwe
+2027,0.0,Zimbabwe
+2028,0.0,Zimbabwe
+2029,0.0,Zimbabwe
+2030,0.0,Zimbabwe
+2031,0.0,Zimbabwe
+2032,0.0,Zimbabwe
+2033,0.0,Zimbabwe
+2034,0.0,Zimbabwe
+2024,7.04,Afghanistan
+2025,7.04,Afghanistan
+2026,7.04,Afghanistan
+2027,7.04,Afghanistan
+2028,7.04,Afghanistan
+2029,7.04,Afghanistan
+2030,7.04,Afghanistan
+2031,7.04,Afghanistan
+2032,7.04,Afghanistan
+2033,7.04,Afghanistan
+2034,7.04,Afghanistan
+2024,7.49,Africa
+2025,7.47,Africa
+2026,7.47,Africa
+2027,7.47,Africa
+2028,7.47,Africa
+2029,7.47,Africa
+2030,7.47,Africa
+2031,7.47,Africa
+2032,7.47,Africa
+2033,7.47,Africa
+2034,7.47,Africa
+2024,5.33,Americas
+2025,5.31,Americas
+2026,5.33,Americas
+2027,5.32,Americas
+2028,5.33,Americas
+2029,5.32,Americas
+2030,5.33,Americas
+2031,5.32,Americas
+2032,5.32,Americas
+2033,5.32,Americas
+2034,5.32,Americas
+2024,-0.25,Angola
+2025,-0.5,Angola
+2026,-0.75,Angola
+2027,-1.0,Angola
+2028,-1.25,Angola
+2029,-1.5,Angola
+2030,-1.74,Angola
+2031,-1.99,Angola
+2032,-2.24,Angola
+2033,-2.49,Angola
+2034,-2.74,Angola
+2024,3.98,Argentina
+2025,3.96,Argentina
+2026,3.95,Argentina
+2027,3.94,Argentina
+2028,3.93,Argentina
+2029,3.92,Argentina
+2030,3.91,Argentina
+2031,3.91,Argentina
+2032,3.9,Argentina
+2033,3.9,Argentina
+2034,3.9,Argentina
+2024,3.96,Asia
+2025,3.96,Asia
+2026,3.96,Asia
+2027,3.96,Asia
+2028,3.96,Asia
+2029,3.96,Asia
+2030,3.96,Asia
+2031,3.96,Asia
+2032,3.96,Asia
+2033,3.96,Asia
+2034,3.96,Asia
+2024,1.81,Australia
+2025,1.84,Australia
+2026,1.83,Australia
+2027,1.83,Australia
+2028,1.83,Australia
+2029,1.83,Australia
+2030,1.83,Australia
+2031,1.83,Australia
+2032,1.83,Australia
+2033,1.83,Australia
+2034,1.83,Australia
+2024,1.81,Australia and New Zealand
+2025,1.84,Australia and New Zealand
+2026,1.83,Australia and New Zealand
+2027,1.83,Australia and New Zealand
+2028,1.83,Australia and New Zealand
+2029,1.83,Australia and New Zealand
+2030,1.83,Australia and New Zealand
+2031,1.83,Australia and New Zealand
+2032,1.83,Australia and New Zealand
+2033,1.83,Australia and New Zealand
+2034,1.83,Australia and New Zealand
+2024,8.73,Azerbaijan
+2025,11.11,Azerbaijan
+2026,8.73,Azerbaijan
+2027,11.11,Azerbaijan
+2028,8.73,Azerbaijan
+2029,11.11,Azerbaijan
+2030,8.73,Azerbaijan
+2031,11.11,Azerbaijan
+2032,8.73,Azerbaijan
+2033,11.11,Azerbaijan
+2034,8.73,Azerbaijan
+2024,3.98,Bangladesh
+2025,3.98,Bangladesh
+2026,3.98,Bangladesh
+2027,3.98,Bangladesh
+2028,3.98,Bangladesh
+2029,3.98,Bangladesh
+2030,3.98,Bangladesh
+2031,3.98,Bangladesh
+2032,3.98,Bangladesh
+2033,3.98,Bangladesh
+2034,3.98,Bangladesh
+2024,6.63,Belize
+2025,6.74,Belize
+2026,6.72,Belize
+2027,6.72,Belize
+2028,6.72,Belize
+2029,6.72,Belize
+2030,6.72,Belize
+2031,6.72,Belize
+2032,6.72,Belize
+2033,6.72,Belize
+2034,6.72,Belize
+2024,25.28,Benin
+2025,25.3,Benin
+2026,25.31,Benin
+2027,25.31,Benin
+2028,25.31,Benin
+2029,25.31,Benin
+2030,25.31,Benin
+2031,25.31,Benin
+2032,25.31,Benin
+2033,25.31,Benin
+2034,25.31,Benin
+2024,2.03,Bolivia (Plurinational State of)
+2025,2.04,Bolivia (Plurinational State of)
+2026,2.03,Bolivia (Plurinational State of)
+2027,2.04,Bolivia (Plurinational State of)
+2028,2.04,Bolivia (Plurinational State of)
+2029,2.04,Bolivia (Plurinational State of)
+2030,2.04,Bolivia (Plurinational State of)
+2031,2.04,Bolivia (Plurinational State of)
+2032,2.04,Bolivia (Plurinational State of)
+2033,2.04,Bolivia (Plurinational State of)
+2034,2.04,Bolivia (Plurinational State of)
+2024,10.23,Brazil
+2025,10.22,Brazil
+2026,10.23,Brazil
+2027,10.23,Brazil
+2028,10.23,Brazil
+2029,10.23,Brazil
+2030,10.23,Brazil
+2031,10.23,Brazil
+2032,10.23,Brazil
+2033,10.23,Brazil
+2034,10.23,Brazil
+2024,4.55,Bulgaria
+2025,4.55,Bulgaria
+2026,4.55,Bulgaria
+2027,4.55,Bulgaria
+2028,4.55,Bulgaria
+2029,4.55,Bulgaria
+2030,4.55,Bulgaria
+2031,4.55,Bulgaria
+2032,4.55,Bulgaria
+2033,4.55,Bulgaria
+2034,4.55,Bulgaria
+2024,1.86,Burkina Faso
+2025,1.82,Burkina Faso
+2026,1.84,Burkina Faso
+2027,1.83,Burkina Faso
+2028,1.84,Burkina Faso
+2029,1.83,Burkina Faso
+2030,1.83,Burkina Faso
+2031,1.83,Burkina Faso
+2032,1.83,Burkina Faso
+2033,1.83,Burkina Faso
+2034,1.83,Burkina Faso
+2024,4.06,Burundi
+2025,4.09,Burundi
+2026,4.11,Burundi
+2027,4.12,Burundi
+2028,4.12,Burundi
+2029,4.12,Burundi
+2030,4.13,Burundi
+2031,4.13,Burundi
+2032,4.13,Burundi
+2033,4.13,Burundi
+2034,4.13,Burundi
+2024,5.0,Cambodia
+2025,5.0,Cambodia
+2026,5.0,Cambodia
+2027,5.0,Cambodia
+2028,5.0,Cambodia
+2029,5.0,Cambodia
+2030,5.0,Cambodia
+2031,5.0,Cambodia
+2032,5.0,Cambodia
+2033,5.0,Cambodia
+2034,5.0,Cambodia
+2024,3.9,Cameroon
+2025,3.93,Cameroon
+2026,3.91,Cameroon
+2027,3.92,Cameroon
+2028,3.92,Cameroon
+2029,3.92,Cameroon
+2030,3.92,Cameroon
+2031,3.92,Cameroon
+2032,3.92,Cameroon
+2033,3.92,Cameroon
+2034,3.92,Cameroon
+2024,3.51,Caribbean
+2025,3.53,Caribbean
+2026,3.52,Caribbean
+2027,3.53,Caribbean
+2028,3.52,Caribbean
+2029,3.53,Caribbean
+2030,3.53,Caribbean
+2031,3.53,Caribbean
+2032,3.53,Caribbean
+2033,3.53,Caribbean
+2034,3.53,Caribbean
+2024,0.02,Central African Republic
+2025,0.01,Central African Republic
+2026,0.01,Central African Republic
+2027,0.01,Central African Republic
+2028,0.01,Central African Republic
+2029,0.01,Central African Republic
+2030,0.01,Central African Republic
+2031,0.01,Central African Republic
+2032,0.01,Central African Republic
+2033,0.01,Central African Republic
+2034,0.01,Central African Republic
+2024,4.88,Central America
+2025,4.89,Central America
+2026,4.89,Central America
+2027,4.89,Central America
+2028,4.89,Central America
+2029,4.89,Central America
+2030,4.89,Central America
+2031,4.89,Central America
+2032,4.89,Central America
+2033,4.89,Central America
+2034,4.89,Central America
+2024,6.79,Central Asia
+2025,6.77,Central Asia
+2026,6.76,Central Asia
+2027,6.75,Central Asia
+2028,6.75,Central Asia
+2029,6.74,Central Asia
+2030,6.74,Central Asia
+2031,6.73,Central Asia
+2032,6.73,Central Asia
+2033,6.73,Central Asia
+2034,6.73,Central Asia
+2024,12.99,Chad
+2025,12.98,Chad
+2026,12.98,Chad
+2027,12.98,Chad
+2028,12.98,Chad
+2029,12.98,Chad
+2030,12.98,Chad
+2031,12.98,Chad
+2032,12.98,Chad
+2033,12.98,Chad
+2034,12.98,Chad
+2024,1.17,Chile
+2025,1.17,Chile
+2026,1.17,Chile
+2027,1.17,Chile
+2028,1.17,Chile
+2029,1.17,Chile
+2030,1.17,Chile
+2031,1.17,Chile
+2032,1.17,Chile
+2033,1.17,Chile
+2034,1.17,Chile
+2024,3.95,China
+2025,3.95,China
+2026,3.95,China
+2027,3.95,China
+2028,3.95,China
+2029,3.95,China
+2030,3.95,China
+2031,3.95,China
+2032,3.95,China
+2033,3.95,China
+2034,3.95,China
+2024,0.92,"China, Taiwan Province of"
+2025,0.92,"China, Taiwan Province of"
+2026,0.92,"China, Taiwan Province of"
+2027,0.92,"China, Taiwan Province of"
+2028,0.92,"China, Taiwan Province of"
+2029,0.92,"China, Taiwan Province of"
+2030,0.92,"China, Taiwan Province of"
+2031,0.92,"China, Taiwan Province of"
+2032,0.92,"China, Taiwan Province of"
+2033,0.92,"China, Taiwan Province of"
+2034,0.92,"China, Taiwan Province of"
+2024,3.98,"China, mainland"
+2025,3.98,"China, mainland"
+2026,3.98,"China, mainland"
+2027,3.98,"China, mainland"
+2028,3.98,"China, mainland"
+2029,3.98,"China, mainland"
+2030,3.98,"China, mainland"
+2031,3.98,"China, mainland"
+2032,3.98,"China, mainland"
+2033,3.98,"China, mainland"
+2034,3.98,"China, mainland"
+2024,1.04,Colombia
+2025,1.04,Colombia
+2026,1.04,Colombia
+2027,1.04,Colombia
+2028,1.04,Colombia
+2029,1.04,Colombia
+2030,1.04,Colombia
+2031,1.04,Colombia
+2032,1.04,Colombia
+2033,1.04,Colombia
+2034,1.04,Colombia
+2024,3.22,Comoros
+2025,3.22,Comoros
+2026,3.22,Comoros
+2027,3.21,Comoros
+2028,3.21,Comoros
+2029,3.21,Comoros
+2030,3.2,Comoros
+2031,3.2,Comoros
+2032,3.2,Comoros
+2033,3.2,Comoros
+2034,3.2,Comoros
+2024,9.29,Congo
+2025,9.11,Congo
+2026,9.12,Congo
+2027,9.12,Congo
+2028,9.12,Congo
+2029,9.12,Congo
+2030,9.12,Congo
+2031,9.12,Congo
+2032,9.12,Congo
+2033,9.12,Congo
+2034,9.12,Congo
+2024,6.02,Costa Rica
+2025,6.09,Costa Rica
+2026,6.11,Costa Rica
+2027,6.12,Costa Rica
+2028,6.12,Costa Rica
+2029,6.12,Costa Rica
+2030,6.12,Costa Rica
+2031,6.12,Costa Rica
+2032,6.12,Costa Rica
+2033,6.12,Costa Rica
+2034,6.12,Costa Rica
+2024,5.09,Cuba
+2025,4.94,Cuba
+2026,5.04,Cuba
+2027,4.97,Cuba
+2028,5.02,Cuba
+2029,4.99,Cuba
+2030,5.01,Cuba
+2031,4.99,Cuba
+2032,5.01,Cuba
+2033,5.0,Cuba
+2034,5.0,Cuba
+2024,13.98,Côte d'Ivoire
+2025,13.98,Côte d'Ivoire
+2026,13.98,Côte d'Ivoire
+2027,13.98,Côte d'Ivoire
+2028,13.98,Côte d'Ivoire
+2029,13.98,Côte d'Ivoire
+2030,13.98,Côte d'Ivoire
+2031,13.98,Côte d'Ivoire
+2032,13.98,Côte d'Ivoire
+2033,13.98,Côte d'Ivoire
+2034,13.98,Côte d'Ivoire
+2024,1.89,Democratic People's Republic of Korea
+2025,1.89,Democratic People's Republic of Korea
+2026,1.89,Democratic People's Republic of Korea
+2027,1.89,Democratic People's Republic of Korea
+2028,1.89,Democratic People's Republic of Korea
+2029,1.89,Democratic People's Republic of Korea
+2030,1.89,Democratic People's Republic of Korea
+2031,1.89,Democratic People's Republic of Korea
+2032,1.89,Democratic People's Republic of Korea
+2033,1.89,Democratic People's Republic of Korea
+2034,1.89,Democratic People's Republic of Korea
+2024,7.01,Democratic Republic of the Congo
+2025,7.02,Democratic Republic of the Congo
+2026,7.01,Democratic Republic of the Congo
+2027,7.02,Democratic Republic of the Congo
+2028,7.02,Democratic Republic of the Congo
+2029,7.02,Democratic Republic of the Congo
+2030,7.02,Democratic Republic of the Congo
+2031,7.02,Democratic Republic of the Congo
+2032,7.02,Democratic Republic of the Congo
+2033,7.02,Democratic Republic of the Congo
+2034,7.02,Democratic Republic of the Congo
+2024,3.05,Dominican Republic
+2025,3.08,Dominican Republic
+2026,3.05,Dominican Republic
+2027,3.07,Dominican Republic
+2028,3.05,Dominican Republic
+2029,3.07,Dominican Republic
+2030,3.06,Dominican Republic
+2031,3.07,Dominican Republic
+2032,3.06,Dominican Republic
+2033,3.07,Dominican Republic
+2034,3.06,Dominican Republic
+2024,5.51,Eastern Africa
+2025,5.44,Eastern Africa
+2026,5.47,Eastern Africa
+2027,5.46,Eastern Africa
+2028,5.46,Eastern Africa
+2029,5.46,Eastern Africa
+2030,5.46,Eastern Africa
+2031,5.46,Eastern Africa
+2032,5.46,Eastern Africa
+2033,5.46,Eastern Africa
+2034,5.46,Eastern Africa
+2024,3.82,Eastern Asia
+2025,3.83,Eastern Asia
+2026,3.82,Eastern Asia
+2027,3.82,Eastern Asia
+2028,3.82,Eastern Asia
+2029,3.82,Eastern Asia
+2030,3.82,Eastern Asia
+2031,3.82,Eastern Asia
+2032,3.82,Eastern Asia
+2033,3.82,Eastern Asia
+2034,3.82,Eastern Asia
+2024,2.11,Eastern Europe
+2025,2.13,Eastern Europe
+2026,2.12,Eastern Europe
+2027,2.12,Eastern Europe
+2028,2.12,Eastern Europe
+2029,2.12,Eastern Europe
+2030,2.12,Eastern Europe
+2031,2.12,Eastern Europe
+2032,2.12,Eastern Europe
+2033,2.12,Eastern Europe
+2034,2.12,Eastern Europe
+2024,4.35,Ecuador
+2025,4.35,Ecuador
+2026,4.35,Ecuador
+2027,4.35,Ecuador
+2028,4.35,Ecuador
+2029,4.35,Ecuador
+2030,4.35,Ecuador
+2031,4.35,Ecuador
+2032,4.35,Ecuador
+2033,4.35,Ecuador
+2034,4.35,Ecuador
+2024,4.16,Egypt
+2025,4.18,Egypt
+2026,4.19,Egypt
+2027,4.19,Egypt
+2028,4.19,Egypt
+2029,4.19,Egypt
+2030,4.19,Egypt
+2031,4.19,Egypt
+2032,4.19,Egypt
+2033,4.19,Egypt
+2034,4.19,Egypt
+2024,3.74,El Salvador
+2025,3.75,El Salvador
+2026,3.76,El Salvador
+2027,3.76,El Salvador
+2028,3.76,El Salvador
+2029,3.76,El Salvador
+2030,3.76,El Salvador
+2031,3.76,El Salvador
+2032,3.76,El Salvador
+2033,3.76,El Salvador
+2034,3.76,El Salvador
+2024,0.0,Eswatini
+2025,0.0,Eswatini
+2026,0.0,Eswatini
+2027,0.0,Eswatini
+2028,0.0,Eswatini
+2029,0.0,Eswatini
+2030,0.0,Eswatini
+2031,0.0,Eswatini
+2032,0.0,Eswatini
+2033,0.0,Eswatini
+2034,0.0,Eswatini
+2024,4.13,Ethiopia
+2025,4.19,Ethiopia
+2026,4.14,Ethiopia
+2027,4.18,Ethiopia
+2028,4.15,Ethiopia
+2029,4.17,Ethiopia
+2030,4.16,Ethiopia
+2031,4.17,Ethiopia
+2032,4.16,Ethiopia
+2033,4.17,Ethiopia
+2034,4.16,Ethiopia
+2024,2.56,Europe
+2025,2.56,Europe
+2026,2.56,Europe
+2027,2.56,Europe
+2028,2.56,Europe
+2029,2.56,Europe
+2030,2.56,Europe
+2031,2.56,Europe
+2032,2.56,Europe
+2033,2.56,Europe
+2034,2.56,Europe
+2024,2.81,European Union (27)
+2025,2.85,European Union (27)
+2026,2.81,European Union (27)
+2027,2.85,European Union (27)
+2028,2.81,European Union (27)
+2029,2.85,European Union (27)
+2030,2.81,European Union (27)
+2031,2.85,European Union (27)
+2032,2.81,European Union (27)
+2033,2.85,European Union (27)
+2034,2.81,European Union (27)
+2024,12.94,Fiji
+2025,12.88,Fiji
+2026,12.89,Fiji
+2027,12.89,Fiji
+2028,12.89,Fiji
+2029,12.89,Fiji
+2030,12.89,Fiji
+2031,12.89,Fiji
+2032,12.89,Fiji
+2033,12.89,Fiji
+2034,12.89,Fiji
+2024,1.39,France
+2025,1.38,France
+2026,1.38,France
+2027,1.38,France
+2028,1.38,France
+2029,1.38,France
+2030,1.38,France
+2031,1.38,France
+2032,1.38,France
+2033,1.38,France
+2034,1.38,France
+2024,0.0,Gabon
+2025,0.0,Gabon
+2026,0.0,Gabon
+2027,0.0,Gabon
+2028,0.0,Gabon
+2029,0.0,Gabon
+2030,0.0,Gabon
+2031,0.0,Gabon
+2032,0.0,Gabon
+2033,0.0,Gabon
+2034,0.0,Gabon
+2024,3.95,Gambia
+2025,4.16,Gambia
+2026,4.26,Gambia
+2027,4.32,Gambia
+2028,4.35,Gambia
+2029,4.37,Gambia
+2030,4.38,Gambia
+2031,4.38,Gambia
+2032,4.38,Gambia
+2033,4.38,Gambia
+2034,4.38,Gambia
+2024,15.01,Ghana
+2025,15.01,Ghana
+2026,15.01,Ghana
+2027,15.01,Ghana
+2028,15.01,Ghana
+2029,15.01,Ghana
+2030,15.01,Ghana
+2031,15.01,Ghana
+2032,15.01,Ghana
+2033,15.01,Ghana
+2034,15.01,Ghana
+2024,3.7,Greece
+2025,3.77,Greece
+2026,3.73,Greece
+2027,3.75,Greece
+2028,3.74,Greece
+2029,3.74,Greece
+2030,3.74,Greece
+2031,3.74,Greece
+2032,3.74,Greece
+2033,3.74,Greece
+2034,3.74,Greece
+2024,4.39,Guatemala
+2025,4.2,Guatemala
+2026,4.37,Guatemala
+2027,4.22,Guatemala
+2028,4.35,Guatemala
+2029,4.23,Guatemala
+2030,4.34,Guatemala
+2031,4.25,Guatemala
+2032,4.33,Guatemala
+2033,4.26,Guatemala
+2034,4.32,Guatemala
+2024,20.01,Guinea
+2025,20.01,Guinea
+2026,20.01,Guinea
+2027,20.01,Guinea
+2028,20.01,Guinea
+2029,20.01,Guinea
+2030,20.01,Guinea
+2031,20.01,Guinea
+2032,20.01,Guinea
+2033,20.01,Guinea
+2034,20.01,Guinea
+2024,3.82,Guinea-Bissau
+2025,3.93,Guinea-Bissau
+2026,3.87,Guinea-Bissau
+2027,3.9,Guinea-Bissau
+2028,3.89,Guinea-Bissau
+2029,3.9,Guinea-Bissau
+2030,3.89,Guinea-Bissau
+2031,3.89,Guinea-Bissau
+2032,3.89,Guinea-Bissau
+2033,3.89,Guinea-Bissau
+2034,3.89,Guinea-Bissau
+2024,4.25,Guyana
+2025,4.23,Guyana
+2026,4.24,Guyana
+2027,4.24,Guyana
+2028,4.24,Guyana
+2029,4.24,Guyana
+2030,4.24,Guyana
+2031,4.24,Guyana
+2032,4.24,Guyana
+2033,4.24,Guyana
+2034,4.24,Guyana
+2024,3.96,Haiti
+2025,3.94,Haiti
+2026,3.94,Haiti
+2027,3.94,Haiti
+2028,3.94,Haiti
+2029,3.94,Haiti
+2030,3.94,Haiti
+2031,3.94,Haiti
+2032,3.94,Haiti
+2033,3.94,Haiti
+2034,3.94,Haiti
+2024,4.27,Honduras
+2025,4.23,Honduras
+2026,4.22,Honduras
+2027,4.22,Honduras
+2028,4.22,Honduras
+2029,4.22,Honduras
+2030,4.22,Honduras
+2031,4.22,Honduras
+2032,4.22,Honduras
+2033,4.22,Honduras
+2034,4.22,Honduras
+2024,0.0,Hungary
+2025,0.0,Hungary
+2026,0.0,Hungary
+2027,0.0,Hungary
+2028,0.0,Hungary
+2029,0.0,Hungary
+2030,0.0,Hungary
+2031,0.0,Hungary
+2032,0.0,Hungary
+2033,0.0,Hungary
+2034,0.0,Hungary
+2024,2.76,India
+2025,2.82,India
+2026,2.86,India
+2027,2.89,India
+2028,2.92,India
+2029,2.94,India
+2030,2.95,India
+2031,2.96,India
+2032,2.97,India
+2033,2.97,India
+2034,2.98,India
+2024,4.95,Indonesia
+2025,4.97,Indonesia
+2026,4.98,Indonesia
+2027,4.98,Indonesia
+2028,4.98,Indonesia
+2029,4.98,Indonesia
+2030,4.98,Indonesia
+2031,4.98,Indonesia
+2032,4.98,Indonesia
+2033,4.98,Indonesia
+2034,4.98,Indonesia
+2024,4.02,Iran (Islamic Republic of)
+2025,4.02,Iran (Islamic Republic of)
+2026,4.02,Iran (Islamic Republic of)
+2027,4.03,Iran (Islamic Republic of)
+2028,4.03,Iran (Islamic Republic of)
+2029,4.03,Iran (Islamic Republic of)
+2030,4.03,Iran (Islamic Republic of)
+2031,4.03,Iran (Islamic Republic of)
+2032,4.03,Iran (Islamic Republic of)
+2033,4.03,Iran (Islamic Republic of)
+2034,4.03,Iran (Islamic Republic of)
+2024,4.11,Iraq
+2025,4.11,Iraq
+2026,4.11,Iraq
+2027,4.11,Iraq
+2028,4.11,Iraq
+2029,4.11,Iraq
+2030,4.11,Iraq
+2031,4.11,Iraq
+2032,4.11,Iraq
+2033,4.11,Iraq
+2034,4.11,Iraq
+2024,2.19,Italy
+2025,2.19,Italy
+2026,2.19,Italy
+2027,2.19,Italy
+2028,2.19,Italy
+2029,2.19,Italy
+2030,2.19,Italy
+2031,2.19,Italy
+2032,2.19,Italy
+2033,2.19,Italy
+2034,2.19,Italy
+2024,1.52,Japan
+2025,1.48,Japan
+2026,1.52,Japan
+2027,1.49,Japan
+2028,1.52,Japan
+2029,1.49,Japan
+2030,1.51,Japan
+2031,1.49,Japan
+2032,1.51,Japan
+2033,1.49,Japan
+2034,1.51,Japan
+2024,9.8,Kazakhstan
+2025,9.76,Kazakhstan
+2026,9.78,Kazakhstan
+2027,9.77,Kazakhstan
+2028,9.77,Kazakhstan
+2029,9.77,Kazakhstan
+2030,9.77,Kazakhstan
+2031,9.77,Kazakhstan
+2032,9.77,Kazakhstan
+2033,9.77,Kazakhstan
+2034,9.77,Kazakhstan
+2024,1.93,Kenya
+2025,2.01,Kenya
+2026,1.99,Kenya
+2027,1.99,Kenya
+2028,1.99,Kenya
+2029,1.99,Kenya
+2030,1.99,Kenya
+2031,1.99,Kenya
+2032,1.99,Kenya
+2033,1.99,Kenya
+2034,1.99,Kenya
+2024,4.46,Kyrgyzstan
+2025,4.41,Kyrgyzstan
+2026,4.39,Kyrgyzstan
+2027,4.38,Kyrgyzstan
+2028,4.37,Kyrgyzstan
+2029,4.37,Kyrgyzstan
+2030,4.37,Kyrgyzstan
+2031,4.36,Kyrgyzstan
+2032,4.36,Kyrgyzstan
+2033,4.36,Kyrgyzstan
+2034,4.36,Kyrgyzstan
+2024,6.79,Land Locked Developing Countries
+2025,6.78,Land Locked Developing Countries
+2026,6.77,Land Locked Developing Countries
+2027,6.77,Land Locked Developing Countries
+2028,6.77,Land Locked Developing Countries
+2029,6.77,Land Locked Developing Countries
+2030,6.77,Land Locked Developing Countries
+2031,6.77,Land Locked Developing Countries
+2032,6.77,Land Locked Developing Countries
+2033,6.77,Land Locked Developing Countries
+2034,6.77,Land Locked Developing Countries
+2024,3.99,Lao People's Democratic Republic
+2025,3.99,Lao People's Democratic Republic
+2026,3.99,Lao People's Democratic Republic
+2027,3.99,Lao People's Democratic Republic
+2028,3.99,Lao People's Democratic Republic
+2029,3.99,Lao People's Democratic Republic
+2030,3.99,Lao People's Democratic Republic
+2031,3.99,Lao People's Democratic Republic
+2032,3.99,Lao People's Democratic Republic
+2033,3.99,Lao People's Democratic Republic
+2034,3.99,Lao People's Democratic Republic
+2024,5.08,Least Developed Countries
+2025,5.08,Least Developed Countries
+2026,5.08,Least Developed Countries
+2027,5.08,Least Developed Countries
+2028,5.08,Least Developed Countries
+2029,5.08,Least Developed Countries
+2030,5.08,Least Developed Countries
+2031,5.08,Least Developed Countries
+2032,5.08,Least Developed Countries
+2033,5.08,Least Developed Countries
+2034,5.08,Least Developed Countries
+2024,9.64,Liberia
+2025,9.63,Liberia
+2026,9.64,Liberia
+2027,9.63,Liberia
+2028,9.64,Liberia
+2029,9.63,Liberia
+2030,9.64,Liberia
+2031,9.63,Liberia
+2032,9.64,Liberia
+2033,9.63,Liberia
+2034,9.64,Liberia
+2024,4.43,Low Income Food Deficit Countries
+2025,4.45,Low Income Food Deficit Countries
+2026,4.48,Low Income Food Deficit Countries
+2027,4.5,Low Income Food Deficit Countries
+2028,4.51,Low Income Food Deficit Countries
+2029,4.53,Low Income Food Deficit Countries
+2030,4.54,Low Income Food Deficit Countries
+2031,4.55,Low Income Food Deficit Countries
+2032,4.56,Low Income Food Deficit Countries
+2033,4.57,Low Income Food Deficit Countries
+2034,4.58,Low Income Food Deficit Countries
+2024,10.0,Madagascar
+2025,10.0,Madagascar
+2026,10.0,Madagascar
+2027,10.0,Madagascar
+2028,10.0,Madagascar
+2029,10.0,Madagascar
+2030,10.0,Madagascar
+2031,10.0,Madagascar
+2032,10.0,Madagascar
+2033,10.0,Madagascar
+2034,10.0,Madagascar
+2024,3.97,Malawi
+2025,3.92,Malawi
+2026,3.91,Malawi
+2027,3.9,Malawi
+2028,3.9,Malawi
+2029,3.9,Malawi
+2030,3.9,Malawi
+2031,3.9,Malawi
+2032,3.9,Malawi
+2033,3.9,Malawi
+2034,3.9,Malawi
+2024,4.09,Malaysia
+2025,4.09,Malaysia
+2026,4.09,Malaysia
+2027,4.09,Malaysia
+2028,4.09,Malaysia
+2029,4.09,Malaysia
+2030,4.09,Malaysia
+2031,4.09,Malaysia
+2032,4.09,Malaysia
+2033,4.09,Malaysia
+2034,4.09,Malaysia
+2024,8.36,Mali
+2025,8.37,Mali
+2026,8.37,Mali
+2027,8.38,Mali
+2028,8.38,Mali
+2029,8.38,Mali
+2030,8.38,Mali
+2031,8.38,Mali
+2032,8.38,Mali
+2033,8.38,Mali
+2034,8.38,Mali
+2024,3.18,Mauritania
+2025,3.17,Mauritania
+2026,3.17,Mauritania
+2027,3.17,Mauritania
+2028,3.17,Mauritania
+2029,3.17,Mauritania
+2030,3.17,Mauritania
+2031,3.17,Mauritania
+2032,3.17,Mauritania
+2033,3.17,Mauritania
+2034,3.17,Mauritania
+2024,0.0,Mauritius
+2025,0.0,Mauritius
+2026,0.0,Mauritius
+2027,0.0,Mauritius
+2028,0.0,Mauritius
+2029,0.0,Mauritius
+2030,0.0,Mauritius
+2031,0.0,Mauritius
+2032,0.0,Mauritius
+2033,0.0,Mauritius
+2034,0.0,Mauritius
+2024,9.37,Melanesia
+2025,9.29,Melanesia
+2026,9.3,Melanesia
+2027,9.29,Melanesia
+2028,9.29,Melanesia
+2029,9.29,Melanesia
+2030,9.29,Melanesia
+2031,9.29,Melanesia
+2032,9.29,Melanesia
+2033,9.29,Melanesia
+2034,9.29,Melanesia
+2024,12.88,Mexico
+2025,12.97,Mexico
+2026,12.95,Mexico
+2027,12.95,Mexico
+2028,12.95,Mexico
+2029,12.95,Mexico
+2030,12.95,Mexico
+2031,12.95,Mexico
+2032,12.95,Mexico
+2033,12.95,Mexico
+2034,12.95,Mexico
+2024,7.37,Middle Africa
+2025,7.4,Middle Africa
+2026,7.42,Middle Africa
+2027,7.43,Middle Africa
+2028,7.43,Middle Africa
+2029,7.43,Middle Africa
+2030,7.43,Middle Africa
+2031,7.43,Middle Africa
+2032,7.43,Middle Africa
+2033,7.43,Middle Africa
+2034,7.43,Middle Africa
+2024,4.91,Morocco
+2025,4.38,Morocco
+2026,4.88,Morocco
+2027,4.4,Morocco
+2028,4.86,Morocco
+2029,4.43,Morocco
+2030,4.84,Morocco
+2031,4.45,Morocco
+2032,4.82,Morocco
+2033,4.46,Morocco
+2034,4.8,Morocco
+2024,3.79,Mozambique
+2025,3.76,Mozambique
+2026,3.76,Mozambique
+2027,3.76,Mozambique
+2028,3.76,Mozambique
+2029,3.76,Mozambique
+2030,3.76,Mozambique
+2031,3.76,Mozambique
+2032,3.76,Mozambique
+2033,3.76,Mozambique
+2034,3.76,Mozambique
+2024,3.92,Myanmar
+2025,3.87,Myanmar
+2026,3.91,Myanmar
+2027,3.88,Myanmar
+2028,3.9,Myanmar
+2029,3.89,Myanmar
+2030,3.9,Myanmar
+2031,3.89,Myanmar
+2032,3.89,Myanmar
+2033,3.89,Myanmar
+2034,3.89,Myanmar
+2024,9.96,Nepal
+2025,10.15,Nepal
+2026,10.27,Nepal
+2027,10.36,Nepal
+2028,10.43,Nepal
+2029,10.48,Nepal
+2030,10.51,Nepal
+2031,10.53,Nepal
+2032,10.55,Nepal
+2033,10.56,Nepal
+2034,10.57,Nepal
+2024,5.03,Net Food Importing Developing Countries
+2025,5.02,Net Food Importing Developing Countries
+2026,5.02,Net Food Importing Developing Countries
+2027,5.02,Net Food Importing Developing Countries
+2028,5.02,Net Food Importing Developing Countries
+2029,5.02,Net Food Importing Developing Countries
+2030,5.02,Net Food Importing Developing Countries
+2031,5.02,Net Food Importing Developing Countries
+2032,5.02,Net Food Importing Developing Countries
+2033,5.02,Net Food Importing Developing Countries
+2034,5.02,Net Food Importing Developing Countries
+2024,1.71,Nicaragua
+2025,1.69,Nicaragua
+2026,1.7,Nicaragua
+2027,1.69,Nicaragua
+2028,1.7,Nicaragua
+2029,1.69,Nicaragua
+2030,1.7,Nicaragua
+2031,1.69,Nicaragua
+2032,1.7,Nicaragua
+2033,1.69,Nicaragua
+2034,1.69,Nicaragua
+2024,4.02,Niger
+2025,4.03,Niger
+2026,4.03,Niger
+2027,4.03,Niger
+2028,4.03,Niger
+2029,4.03,Niger
+2030,4.03,Niger
+2031,4.03,Niger
+2032,4.03,Niger
+2033,4.03,Niger
+2034,4.03,Niger
+2024,3.98,Nigeria
+2025,3.98,Nigeria
+2026,3.98,Nigeria
+2027,3.98,Nigeria
+2028,3.98,Nigeria
+2029,3.98,Nigeria
+2030,3.98,Nigeria
+2031,3.98,Nigeria
+2032,3.98,Nigeria
+2033,3.98,Nigeria
+2034,3.98,Nigeria
+2024,0.46,North Macedonia
+2025,0.32,North Macedonia
+2026,0.36,North Macedonia
+2027,0.35,North Macedonia
+2028,0.35,North Macedonia
+2029,0.35,North Macedonia
+2030,0.35,North Macedonia
+2031,0.35,North Macedonia
+2032,0.35,North Macedonia
+2033,0.35,North Macedonia
+2034,0.35,North Macedonia
+2024,4.18,Northern Africa
+2025,4.2,Northern Africa
+2026,4.2,Northern Africa
+2027,4.21,Northern Africa
+2028,4.21,Northern Africa
+2029,4.21,Northern Africa
+2030,4.21,Northern Africa
+2031,4.21,Northern Africa
+2032,4.21,Northern Africa
+2033,4.21,Northern Africa
+2034,4.21,Northern Africa
+2024,3.98,Northern America
+2025,3.98,Northern America
+2026,3.98,Northern America
+2027,3.98,Northern America
+2028,3.98,Northern America
+2029,3.98,Northern America
+2030,3.98,Northern America
+2031,3.98,Northern America
+2032,3.98,Northern America
+2033,3.98,Northern America
+2034,3.98,Northern America
+2024,2.13,Oceania
+2025,2.19,Oceania
+2026,2.19,Oceania
+2027,2.19,Oceania
+2028,2.19,Oceania
+2029,2.19,Oceania
+2030,2.19,Oceania
+2031,2.19,Oceania
+2032,2.19,Oceania
+2033,2.19,Oceania
+2034,2.19,Oceania
+2024,3.98,Pakistan
+2025,3.98,Pakistan
+2026,3.98,Pakistan
+2027,3.98,Pakistan
+2028,3.98,Pakistan
+2029,3.98,Pakistan
+2030,3.98,Pakistan
+2031,3.98,Pakistan
+2032,3.98,Pakistan
+2033,3.98,Pakistan
+2034,3.98,Pakistan
+2024,2.37,Panama
+2025,2.36,Panama
+2026,2.36,Panama
+2027,2.36,Panama
+2028,2.36,Panama
+2029,2.36,Panama
+2030,2.36,Panama
+2031,2.36,Panama
+2032,2.36,Panama
+2033,2.36,Panama
+2034,2.36,Panama
+2024,0.0,Papua New Guinea
+2025,0.0,Papua New Guinea
+2026,0.0,Papua New Guinea
+2027,0.0,Papua New Guinea
+2028,0.0,Papua New Guinea
+2029,0.0,Papua New Guinea
+2030,0.0,Papua New Guinea
+2031,0.0,Papua New Guinea
+2032,0.0,Papua New Guinea
+2033,0.0,Papua New Guinea
+2034,0.0,Papua New Guinea
+2024,3.97,Paraguay
+2025,3.97,Paraguay
+2026,3.97,Paraguay
+2027,3.97,Paraguay
+2028,3.97,Paraguay
+2029,3.97,Paraguay
+2030,3.97,Paraguay
+2031,3.97,Paraguay
+2032,3.97,Paraguay
+2033,3.97,Paraguay
+2034,3.97,Paraguay
+2024,1.98,Peru
+2025,1.98,Peru
+2026,1.98,Peru
+2027,1.98,Peru
+2028,1.98,Peru
+2029,1.98,Peru
+2030,1.98,Peru
+2031,1.98,Peru
+2032,1.98,Peru
+2033,1.98,Peru
+2034,1.98,Peru
+2024,0.98,Philippines
+2025,0.98,Philippines
+2026,0.98,Philippines
+2027,0.98,Philippines
+2028,0.98,Philippines
+2029,0.98,Philippines
+2030,0.98,Philippines
+2031,0.98,Philippines
+2032,0.98,Philippines
+2033,0.98,Philippines
+2034,0.98,Philippines
+2024,0.05,Portugal
+2025,0.05,Portugal
+2026,0.05,Portugal
+2027,0.05,Portugal
+2028,0.05,Portugal
+2029,0.05,Portugal
+2030,0.05,Portugal
+2031,0.05,Portugal
+2032,0.05,Portugal
+2033,0.05,Portugal
+2034,0.05,Portugal
+2024,3.99,Republic of Korea
+2025,4.0,Republic of Korea
+2026,4.0,Republic of Korea
+2027,4.0,Republic of Korea
+2028,4.0,Republic of Korea
+2029,4.0,Republic of Korea
+2030,4.0,Republic of Korea
+2031,4.0,Republic of Korea
+2032,4.0,Republic of Korea
+2033,4.0,Republic of Korea
+2034,4.0,Republic of Korea
+2024,8.22,Romania
+2025,8.15,Romania
+2026,8.18,Romania
+2027,8.17,Romania
+2028,8.17,Romania
+2029,8.17,Romania
+2030,8.17,Romania
+2031,8.17,Romania
+2032,8.17,Romania
+2033,8.17,Romania
+2034,8.17,Romania
+2024,1.82,Russian Federation
+2025,1.9,Russian Federation
+2026,1.84,Russian Federation
+2027,1.88,Russian Federation
+2028,1.85,Russian Federation
+2029,1.87,Russian Federation
+2030,1.86,Russian Federation
+2031,1.87,Russian Federation
+2032,1.86,Russian Federation
+2033,1.87,Russian Federation
+2034,1.86,Russian Federation
+2024,3.93,Rwanda
+2025,3.97,Rwanda
+2026,3.97,Rwanda
+2027,3.97,Rwanda
+2028,3.97,Rwanda
+2029,3.97,Rwanda
+2030,3.97,Rwanda
+2031,3.97,Rwanda
+2032,3.97,Rwanda
+2033,3.97,Rwanda
+2034,3.97,Rwanda
+2024,4.21,Senegal
+2025,4.21,Senegal
+2026,4.21,Senegal
+2027,4.21,Senegal
+2028,4.21,Senegal
+2029,4.21,Senegal
+2030,4.21,Senegal
+2031,4.21,Senegal
+2032,4.21,Senegal
+2033,4.21,Senegal
+2034,4.21,Senegal
+2024,12.19,Sierra Leone
+2025,12.19,Sierra Leone
+2026,12.19,Sierra Leone
+2027,12.19,Sierra Leone
+2028,12.19,Sierra Leone
+2029,12.19,Sierra Leone
+2030,12.19,Sierra Leone
+2031,12.19,Sierra Leone
+2032,12.19,Sierra Leone
+2033,12.19,Sierra Leone
+2034,12.19,Sierra Leone
+2024,4.72,Small Island Developing States
+2025,4.71,Small Island Developing States
+2026,4.71,Small Island Developing States
+2027,4.71,Small Island Developing States
+2028,4.71,Small Island Developing States
+2029,4.71,Small Island Developing States
+2030,4.71,Small Island Developing States
+2031,4.71,Small Island Developing States
+2032,4.71,Small Island Developing States
+2033,4.71,Small Island Developing States
+2034,4.71,Small Island Developing States
+2024,0.0,Solomon Islands
+2025,0.0,Solomon Islands
+2026,0.0,Solomon Islands
+2027,0.0,Solomon Islands
+2028,0.0,Solomon Islands
+2029,0.0,Solomon Islands
+2030,0.0,Solomon Islands
+2031,0.0,Solomon Islands
+2032,0.0,Solomon Islands
+2033,0.0,Solomon Islands
+2034,0.0,Solomon Islands
+2024,0.0,South Africa
+2025,0.0,South Africa
+2026,0.0,South Africa
+2027,0.0,South Africa
+2028,0.0,South Africa
+2029,0.0,South Africa
+2030,0.0,South Africa
+2031,0.0,South Africa
+2032,0.0,South Africa
+2033,0.0,South Africa
+2034,0.0,South Africa
+2024,6.01,South America
+2025,6.02,South America
+2026,6.02,South America
+2027,6.02,South America
+2028,6.02,South America
+2029,6.02,South America
+2030,6.02,South America
+2031,6.02,South America
+2032,6.02,South America
+2033,6.02,South America
+2034,6.02,South America
+2024,5.03,South-eastern Asia
+2025,5.05,South-eastern Asia
+2026,5.04,South-eastern Asia
+2027,5.05,South-eastern Asia
+2028,5.04,South-eastern Asia
+2029,5.04,South-eastern Asia
+2030,5.04,South-eastern Asia
+2031,5.04,South-eastern Asia
+2032,5.04,South-eastern Asia
+2033,5.04,South-eastern Asia
+2034,5.04,South-eastern Asia
+2024,0.0,Southern Africa
+2025,0.0,Southern Africa
+2026,0.0,Southern Africa
+2027,0.0,Southern Africa
+2028,0.0,Southern Africa
+2029,0.0,Southern Africa
+2030,0.0,Southern Africa
+2031,0.0,Southern Africa
+2032,0.0,Southern Africa
+2033,0.0,Southern Africa
+2034,0.0,Southern Africa
+2024,3.27,Southern Asia
+2025,3.3,Southern Asia
+2026,3.33,Southern Asia
+2027,3.36,Southern Asia
+2028,3.37,Southern Asia
+2029,3.39,Southern Asia
+2030,3.4,Southern Asia
+2031,3.41,Southern Asia
+2032,3.42,Southern Asia
+2033,3.43,Southern Asia
+2034,3.43,Southern Asia
+2024,2.79,Southern Europe
+2025,2.79,Southern Europe
+2026,2.79,Southern Europe
+2027,2.79,Southern Europe
+2028,2.79,Southern Europe
+2029,2.79,Southern Europe
+2030,2.79,Southern Europe
+2031,2.79,Southern Europe
+2032,2.79,Southern Europe
+2033,2.79,Southern Europe
+2034,2.79,Southern Europe
+2024,4.14,Spain
+2025,4.17,Spain
+2026,4.18,Spain
+2027,4.19,Spain
+2028,4.19,Spain
+2029,4.19,Spain
+2030,4.19,Spain
+2031,4.19,Spain
+2032,4.19,Spain
+2033,4.19,Spain
+2034,4.19,Spain
+2024,4.59,Sri Lanka
+2025,4.59,Sri Lanka
+2026,4.59,Sri Lanka
+2027,4.59,Sri Lanka
+2028,4.59,Sri Lanka
+2029,4.59,Sri Lanka
+2030,4.59,Sri Lanka
+2031,4.59,Sri Lanka
+2032,4.59,Sri Lanka
+2033,4.59,Sri Lanka
+2034,4.59,Sri Lanka
+2024,4.04,Sudan
+2025,4.75,Sudan
+2026,5.2,Sudan
+2027,5.48,Sudan
+2028,5.67,Sudan
+2029,5.78,Sudan
+2030,5.86,Sudan
+2031,5.91,Sudan
+2032,5.94,Sudan
+2033,5.96,Sudan
+2034,5.97,Sudan
+2024,10.85,Suriname
+2025,10.86,Suriname
+2026,10.86,Suriname
+2027,10.86,Suriname
+2028,10.86,Suriname
+2029,10.86,Suriname
+2030,10.86,Suriname
+2031,10.86,Suriname
+2032,10.86,Suriname
+2033,10.86,Suriname
+2034,10.86,Suriname
+2024,3.86,Tajikistan
+2025,3.97,Tajikistan
+2026,3.9,Tajikistan
+2027,3.95,Tajikistan
+2028,3.92,Tajikistan
+2029,3.94,Tajikistan
+2030,3.92,Tajikistan
+2031,3.93,Tajikistan
+2032,3.93,Tajikistan
+2033,3.93,Tajikistan
+2034,3.93,Tajikistan
+2024,3.98,Thailand
+2025,3.98,Thailand
+2026,3.98,Thailand
+2027,3.98,Thailand
+2028,3.98,Thailand
+2029,3.98,Thailand
+2030,3.98,Thailand
+2031,3.98,Thailand
+2032,3.98,Thailand
+2033,3.98,Thailand
+2034,3.98,Thailand
+2024,4.18,Timor-Leste
+2025,4.22,Timor-Leste
+2026,4.21,Timor-Leste
+2027,4.22,Timor-Leste
+2028,4.21,Timor-Leste
+2029,4.21,Timor-Leste
+2030,4.21,Timor-Leste
+2031,4.21,Timor-Leste
+2032,4.21,Timor-Leste
+2033,4.21,Timor-Leste
+2034,4.21,Timor-Leste
+2024,8.11,Togo
+2025,8.11,Togo
+2026,8.11,Togo
+2027,8.11,Togo
+2028,8.11,Togo
+2029,8.11,Togo
+2030,8.11,Togo
+2031,8.11,Togo
+2032,8.11,Togo
+2033,8.11,Togo
+2034,8.11,Togo
+2024,0.0,Trinidad and Tobago
+2025,0.0,Trinidad and Tobago
+2026,0.0,Trinidad and Tobago
+2027,0.0,Trinidad and Tobago
+2028,0.0,Trinidad and Tobago
+2029,0.0,Trinidad and Tobago
+2030,0.0,Trinidad and Tobago
+2031,0.0,Trinidad and Tobago
+2032,0.0,Trinidad and Tobago
+2033,0.0,Trinidad and Tobago
+2034,0.0,Trinidad and Tobago
+2024,4.07,Turkmenistan
+2025,4.13,Turkmenistan
+2026,4.19,Turkmenistan
+2027,4.23,Turkmenistan
+2028,4.26,Turkmenistan
+2029,4.29,Turkmenistan
+2030,4.32,Turkmenistan
+2031,4.34,Turkmenistan
+2032,4.35,Turkmenistan
+2033,4.37,Turkmenistan
+2034,4.38,Turkmenistan
+2024,3.18,Türkiye
+2025,3.19,Türkiye
+2026,3.2,Türkiye
+2027,3.2,Türkiye
+2028,3.21,Türkiye
+2029,3.21,Türkiye
+2030,3.21,Türkiye
+2031,3.22,Türkiye
+2032,3.22,Türkiye
+2033,3.22,Türkiye
+2034,3.22,Türkiye
+2024,5.76,Uganda
+2025,2.92,Uganda
+2026,5.14,Uganda
+2027,3.41,Uganda
+2028,4.77,Uganda
+2029,3.7,Uganda
+2030,4.53,Uganda
+2031,3.88,Uganda
+2032,4.39,Uganda
+2033,3.99,Uganda
+2034,4.31,Uganda
+2024,1.96,Ukraine
+2025,1.92,Ukraine
+2026,1.92,Ukraine
+2027,1.92,Ukraine
+2028,1.92,Ukraine
+2029,1.92,Ukraine
+2030,1.92,Ukraine
+2031,1.92,Ukraine
+2032,1.92,Ukraine
+2033,1.92,Ukraine
+2034,1.92,Ukraine
+2024,1.52,United Republic of Tanzania
+2025,1.52,United Republic of Tanzania
+2026,1.52,United Republic of Tanzania
+2027,1.52,United Republic of Tanzania
+2028,1.52,United Republic of Tanzania
+2029,1.52,United Republic of Tanzania
+2030,1.52,United Republic of Tanzania
+2031,1.52,United Republic of Tanzania
+2032,1.52,United Republic of Tanzania
+2033,1.52,United Republic of Tanzania
+2034,1.52,United Republic of Tanzania
+2024,3.98,United States of America
+2025,3.98,United States of America
+2026,3.98,United States of America
+2027,3.98,United States of America
+2028,3.98,United States of America
+2029,3.98,United States of America
+2030,3.98,United States of America
+2031,3.98,United States of America
+2032,3.98,United States of America
+2033,3.98,United States of America
+2034,3.98,United States of America
+2024,1.99,Uruguay
+2025,1.99,Uruguay
+2026,1.99,Uruguay
+2027,1.99,Uruguay
+2028,1.99,Uruguay
+2029,1.99,Uruguay
+2030,1.99,Uruguay
+2031,1.99,Uruguay
+2032,1.99,Uruguay
+2033,1.99,Uruguay
+2034,1.99,Uruguay
+2024,4.13,Uzbekistan
+2025,4.1,Uzbekistan
+2026,4.13,Uzbekistan
+2027,4.1,Uzbekistan
+2028,4.13,Uzbekistan
+2029,4.11,Uzbekistan
+2030,4.13,Uzbekistan
+2031,4.11,Uzbekistan
+2032,4.12,Uzbekistan
+2033,4.11,Uzbekistan
+2034,4.12,Uzbekistan
+2024,4.14,Venezuela (Bolivarian Republic of)
+2025,4.19,Venezuela (Bolivarian Republic of)
+2026,4.19,Venezuela (Bolivarian Republic of)
+2027,4.19,Venezuela (Bolivarian Republic of)
+2028,4.19,Venezuela (Bolivarian Republic of)
+2029,4.19,Venezuela (Bolivarian Republic of)
+2030,4.19,Venezuela (Bolivarian Republic of)
+2031,4.19,Venezuela (Bolivarian Republic of)
+2032,4.19,Venezuela (Bolivarian Republic of)
+2033,4.19,Venezuela (Bolivarian Republic of)
+2034,4.19,Venezuela (Bolivarian Republic of)
+2024,8.8,Viet Nam
+2025,8.83,Viet Nam
+2026,8.81,Viet Nam
+2027,8.82,Viet Nam
+2028,8.82,Viet Nam
+2029,8.82,Viet Nam
+2030,8.82,Viet Nam
+2031,8.82,Viet Nam
+2032,8.82,Viet Nam
+2033,8.82,Viet Nam
+2034,8.82,Viet Nam
+2024,8.94,Western Africa
+2025,8.93,Western Africa
+2026,8.94,Western Africa
+2027,8.93,Western Africa
+2028,8.94,Western Africa
+2029,8.93,Western Africa
+2030,8.94,Western Africa
+2031,8.94,Western Africa
+2032,8.94,Western Africa
+2033,8.94,Western Africa
+2034,8.94,Western Africa
+2024,3.58,Western Asia
+2025,3.64,Western Asia
+2026,3.69,Western Asia
+2027,3.73,Western Asia
+2028,3.76,Western Asia
+2029,3.79,Western Asia
+2030,3.82,Western Asia
+2031,3.84,Western Asia
+2032,3.86,Western Asia
+2033,3.88,Western Asia
+2034,3.89,Western Asia
+2024,1.95,Western Europe
+2025,2.04,Western Europe
+2026,2.05,Western Europe
+2027,2.05,Western Europe
+2028,2.05,Western Europe
+2029,2.05,Western Europe
+2030,2.05,Western Europe
+2031,2.05,Western Europe
+2032,2.05,Western Europe
+2033,2.05,Western Europe
+2034,2.05,Western Europe
+2024,4.18,World
+2025,4.18,World
+2026,4.18,World
+2027,4.18,World
+2028,4.18,World
+2029,4.18,World
+2030,4.18,World
+2031,4.18,World
+2032,4.18,World
+2033,4.18,World
+2034,4.18,World
+2024,6.87,Zambia
+2025,6.39,Zambia
+2026,6.25,Zambia
+2027,6.22,Zambia
+2028,6.21,Zambia
+2029,6.2,Zambia
+2030,6.2,Zambia
+2031,6.2,Zambia
+2032,6.2,Zambia
+2033,6.2,Zambia
+2034,6.2,Zambia
+2024,0.0,Zimbabwe
+2025,0.0,Zimbabwe
+2026,0.0,Zimbabwe
+2027,0.0,Zimbabwe
+2028,0.0,Zimbabwe
+2029,0.0,Zimbabwe
+2030,0.0,Zimbabwe
+2031,0.0,Zimbabwe
+2032,0.0,Zimbabwe
+2033,0.0,Zimbabwe
+2034,0.0,Zimbabwe
+2024,7.04,Afghanistan
+2025,7.04,Afghanistan
+2026,7.04,Afghanistan
+2027,7.04,Afghanistan
+2028,7.04,Afghanistan
+2029,7.04,Afghanistan
+2030,7.04,Afghanistan
+2031,7.04,Afghanistan
+2032,7.04,Afghanistan
+2033,7.04,Afghanistan
+2034,7.04,Afghanistan
+2024,7.49,Africa
+2025,7.47,Africa
+2026,7.47,Africa
+2027,7.47,Africa
+2028,7.47,Africa
+2029,7.47,Africa
+2030,7.47,Africa
+2031,7.47,Africa
+2032,7.47,Africa
+2033,7.47,Africa
+2034,7.47,Africa
+2024,5.33,Americas
+2025,5.31,Americas
+2026,5.33,Americas
+2027,5.32,Americas
+2028,5.33,Americas
+2029,5.32,Americas
+2030,5.33,Americas
+2031,5.32,Americas
+2032,5.32,Americas
+2033,5.32,Americas
+2034,5.32,Americas
+2024,-0.25,Angola
+2025,-0.5,Angola
+2026,-0.75,Angola
+2027,-1.0,Angola
+2028,-1.25,Angola
+2029,-1.5,Angola
+2030,-1.74,Angola
+2031,-1.99,Angola
+2032,-2.24,Angola
+2033,-2.49,Angola
+2034,-2.74,Angola
+2024,3.98,Argentina
+2025,3.96,Argentina
+2026,3.95,Argentina
+2027,3.94,Argentina
+2028,3.93,Argentina
+2029,3.92,Argentina
+2030,3.91,Argentina
+2031,3.91,Argentina
+2032,3.9,Argentina
+2033,3.9,Argentina
+2034,3.9,Argentina
+2024,3.96,Asia
+2025,3.96,Asia
+2026,3.96,Asia
+2027,3.96,Asia
+2028,3.96,Asia
+2029,3.96,Asia
+2030,3.96,Asia
+2031,3.96,Asia
+2032,3.96,Asia
+2033,3.96,Asia
+2034,3.96,Asia
+2024,1.81,Australia
+2025,1.84,Australia
+2026,1.83,Australia
+2027,1.83,Australia
+2028,1.83,Australia
+2029,1.83,Australia
+2030,1.83,Australia
+2031,1.83,Australia
+2032,1.83,Australia
+2033,1.83,Australia
+2034,1.83,Australia
+2024,1.81,Australia and New Zealand
+2025,1.84,Australia and New Zealand
+2026,1.83,Australia and New Zealand
+2027,1.83,Australia and New Zealand
+2028,1.83,Australia and New Zealand
+2029,1.83,Australia and New Zealand
+2030,1.83,Australia and New Zealand
+2031,1.83,Australia and New Zealand
+2032,1.83,Australia and New Zealand
+2033,1.83,Australia and New Zealand
+2034,1.83,Australia and New Zealand
+2024,8.73,Azerbaijan
+2025,11.11,Azerbaijan
+2026,8.73,Azerbaijan
+2027,11.11,Azerbaijan
+2028,8.73,Azerbaijan
+2029,11.11,Azerbaijan
+2030,8.73,Azerbaijan
+2031,11.11,Azerbaijan
+2032,8.73,Azerbaijan
+2033,11.11,Azerbaijan
+2034,8.73,Azerbaijan
+2024,3.98,Bangladesh
+2025,3.98,Bangladesh
+2026,3.98,Bangladesh
+2027,3.98,Bangladesh
+2028,3.98,Bangladesh
+2029,3.98,Bangladesh
+2030,3.98,Bangladesh
+2031,3.98,Bangladesh
+2032,3.98,Bangladesh
+2033,3.98,Bangladesh
+2034,3.98,Bangladesh
+2024,6.63,Belize
+2025,6.74,Belize
+2026,6.72,Belize
+2027,6.72,Belize
+2028,6.72,Belize
+2029,6.72,Belize
+2030,6.72,Belize
+2031,6.72,Belize
+2032,6.72,Belize
+2033,6.72,Belize
+2034,6.72,Belize
+2024,25.28,Benin
+2025,25.3,Benin
+2026,25.31,Benin
+2027,25.31,Benin
+2028,25.31,Benin
+2029,25.31,Benin
+2030,25.31,Benin
+2031,25.31,Benin
+2032,25.31,Benin
+2033,25.31,Benin
+2034,25.31,Benin
+2024,2.03,Bolivia (Plurinational State of)
+2025,2.04,Bolivia (Plurinational State of)
+2026,2.03,Bolivia (Plurinational State of)
+2027,2.04,Bolivia (Plurinational State of)
+2028,2.04,Bolivia (Plurinational State of)
+2029,2.04,Bolivia (Plurinational State of)
+2030,2.04,Bolivia (Plurinational State of)
+2031,2.04,Bolivia (Plurinational State of)
+2032,2.04,Bolivia (Plurinational State of)
+2033,2.04,Bolivia (Plurinational State of)
+2034,2.04,Bolivia (Plurinational State of)
+2024,10.23,Brazil
+2025,10.22,Brazil
+2026,10.23,Brazil
+2027,10.23,Brazil
+2028,10.23,Brazil
+2029,10.23,Brazil
+2030,10.23,Brazil
+2031,10.23,Brazil
+2032,10.23,Brazil
+2033,10.23,Brazil
+2034,10.23,Brazil
+2024,4.55,Bulgaria
+2025,4.55,Bulgaria
+2026,4.55,Bulgaria
+2027,4.55,Bulgaria
+2028,4.55,Bulgaria
+2029,4.55,Bulgaria
+2030,4.55,Bulgaria
+2031,4.55,Bulgaria
+2032,4.55,Bulgaria
+2033,4.55,Bulgaria
+2034,4.55,Bulgaria
+2024,1.86,Burkina Faso
+2025,1.82,Burkina Faso
+2026,1.84,Burkina Faso
+2027,1.83,Burkina Faso
+2028,1.84,Burkina Faso
+2029,1.83,Burkina Faso
+2030,1.83,Burkina Faso
+2031,1.83,Burkina Faso
+2032,1.83,Burkina Faso
+2033,1.83,Burkina Faso
+2034,1.83,Burkina Faso
+2024,4.06,Burundi
+2025,4.09,Burundi
+2026,4.11,Burundi
+2027,4.12,Burundi
+2028,4.12,Burundi
+2029,4.12,Burundi
+2030,4.13,Burundi
+2031,4.13,Burundi
+2032,4.13,Burundi
+2033,4.13,Burundi
+2034,4.13,Burundi
+2024,5.0,Cambodia
+2025,5.0,Cambodia
+2026,5.0,Cambodia
+2027,5.0,Cambodia
+2028,5.0,Cambodia
+2029,5.0,Cambodia
+2030,5.0,Cambodia
+2031,5.0,Cambodia
+2032,5.0,Cambodia
+2033,5.0,Cambodia
+2034,5.0,Cambodia
+2024,3.9,Cameroon
+2025,3.93,Cameroon
+2026,3.91,Cameroon
+2027,3.92,Cameroon
+2028,3.92,Cameroon
+2029,3.92,Cameroon
+2030,3.92,Cameroon
+2031,3.92,Cameroon
+2032,3.92,Cameroon
+2033,3.92,Cameroon
+2034,3.92,Cameroon
+2024,3.51,Caribbean
+2025,3.53,Caribbean
+2026,3.52,Caribbean
+2027,3.53,Caribbean
+2028,3.52,Caribbean
+2029,3.53,Caribbean
+2030,3.53,Caribbean
+2031,3.53,Caribbean
+2032,3.53,Caribbean
+2033,3.53,Caribbean
+2034,3.53,Caribbean
+2024,0.02,Central African Republic
+2025,0.01,Central African Republic
+2026,0.01,Central African Republic
+2027,0.01,Central African Republic
+2028,0.01,Central African Republic
+2029,0.01,Central African Republic
+2030,0.01,Central African Republic
+2031,0.01,Central African Republic
+2032,0.01,Central African Republic
+2033,0.01,Central African Republic
+2034,0.01,Central African Republic
+2024,4.88,Central America
+2025,4.89,Central America
+2026,4.89,Central America
+2027,4.89,Central America
+2028,4.89,Central America
+2029,4.89,Central America
+2030,4.89,Central America
+2031,4.89,Central America
+2032,4.89,Central America
+2033,4.89,Central America
+2034,4.89,Central America
+2024,6.79,Central Asia
+2025,6.77,Central Asia
+2026,6.76,Central Asia
+2027,6.75,Central Asia
+2028,6.75,Central Asia
+2029,6.74,Central Asia
+2030,6.74,Central Asia
+2031,6.73,Central Asia
+2032,6.73,Central Asia
+2033,6.73,Central Asia
+2034,6.73,Central Asia
+2024,12.99,Chad
+2025,12.98,Chad
+2026,12.98,Chad
+2027,12.98,Chad
+2028,12.98,Chad
+2029,12.98,Chad
+2030,12.98,Chad
+2031,12.98,Chad
+2032,12.98,Chad
+2033,12.98,Chad
+2034,12.98,Chad
+2024,1.17,Chile
+2025,1.17,Chile
+2026,1.17,Chile
+2027,1.17,Chile
+2028,1.17,Chile
+2029,1.17,Chile
+2030,1.17,Chile
+2031,1.17,Chile
+2032,1.17,Chile
+2033,1.17,Chile
+2034,1.17,Chile
+2024,3.95,China
+2025,3.95,China
+2026,3.95,China
+2027,3.95,China
+2028,3.95,China
+2029,3.95,China
+2030,3.95,China
+2031,3.95,China
+2032,3.95,China
+2033,3.95,China
+2034,3.95,China
+2024,0.92,"China, Taiwan Province of"
+2025,0.92,"China, Taiwan Province of"
+2026,0.92,"China, Taiwan Province of"
+2027,0.92,"China, Taiwan Province of"
+2028,0.92,"China, Taiwan Province of"
+2029,0.92,"China, Taiwan Province of"
+2030,0.92,"China, Taiwan Province of"
+2031,0.92,"China, Taiwan Province of"
+2032,0.92,"China, Taiwan Province of"
+2033,0.92,"China, Taiwan Province of"
+2034,0.92,"China, Taiwan Province of"
+2024,3.98,"China, mainland"
+2025,3.98,"China, mainland"
+2026,3.98,"China, mainland"
+2027,3.98,"China, mainland"
+2028,3.98,"China, mainland"
+2029,3.98,"China, mainland"
+2030,3.98,"China, mainland"
+2031,3.98,"China, mainland"
+2032,3.98,"China, mainland"
+2033,3.98,"China, mainland"
+2034,3.98,"China, mainland"
+2024,1.04,Colombia
+2025,1.04,Colombia
+2026,1.04,Colombia
+2027,1.04,Colombia
+2028,1.04,Colombia
+2029,1.04,Colombia
+2030,1.04,Colombia
+2031,1.04,Colombia
+2032,1.04,Colombia
+2033,1.04,Colombia
+2034,1.04,Colombia
+2024,3.22,Comoros
+2025,3.22,Comoros
+2026,3.22,Comoros
+2027,3.21,Comoros
+2028,3.21,Comoros
+2029,3.21,Comoros
+2030,3.2,Comoros
+2031,3.2,Comoros
+2032,3.2,Comoros
+2033,3.2,Comoros
+2034,3.2,Comoros
+2024,9.29,Congo
+2025,9.11,Congo
+2026,9.12,Congo
+2027,9.12,Congo
+2028,9.12,Congo
+2029,9.12,Congo
+2030,9.12,Congo
+2031,9.12,Congo
+2032,9.12,Congo
+2033,9.12,Congo
+2034,9.12,Congo
+2024,6.02,Costa Rica
+2025,6.09,Costa Rica
+2026,6.11,Costa Rica
+2027,6.12,Costa Rica
+2028,6.12,Costa Rica
+2029,6.12,Costa Rica
+2030,6.12,Costa Rica
+2031,6.12,Costa Rica
+2032,6.12,Costa Rica
+2033,6.12,Costa Rica
+2034,6.12,Costa Rica
+2024,5.09,Cuba
+2025,4.94,Cuba
+2026,5.04,Cuba
+2027,4.97,Cuba
+2028,5.02,Cuba
+2029,4.99,Cuba
+2030,5.01,Cuba
+2031,4.99,Cuba
+2032,5.01,Cuba
+2033,5.0,Cuba
+2034,5.0,Cuba
+2024,13.98,Côte d'Ivoire
+2025,13.98,Côte d'Ivoire
+2026,13.98,Côte d'Ivoire
+2027,13.98,Côte d'Ivoire
+2028,13.98,Côte d'Ivoire
+2029,13.98,Côte d'Ivoire
+2030,13.98,Côte d'Ivoire
+2031,13.98,Côte d'Ivoire
+2032,13.98,Côte d'Ivoire
+2033,13.98,Côte d'Ivoire
+2034,13.98,Côte d'Ivoire
+2024,1.89,Democratic People's Republic of Korea
+2025,1.89,Democratic People's Republic of Korea
+2026,1.89,Democratic People's Republic of Korea
+2027,1.89,Democratic People's Republic of Korea
+2028,1.89,Democratic People's Republic of Korea
+2029,1.89,Democratic People's Republic of Korea
+2030,1.89,Democratic People's Republic of Korea
+2031,1.89,Democratic People's Republic of Korea
+2032,1.89,Democratic People's Republic of Korea
+2033,1.89,Democratic People's Republic of Korea
+2034,1.89,Democratic People's Republic of Korea
+2024,7.01,Democratic Republic of the Congo
+2025,7.02,Democratic Republic of the Congo
+2026,7.01,Democratic Republic of the Congo
+2027,7.02,Democratic Republic of the Congo
+2028,7.02,Democratic Republic of the Congo
+2029,7.02,Democratic Republic of the Congo
+2030,7.02,Democratic Republic of the Congo
+2031,7.02,Democratic Republic of the Congo
+2032,7.02,Democratic Republic of the Congo
+2033,7.02,Democratic Republic of the Congo
+2034,7.02,Democratic Republic of the Congo
+2024,3.05,Dominican Republic
+2025,3.08,Dominican Republic
+2026,3.05,Dominican Republic
+2027,3.07,Dominican Republic
+2028,3.05,Dominican Republic
+2029,3.07,Dominican Republic
+2030,3.06,Dominican Republic
+2031,3.07,Dominican Republic
+2032,3.06,Dominican Republic
+2033,3.07,Dominican Republic
+2034,3.06,Dominican Republic
+2024,5.51,Eastern Africa
+2025,5.44,Eastern Africa
+2026,5.47,Eastern Africa
+2027,5.46,Eastern Africa
+2028,5.46,Eastern Africa
+2029,5.46,Eastern Africa
+2030,5.46,Eastern Africa
+2031,5.46,Eastern Africa
+2032,5.46,Eastern Africa
+2033,5.46,Eastern Africa
+2034,5.46,Eastern Africa
+2024,3.82,Eastern Asia
+2025,3.83,Eastern Asia
+2026,3.82,Eastern Asia
+2027,3.82,Eastern Asia
+2028,3.82,Eastern Asia
+2029,3.82,Eastern Asia
+2030,3.82,Eastern Asia
+2031,3.82,Eastern Asia
+2032,3.82,Eastern Asia
+2033,3.82,Eastern Asia
+2034,3.82,Eastern Asia
+2024,2.11,Eastern Europe
+2025,2.13,Eastern Europe
+2026,2.12,Eastern Europe
+2027,2.12,Eastern Europe
+2028,2.12,Eastern Europe
+2029,2.12,Eastern Europe
+2030,2.12,Eastern Europe
+2031,2.12,Eastern Europe
+2032,2.12,Eastern Europe
+2033,2.12,Eastern Europe
+2034,2.12,Eastern Europe
+2024,4.35,Ecuador
+2025,4.35,Ecuador
+2026,4.35,Ecuador
+2027,4.35,Ecuador
+2028,4.35,Ecuador
+2029,4.35,Ecuador
+2030,4.35,Ecuador
+2031,4.35,Ecuador
+2032,4.35,Ecuador
+2033,4.35,Ecuador
+2034,4.35,Ecuador
+2024,4.16,Egypt
+2025,4.18,Egypt
+2026,4.19,Egypt
+2027,4.19,Egypt
+2028,4.19,Egypt
+2029,4.19,Egypt
+2030,4.19,Egypt
+2031,4.19,Egypt
+2032,4.19,Egypt
+2033,4.19,Egypt
+2034,4.19,Egypt
+2024,3.74,El Salvador
+2025,3.75,El Salvador
+2026,3.76,El Salvador
+2027,3.76,El Salvador
+2028,3.76,El Salvador
+2029,3.76,El Salvador
+2030,3.76,El Salvador
+2031,3.76,El Salvador
+2032,3.76,El Salvador
+2033,3.76,El Salvador
+2034,3.76,El Salvador
+2024,0.0,Eswatini
+2025,0.0,Eswatini
+2026,0.0,Eswatini
+2027,0.0,Eswatini
+2028,0.0,Eswatini
+2029,0.0,Eswatini
+2030,0.0,Eswatini
+2031,0.0,Eswatini
+2032,0.0,Eswatini
+2033,0.0,Eswatini
+2034,0.0,Eswatini
+2024,4.13,Ethiopia
+2025,4.19,Ethiopia
+2026,4.14,Ethiopia
+2027,4.18,Ethiopia
+2028,4.15,Ethiopia
+2029,4.17,Ethiopia
+2030,4.16,Ethiopia
+2031,4.17,Ethiopia
+2032,4.16,Ethiopia
+2033,4.17,Ethiopia
+2034,4.16,Ethiopia
+2024,2.56,Europe
+2025,2.56,Europe
+2026,2.56,Europe
+2027,2.56,Europe
+2028,2.56,Europe
+2029,2.56,Europe
+2030,2.56,Europe
+2031,2.56,Europe
+2032,2.56,Europe
+2033,2.56,Europe
+2034,2.56,Europe
+2024,2.81,European Union (27)
+2025,2.85,European Union (27)
+2026,2.81,European Union (27)
+2027,2.85,European Union (27)
+2028,2.81,European Union (27)
+2029,2.85,European Union (27)
+2030,2.81,European Union (27)
+2031,2.85,European Union (27)
+2032,2.81,European Union (27)
+2033,2.85,European Union (27)
+2034,2.81,European Union (27)
+2024,12.94,Fiji
+2025,12.88,Fiji
+2026,12.89,Fiji
+2027,12.89,Fiji
+2028,12.89,Fiji
+2029,12.89,Fiji
+2030,12.89,Fiji
+2031,12.89,Fiji
+2032,12.89,Fiji
+2033,12.89,Fiji
+2034,12.89,Fiji
+2024,1.39,France
+2025,1.38,France
+2026,1.38,France
+2027,1.38,France
+2028,1.38,France
+2029,1.38,France
+2030,1.38,France
+2031,1.38,France
+2032,1.38,France
+2033,1.38,France
+2034,1.38,France
+2024,0.0,Gabon
+2025,0.0,Gabon
+2026,0.0,Gabon
+2027,0.0,Gabon
+2028,0.0,Gabon
+2029,0.0,Gabon
+2030,0.0,Gabon
+2031,0.0,Gabon
+2032,0.0,Gabon
+2033,0.0,Gabon
+2034,0.0,Gabon
+2024,3.95,Gambia
+2025,4.16,Gambia
+2026,4.26,Gambia
+2027,4.32,Gambia
+2028,4.35,Gambia
+2029,4.37,Gambia
+2030,4.38,Gambia
+2031,4.38,Gambia
+2032,4.38,Gambia
+2033,4.38,Gambia
+2034,4.38,Gambia
+2024,15.01,Ghana
+2025,15.01,Ghana
+2026,15.01,Ghana
+2027,15.01,Ghana
+2028,15.01,Ghana
+2029,15.01,Ghana
+2030,15.01,Ghana
+2031,15.01,Ghana
+2032,15.01,Ghana
+2033,15.01,Ghana
+2034,15.01,Ghana
+2024,3.7,Greece
+2025,3.77,Greece
+2026,3.73,Greece
+2027,3.75,Greece
+2028,3.74,Greece
+2029,3.74,Greece
+2030,3.74,Greece
+2031,3.74,Greece
+2032,3.74,Greece
+2033,3.74,Greece
+2034,3.74,Greece
+2024,4.39,Guatemala
+2025,4.2,Guatemala
+2026,4.37,Guatemala
+2027,4.22,Guatemala
+2028,4.35,Guatemala
+2029,4.23,Guatemala
+2030,4.34,Guatemala
+2031,4.25,Guatemala
+2032,4.33,Guatemala
+2033,4.26,Guatemala
+2034,4.32,Guatemala
+2024,20.01,Guinea
+2025,20.01,Guinea
+2026,20.01,Guinea
+2027,20.01,Guinea
+2028,20.01,Guinea
+2029,20.01,Guinea
+2030,20.01,Guinea
+2031,20.01,Guinea
+2032,20.01,Guinea
+2033,20.01,Guinea
+2034,20.01,Guinea
+2024,3.82,Guinea-Bissau
+2025,3.93,Guinea-Bissau
+2026,3.87,Guinea-Bissau
+2027,3.9,Guinea-Bissau
+2028,3.89,Guinea-Bissau
+2029,3.9,Guinea-Bissau
+2030,3.89,Guinea-Bissau
+2031,3.89,Guinea-Bissau
+2032,3.89,Guinea-Bissau
+2033,3.89,Guinea-Bissau
+2034,3.89,Guinea-Bissau
+2024,4.25,Guyana
+2025,4.23,Guyana
+2026,4.24,Guyana
+2027,4.24,Guyana
+2028,4.24,Guyana
+2029,4.24,Guyana
+2030,4.24,Guyana
+2031,4.24,Guyana
+2032,4.24,Guyana
+2033,4.24,Guyana
+2034,4.24,Guyana
+2024,3.96,Haiti
+2025,3.94,Haiti
+2026,3.94,Haiti
+2027,3.94,Haiti
+2028,3.94,Haiti
+2029,3.94,Haiti
+2030,3.94,Haiti
+2031,3.94,Haiti
+2032,3.94,Haiti
+2033,3.94,Haiti
+2034,3.94,Haiti
+2024,4.27,Honduras
+2025,4.23,Honduras
+2026,4.22,Honduras
+2027,4.22,Honduras
+2028,4.22,Honduras
+2029,4.22,Honduras
+2030,4.22,Honduras
+2031,4.22,Honduras
+2032,4.22,Honduras
+2033,4.22,Honduras
+2034,4.22,Honduras
+2024,0.0,Hungary
+2025,0.0,Hungary
+2026,0.0,Hungary
+2027,0.0,Hungary
+2028,0.0,Hungary
+2029,0.0,Hungary
+2030,0.0,Hungary
+2031,0.0,Hungary
+2032,0.0,Hungary
+2033,0.0,Hungary
+2034,0.0,Hungary
+2024,2.76,India
+2025,2.82,India
+2026,2.86,India
+2027,2.89,India
+2028,2.92,India
+2029,2.94,India
+2030,2.95,India
+2031,2.96,India
+2032,2.97,India
+2033,2.97,India
+2034,2.98,India
+2024,4.95,Indonesia
+2025,4.97,Indonesia
+2026,4.98,Indonesia
+2027,4.98,Indonesia
+2028,4.98,Indonesia
+2029,4.98,Indonesia
+2030,4.98,Indonesia
+2031,4.98,Indonesia
+2032,4.98,Indonesia
+2033,4.98,Indonesia
+2034,4.98,Indonesia
+2024,4.02,Iran (Islamic Republic of)
+2025,4.02,Iran (Islamic Republic of)
+2026,4.02,Iran (Islamic Republic of)
+2027,4.03,Iran (Islamic Republic of)
+2028,4.03,Iran (Islamic Republic of)
+2029,4.03,Iran (Islamic Republic of)
+2030,4.03,Iran (Islamic Republic of)
+2031,4.03,Iran (Islamic Republic of)
+2032,4.03,Iran (Islamic Republic of)
+2033,4.03,Iran (Islamic Republic of)
+2034,4.03,Iran (Islamic Republic of)
+2024,4.11,Iraq
+2025,4.11,Iraq
+2026,4.11,Iraq
+2027,4.11,Iraq
+2028,4.11,Iraq
+2029,4.11,Iraq
+2030,4.11,Iraq
+2031,4.11,Iraq
+2032,4.11,Iraq
+2033,4.11,Iraq
+2034,4.11,Iraq
+2024,2.19,Italy
+2025,2.19,Italy
+2026,2.19,Italy
+2027,2.19,Italy
+2028,2.19,Italy
+2029,2.19,Italy
+2030,2.19,Italy
+2031,2.19,Italy
+2032,2.19,Italy
+2033,2.19,Italy
+2034,2.19,Italy
+2024,1.52,Japan
+2025,1.48,Japan
+2026,1.52,Japan
+2027,1.49,Japan
+2028,1.52,Japan
+2029,1.49,Japan
+2030,1.51,Japan
+2031,1.49,Japan
+2032,1.51,Japan
+2033,1.49,Japan
+2034,1.51,Japan
+2024,9.8,Kazakhstan
+2025,9.76,Kazakhstan
+2026,9.78,Kazakhstan
+2027,9.77,Kazakhstan
+2028,9.77,Kazakhstan
+2029,9.77,Kazakhstan
+2030,9.77,Kazakhstan
+2031,9.77,Kazakhstan
+2032,9.77,Kazakhstan
+2033,9.77,Kazakhstan
+2034,9.77,Kazakhstan
+2024,1.93,Kenya
+2025,2.01,Kenya
+2026,1.99,Kenya
+2027,1.99,Kenya
+2028,1.99,Kenya
+2029,1.99,Kenya
+2030,1.99,Kenya
+2031,1.99,Kenya
+2032,1.99,Kenya
+2033,1.99,Kenya
+2034,1.99,Kenya
+2024,4.46,Kyrgyzstan
+2025,4.41,Kyrgyzstan
+2026,4.39,Kyrgyzstan
+2027,4.38,Kyrgyzstan
+2028,4.37,Kyrgyzstan
+2029,4.37,Kyrgyzstan
+2030,4.37,Kyrgyzstan
+2031,4.36,Kyrgyzstan
+2032,4.36,Kyrgyzstan
+2033,4.36,Kyrgyzstan
+2034,4.36,Kyrgyzstan
+2024,6.79,Land Locked Developing Countries
+2025,6.78,Land Locked Developing Countries
+2026,6.77,Land Locked Developing Countries
+2027,6.77,Land Locked Developing Countries
+2028,6.77,Land Locked Developing Countries
+2029,6.77,Land Locked Developing Countries
+2030,6.77,Land Locked Developing Countries
+2031,6.77,Land Locked Developing Countries
+2032,6.77,Land Locked Developing Countries
+2033,6.77,Land Locked Developing Countries
+2034,6.77,Land Locked Developing Countries
+2024,3.99,Lao People's Democratic Republic
+2025,3.99,Lao People's Democratic Republic
+2026,3.99,Lao People's Democratic Republic
+2027,3.99,Lao People's Democratic Republic
+2028,3.99,Lao People's Democratic Republic
+2029,3.99,Lao People's Democratic Republic
+2030,3.99,Lao People's Democratic Republic
+2031,3.99,Lao People's Democratic Republic
+2032,3.99,Lao People's Democratic Republic
+2033,3.99,Lao People's Democratic Republic
+2034,3.99,Lao People's Democratic Republic
+2024,5.08,Least Developed Countries
+2025,5.08,Least Developed Countries
+2026,5.08,Least Developed Countries
+2027,5.08,Least Developed Countries
+2028,5.08,Least Developed Countries
+2029,5.08,Least Developed Countries
+2030,5.08,Least Developed Countries
+2031,5.08,Least Developed Countries
+2032,5.08,Least Developed Countries
+2033,5.08,Least Developed Countries
+2034,5.08,Least Developed Countries
+2024,9.64,Liberia
+2025,9.63,Liberia
+2026,9.64,Liberia
+2027,9.63,Liberia
+2028,9.64,Liberia
+2029,9.63,Liberia
+2030,9.64,Liberia
+2031,9.63,Liberia
+2032,9.64,Liberia
+2033,9.63,Liberia
+2034,9.64,Liberia
+2024,4.43,Low Income Food Deficit Countries
+2025,4.45,Low Income Food Deficit Countries
+2026,4.48,Low Income Food Deficit Countries
+2027,4.5,Low Income Food Deficit Countries
+2028,4.51,Low Income Food Deficit Countries
+2029,4.53,Low Income Food Deficit Countries
+2030,4.54,Low Income Food Deficit Countries
+2031,4.55,Low Income Food Deficit Countries
+2032,4.56,Low Income Food Deficit Countries
+2033,4.57,Low Income Food Deficit Countries
+2034,4.58,Low Income Food Deficit Countries
+2024,10.0,Madagascar
+2025,10.0,Madagascar
+2026,10.0,Madagascar
+2027,10.0,Madagascar
+2028,10.0,Madagascar
+2029,10.0,Madagascar
+2030,10.0,Madagascar
+2031,10.0,Madagascar
+2032,10.0,Madagascar
+2033,10.0,Madagascar
+2034,10.0,Madagascar
+2024,3.97,Malawi
+2025,3.92,Malawi
+2026,3.91,Malawi
+2027,3.9,Malawi
+2028,3.9,Malawi
+2029,3.9,Malawi
+2030,3.9,Malawi
+2031,3.9,Malawi
+2032,3.9,Malawi
+2033,3.9,Malawi
+2034,3.9,Malawi
+2024,4.09,Malaysia
+2025,4.09,Malaysia
+2026,4.09,Malaysia
+2027,4.09,Malaysia
+2028,4.09,Malaysia
+2029,4.09,Malaysia
+2030,4.09,Malaysia
+2031,4.09,Malaysia
+2032,4.09,Malaysia
+2033,4.09,Malaysia
+2034,4.09,Malaysia
+2024,8.36,Mali
+2025,8.37,Mali
+2026,8.37,Mali
+2027,8.38,Mali
+2028,8.38,Mali
+2029,8.38,Mali
+2030,8.38,Mali
+2031,8.38,Mali
+2032,8.38,Mali
+2033,8.38,Mali
+2034,8.38,Mali
+2024,3.18,Mauritania
+2025,3.17,Mauritania
+2026,3.17,Mauritania
+2027,3.17,Mauritania
+2028,3.17,Mauritania
+2029,3.17,Mauritania
+2030,3.17,Mauritania
+2031,3.17,Mauritania
+2032,3.17,Mauritania
+2033,3.17,Mauritania
+2034,3.17,Mauritania
+2024,0.0,Mauritius
+2025,0.0,Mauritius
+2026,0.0,Mauritius
+2027,0.0,Mauritius
+2028,0.0,Mauritius
+2029,0.0,Mauritius
+2030,0.0,Mauritius
+2031,0.0,Mauritius
+2032,0.0,Mauritius
+2033,0.0,Mauritius
+2034,0.0,Mauritius
+2024,9.37,Melanesia
+2025,9.29,Melanesia
+2026,9.3,Melanesia
+2027,9.29,Melanesia
+2028,9.29,Melanesia
+2029,9.29,Melanesia
+2030,9.29,Melanesia
+2031,9.29,Melanesia
+2032,9.29,Melanesia
+2033,9.29,Melanesia
+2034,9.29,Melanesia
+2024,12.88,Mexico
+2025,12.97,Mexico
+2026,12.95,Mexico
+2027,12.95,Mexico
+2028,12.95,Mexico
+2029,12.95,Mexico
+2030,12.95,Mexico
+2031,12.95,Mexico
+2032,12.95,Mexico
+2033,12.95,Mexico
+2034,12.95,Mexico
+2024,7.37,Middle Africa
+2025,7.4,Middle Africa
+2026,7.42,Middle Africa
+2027,7.43,Middle Africa
+2028,7.43,Middle Africa
+2029,7.43,Middle Africa
+2030,7.43,Middle Africa
+2031,7.43,Middle Africa
+2032,7.43,Middle Africa
+2033,7.43,Middle Africa
+2034,7.43,Middle Africa
+2024,4.91,Morocco
+2025,4.38,Morocco
+2026,4.88,Morocco
+2027,4.4,Morocco
+2028,4.86,Morocco
+2029,4.43,Morocco
+2030,4.84,Morocco
+2031,4.45,Morocco
+2032,4.82,Morocco
+2033,4.46,Morocco
+2034,4.8,Morocco
+2024,3.79,Mozambique
+2025,3.76,Mozambique
+2026,3.76,Mozambique
+2027,3.76,Mozambique
+2028,3.76,Mozambique
+2029,3.76,Mozambique
+2030,3.76,Mozambique
+2031,3.76,Mozambique
+2032,3.76,Mozambique
+2033,3.76,Mozambique
+2034,3.76,Mozambique
+2024,3.92,Myanmar
+2025,3.87,Myanmar
+2026,3.91,Myanmar
+2027,3.88,Myanmar
+2028,3.9,Myanmar
+2029,3.89,Myanmar
+2030,3.9,Myanmar
+2031,3.89,Myanmar
+2032,3.89,Myanmar
+2033,3.89,Myanmar
+2034,3.89,Myanmar
+2024,9.96,Nepal
+2025,10.15,Nepal
+2026,10.27,Nepal
+2027,10.36,Nepal
+2028,10.43,Nepal
+2029,10.48,Nepal
+2030,10.51,Nepal
+2031,10.53,Nepal
+2032,10.55,Nepal
+2033,10.56,Nepal
+2034,10.57,Nepal
+2024,5.03,Net Food Importing Developing Countries
+2025,5.02,Net Food Importing Developing Countries
+2026,5.02,Net Food Importing Developing Countries
+2027,5.02,Net Food Importing Developing Countries
+2028,5.02,Net Food Importing Developing Countries
+2029,5.02,Net Food Importing Developing Countries
+2030,5.02,Net Food Importing Developing Countries
+2031,5.02,Net Food Importing Developing Countries
+2032,5.02,Net Food Importing Developing Countries
+2033,5.02,Net Food Importing Developing Countries
+2034,5.02,Net Food Importing Developing Countries
+2024,1.71,Nicaragua
+2025,1.69,Nicaragua
+2026,1.7,Nicaragua
+2027,1.69,Nicaragua
+2028,1.7,Nicaragua
+2029,1.69,Nicaragua
+2030,1.7,Nicaragua
+2031,1.69,Nicaragua
+2032,1.7,Nicaragua
+2033,1.69,Nicaragua
+2034,1.69,Nicaragua
+2024,4.02,Niger
+2025,4.03,Niger
+2026,4.03,Niger
+2027,4.03,Niger
+2028,4.03,Niger
+2029,4.03,Niger
+2030,4.03,Niger
+2031,4.03,Niger
+2032,4.03,Niger
+2033,4.03,Niger
+2034,4.03,Niger
+2024,3.98,Nigeria
+2025,3.98,Nigeria
+2026,3.98,Nigeria
+2027,3.98,Nigeria
+2028,3.98,Nigeria
+2029,3.98,Nigeria
+2030,3.98,Nigeria
+2031,3.98,Nigeria
+2032,3.98,Nigeria
+2033,3.98,Nigeria
+2034,3.98,Nigeria
+2024,0.46,North Macedonia
+2025,0.32,North Macedonia
+2026,0.36,North Macedonia
+2027,0.35,North Macedonia
+2028,0.35,North Macedonia
+2029,0.35,North Macedonia
+2030,0.35,North Macedonia
+2031,0.35,North Macedonia
+2032,0.35,North Macedonia
+2033,0.35,North Macedonia
+2034,0.35,North Macedonia
+2024,4.18,Northern Africa
+2025,4.2,Northern Africa
+2026,4.2,Northern Africa
+2027,4.21,Northern Africa
+2028,4.21,Northern Africa
+2029,4.21,Northern Africa
+2030,4.21,Northern Africa
+2031,4.21,Northern Africa
+2032,4.21,Northern Africa
+2033,4.21,Northern Africa
+2034,4.21,Northern Africa
+2024,3.98,Northern America
+2025,3.98,Northern America
+2026,3.98,Northern America
+2027,3.98,Northern America
+2028,3.98,Northern America
+2029,3.98,Northern America
+2030,3.98,Northern America
+2031,3.98,Northern America
+2032,3.98,Northern America
+2033,3.98,Northern America
+2034,3.98,Northern America
+2024,2.13,Oceania
+2025,2.19,Oceania
+2026,2.19,Oceania
+2027,2.19,Oceania
+2028,2.19,Oceania
+2029,2.19,Oceania
+2030,2.19,Oceania
+2031,2.19,Oceania
+2032,2.19,Oceania
+2033,2.19,Oceania
+2034,2.19,Oceania
+2024,3.98,Pakistan
+2025,3.98,Pakistan
+2026,3.98,Pakistan
+2027,3.98,Pakistan
+2028,3.98,Pakistan
+2029,3.98,Pakistan
+2030,3.98,Pakistan
+2031,3.98,Pakistan
+2032,3.98,Pakistan
+2033,3.98,Pakistan
+2034,3.98,Pakistan
+2024,2.37,Panama
+2025,2.36,Panama
+2026,2.36,Panama
+2027,2.36,Panama
+2028,2.36,Panama
+2029,2.36,Panama
+2030,2.36,Panama
+2031,2.36,Panama
+2032,2.36,Panama
+2033,2.36,Panama
+2034,2.36,Panama
+2024,0.0,Papua New Guinea
+2025,0.0,Papua New Guinea
+2026,0.0,Papua New Guinea
+2027,0.0,Papua New Guinea
+2028,0.0,Papua New Guinea
+2029,0.0,Papua New Guinea
+2030,0.0,Papua New Guinea
+2031,0.0,Papua New Guinea
+2032,0.0,Papua New Guinea
+2033,0.0,Papua New Guinea
+2034,0.0,Papua New Guinea
+2024,3.97,Paraguay
+2025,3.97,Paraguay
+2026,3.97,Paraguay
+2027,3.97,Paraguay
+2028,3.97,Paraguay
+2029,3.97,Paraguay
+2030,3.97,Paraguay
+2031,3.97,Paraguay
+2032,3.97,Paraguay
+2033,3.97,Paraguay
+2034,3.97,Paraguay
+2024,1.98,Peru
+2025,1.98,Peru
+2026,1.98,Peru
+2027,1.98,Peru
+2028,1.98,Peru
+2029,1.98,Peru
+2030,1.98,Peru
+2031,1.98,Peru
+2032,1.98,Peru
+2033,1.98,Peru
+2034,1.98,Peru
+2024,0.98,Philippines
+2025,0.98,Philippines
+2026,0.98,Philippines
+2027,0.98,Philippines
+2028,0.98,Philippines
+2029,0.98,Philippines
+2030,0.98,Philippines
+2031,0.98,Philippines
+2032,0.98,Philippines
+2033,0.98,Philippines
+2034,0.98,Philippines
+2024,0.05,Portugal
+2025,0.05,Portugal
+2026,0.05,Portugal
+2027,0.05,Portugal
+2028,0.05,Portugal
+2029,0.05,Portugal
+2030,0.05,Portugal
+2031,0.05,Portugal
+2032,0.05,Portugal
+2033,0.05,Portugal
+2034,0.05,Portugal
+2024,3.99,Republic of Korea
+2025,4.0,Republic of Korea
+2026,4.0,Republic of Korea
+2027,4.0,Republic of Korea
+2028,4.0,Republic of Korea
+2029,4.0,Republic of Korea
+2030,4.0,Republic of Korea
+2031,4.0,Republic of Korea
+2032,4.0,Republic of Korea
+2033,4.0,Republic of Korea
+2034,4.0,Republic of Korea
+2024,8.22,Romania
+2025,8.15,Romania
+2026,8.18,Romania
+2027,8.17,Romania
+2028,8.17,Romania
+2029,8.17,Romania
+2030,8.17,Romania
+2031,8.17,Romania
+2032,8.17,Romania
+2033,8.17,Romania
+2034,8.17,Romania
+2024,1.82,Russian Federation
+2025,1.9,Russian Federation
+2026,1.84,Russian Federation
+2027,1.88,Russian Federation
+2028,1.85,Russian Federation
+2029,1.87,Russian Federation
+2030,1.86,Russian Federation
+2031,1.87,Russian Federation
+2032,1.86,Russian Federation
+2033,1.87,Russian Federation
+2034,1.86,Russian Federation
+2024,3.93,Rwanda
+2025,3.97,Rwanda
+2026,3.97,Rwanda
+2027,3.97,Rwanda
+2028,3.97,Rwanda
+2029,3.97,Rwanda
+2030,3.97,Rwanda
+2031,3.97,Rwanda
+2032,3.97,Rwanda
+2033,3.97,Rwanda
+2034,3.97,Rwanda
+2024,4.21,Senegal
+2025,4.21,Senegal
+2026,4.21,Senegal
+2027,4.21,Senegal
+2028,4.21,Senegal
+2029,4.21,Senegal
+2030,4.21,Senegal
+2031,4.21,Senegal
+2032,4.21,Senegal
+2033,4.21,Senegal
+2034,4.21,Senegal
+2024,12.19,Sierra Leone
+2025,12.19,Sierra Leone
+2026,12.19,Sierra Leone
+2027,12.19,Sierra Leone
+2028,12.19,Sierra Leone
+2029,12.19,Sierra Leone
+2030,12.19,Sierra Leone
+2031,12.19,Sierra Leone
+2032,12.19,Sierra Leone
+2033,12.19,Sierra Leone
+2034,12.19,Sierra Leone
+2024,4.72,Small Island Developing States
+2025,4.71,Small Island Developing States
+2026,4.71,Small Island Developing States
+2027,4.71,Small Island Developing States
+2028,4.71,Small Island Developing States
+2029,4.71,Small Island Developing States
+2030,4.71,Small Island Developing States
+2031,4.71,Small Island Developing States
+2032,4.71,Small Island Developing States
+2033,4.71,Small Island Developing States
+2034,4.71,Small Island Developing States
+2024,0.0,Solomon Islands
+2025,0.0,Solomon Islands
+2026,0.0,Solomon Islands
+2027,0.0,Solomon Islands
+2028,0.0,Solomon Islands
+2029,0.0,Solomon Islands
+2030,0.0,Solomon Islands
+2031,0.0,Solomon Islands
+2032,0.0,Solomon Islands
+2033,0.0,Solomon Islands
+2034,0.0,Solomon Islands
+2024,0.0,South Africa
+2025,0.0,South Africa
+2026,0.0,South Africa
+2027,0.0,South Africa
+2028,0.0,South Africa
+2029,0.0,South Africa
+2030,0.0,South Africa
+2031,0.0,South Africa
+2032,0.0,South Africa
+2033,0.0,South Africa
+2034,0.0,South Africa
+2024,6.01,South America
+2025,6.02,South America
+2026,6.02,South America
+2027,6.02,South America
+2028,6.02,South America
+2029,6.02,South America
+2030,6.02,South America
+2031,6.02,South America
+2032,6.02,South America
+2033,6.02,South America
+2034,6.02,South America
+2024,5.03,South-eastern Asia
+2025,5.05,South-eastern Asia
+2026,5.04,South-eastern Asia
+2027,5.05,South-eastern Asia
+2028,5.04,South-eastern Asia
+2029,5.04,South-eastern Asia
+2030,5.04,South-eastern Asia
+2031,5.04,South-eastern Asia
+2032,5.04,South-eastern Asia
+2033,5.04,South-eastern Asia
+2034,5.04,South-eastern Asia
+2024,0.0,Southern Africa
+2025,0.0,Southern Africa
+2026,0.0,Southern Africa
+2027,0.0,Southern Africa
+2028,0.0,Southern Africa
+2029,0.0,Southern Africa
+2030,0.0,Southern Africa
+2031,0.0,Southern Africa
+2032,0.0,Southern Africa
+2033,0.0,Southern Africa
+2034,0.0,Southern Africa
+2024,3.27,Southern Asia
+2025,3.3,Southern Asia
+2026,3.33,Southern Asia
+2027,3.36,Southern Asia
+2028,3.37,Southern Asia
+2029,3.39,Southern Asia
+2030,3.4,Southern Asia
+2031,3.41,Southern Asia
+2032,3.42,Southern Asia
+2033,3.43,Southern Asia
+2034,3.43,Southern Asia
+2024,2.79,Southern Europe
+2025,2.79,Southern Europe
+2026,2.79,Southern Europe
+2027,2.79,Southern Europe
+2028,2.79,Southern Europe
+2029,2.79,Southern Europe
+2030,2.79,Southern Europe
+2031,2.79,Southern Europe
+2032,2.79,Southern Europe
+2033,2.79,Southern Europe
+2034,2.79,Southern Europe
+2024,4.14,Spain
+2025,4.17,Spain
+2026,4.18,Spain
+2027,4.19,Spain
+2028,4.19,Spain
+2029,4.19,Spain
+2030,4.19,Spain
+2031,4.19,Spain
+2032,4.19,Spain
+2033,4.19,Spain
+2034,4.19,Spain
+2024,4.59,Sri Lanka
+2025,4.59,Sri Lanka
+2026,4.59,Sri Lanka
+2027,4.59,Sri Lanka
+2028,4.59,Sri Lanka
+2029,4.59,Sri Lanka
+2030,4.59,Sri Lanka
+2031,4.59,Sri Lanka
+2032,4.59,Sri Lanka
+2033,4.59,Sri Lanka
+2034,4.59,Sri Lanka
+2024,4.04,Sudan
+2025,4.75,Sudan
+2026,5.2,Sudan
+2027,5.48,Sudan
+2028,5.67,Sudan
+2029,5.78,Sudan
+2030,5.86,Sudan
+2031,5.91,Sudan
+2032,5.94,Sudan
+2033,5.96,Sudan
+2034,5.97,Sudan
+2024,10.85,Suriname
+2025,10.86,Suriname
+2026,10.86,Suriname
+2027,10.86,Suriname
+2028,10.86,Suriname
+2029,10.86,Suriname
+2030,10.86,Suriname
+2031,10.86,Suriname
+2032,10.86,Suriname
+2033,10.86,Suriname
+2034,10.86,Suriname
+2024,3.86,Tajikistan
+2025,3.97,Tajikistan
+2026,3.9,Tajikistan
+2027,3.95,Tajikistan
+2028,3.92,Tajikistan
+2029,3.94,Tajikistan
+2030,3.92,Tajikistan
+2031,3.93,Tajikistan
+2032,3.93,Tajikistan
+2033,3.93,Tajikistan
+2034,3.93,Tajikistan
+2024,3.98,Thailand
+2025,3.98,Thailand
+2026,3.98,Thailand
+2027,3.98,Thailand
+2028,3.98,Thailand
+2029,3.98,Thailand
+2030,3.98,Thailand
+2031,3.98,Thailand
+2032,3.98,Thailand
+2033,3.98,Thailand
+2034,3.98,Thailand
+2024,4.18,Timor-Leste
+2025,4.22,Timor-Leste
+2026,4.21,Timor-Leste
+2027,4.22,Timor-Leste
+2028,4.21,Timor-Leste
+2029,4.21,Timor-Leste
+2030,4.21,Timor-Leste
+2031,4.21,Timor-Leste
+2032,4.21,Timor-Leste
+2033,4.21,Timor-Leste
+2034,4.21,Timor-Leste
+2024,8.11,Togo
+2025,8.11,Togo
+2026,8.11,Togo
+2027,8.11,Togo
+2028,8.11,Togo
+2029,8.11,Togo
+2030,8.11,Togo
+2031,8.11,Togo
+2032,8.11,Togo
+2033,8.11,Togo
+2034,8.11,Togo
+2024,0.0,Trinidad and Tobago
+2025,0.0,Trinidad and Tobago
+2026,0.0,Trinidad and Tobago
+2027,0.0,Trinidad and Tobago
+2028,0.0,Trinidad and Tobago
+2029,0.0,Trinidad and Tobago
+2030,0.0,Trinidad and Tobago
+2031,0.0,Trinidad and Tobago
+2032,0.0,Trinidad and Tobago
+2033,0.0,Trinidad and Tobago
+2034,0.0,Trinidad and Tobago
+2024,4.07,Turkmenistan
+2025,4.13,Turkmenistan
+2026,4.19,Turkmenistan
+2027,4.23,Turkmenistan
+2028,4.26,Turkmenistan
+2029,4.29,Turkmenistan
+2030,4.32,Turkmenistan
+2031,4.34,Turkmenistan
+2032,4.35,Turkmenistan
+2033,4.37,Turkmenistan
+2034,4.38,Turkmenistan
+2024,3.18,Türkiye
+2025,3.19,Türkiye
+2026,3.2,Türkiye
+2027,3.2,Türkiye
+2028,3.21,Türkiye
+2029,3.21,Türkiye
+2030,3.21,Türkiye
+2031,3.22,Türkiye
+2032,3.22,Türkiye
+2033,3.22,Türkiye
+2034,3.22,Türkiye
+2024,5.76,Uganda
+2025,2.92,Uganda
+2026,5.14,Uganda
+2027,3.41,Uganda
+2028,4.77,Uganda
+2029,3.7,Uganda
+2030,4.53,Uganda
+2031,3.88,Uganda
+2032,4.39,Uganda
+2033,3.99,Uganda
+2034,4.31,Uganda
+2024,1.96,Ukraine
+2025,1.92,Ukraine
+2026,1.92,Ukraine
+2027,1.92,Ukraine
+2028,1.92,Ukraine
+2029,1.92,Ukraine
+2030,1.92,Ukraine
+2031,1.92,Ukraine
+2032,1.92,Ukraine
+2033,1.92,Ukraine
+2034,1.92,Ukraine
+2024,1.52,United Republic of Tanzania
+2025,1.52,United Republic of Tanzania
+2026,1.52,United Republic of Tanzania
+2027,1.52,United Republic of Tanzania
+2028,1.52,United Republic of Tanzania
+2029,1.52,United Republic of Tanzania
+2030,1.52,United Republic of Tanzania
+2031,1.52,United Republic of Tanzania
+2032,1.52,United Republic of Tanzania
+2033,1.52,United Republic of Tanzania
+2034,1.52,United Republic of Tanzania
+2024,3.98,United States of America
+2025,3.98,United States of America
+2026,3.98,United States of America
+2027,3.98,United States of America
+2028,3.98,United States of America
+2029,3.98,United States of America
+2030,3.98,United States of America
+2031,3.98,United States of America
+2032,3.98,United States of America
+2033,3.98,United States of America
+2034,3.98,United States of America
+2024,1.99,Uruguay
+2025,1.99,Uruguay
+2026,1.99,Uruguay
+2027,1.99,Uruguay
+2028,1.99,Uruguay
+2029,1.99,Uruguay
+2030,1.99,Uruguay
+2031,1.99,Uruguay
+2032,1.99,Uruguay
+2033,1.99,Uruguay
+2034,1.99,Uruguay
+2024,4.13,Uzbekistan
+2025,4.1,Uzbekistan
+2026,4.13,Uzbekistan
+2027,4.1,Uzbekistan
+2028,4.13,Uzbekistan
+2029,4.11,Uzbekistan
+2030,4.13,Uzbekistan
+2031,4.11,Uzbekistan
+2032,4.12,Uzbekistan
+2033,4.11,Uzbekistan
+2034,4.12,Uzbekistan
+2024,4.14,Venezuela (Bolivarian Republic of)
+2025,4.19,Venezuela (Bolivarian Republic of)
+2026,4.19,Venezuela (Bolivarian Republic of)
+2027,4.19,Venezuela (Bolivarian Republic of)
+2028,4.19,Venezuela (Bolivarian Republic of)
+2029,4.19,Venezuela (Bolivarian Republic of)
+2030,4.19,Venezuela (Bolivarian Republic of)
+2031,4.19,Venezuela (Bolivarian Republic of)
+2032,4.19,Venezuela (Bolivarian Republic of)
+2033,4.19,Venezuela (Bolivarian Republic of)
+2034,4.19,Venezuela (Bolivarian Republic of)
+2024,8.8,Viet Nam
+2025,8.83,Viet Nam
+2026,8.81,Viet Nam
+2027,8.82,Viet Nam
+2028,8.82,Viet Nam
+2029,8.82,Viet Nam
+2030,8.82,Viet Nam
+2031,8.82,Viet Nam
+2032,8.82,Viet Nam
+2033,8.82,Viet Nam
+2034,8.82,Viet Nam
+2024,8.94,Western Africa
+2025,8.93,Western Africa
+2026,8.94,Western Africa
+2027,8.93,Western Africa
+2028,8.94,Western Africa
+2029,8.93,Western Africa
+2030,8.94,Western Africa
+2031,8.94,Western Africa
+2032,8.94,Western Africa
+2033,8.94,Western Africa
+2034,8.94,Western Africa
+2024,3.58,Western Asia
+2025,3.64,Western Asia
+2026,3.69,Western Asia
+2027,3.73,Western Asia
+2028,3.76,Western Asia
+2029,3.79,Western Asia
+2030,3.82,Western Asia
+2031,3.84,Western Asia
+2032,3.86,Western Asia
+2033,3.88,Western Asia
+2034,3.89,Western Asia
+2024,1.95,Western Europe
+2025,2.04,Western Europe
+2026,2.05,Western Europe
+2027,2.05,Western Europe
+2028,2.05,Western Europe
+2029,2.05,Western Europe
+2030,2.05,Western Europe
+2031,2.05,Western Europe
+2032,2.05,Western Europe
+2033,2.05,Western Europe
+2034,2.05,Western Europe
+2024,4.18,World
+2025,4.18,World
+2026,4.18,World
+2027,4.18,World
+2028,4.18,World
+2029,4.18,World
+2030,4.18,World
+2031,4.18,World
+2032,4.18,World
+2033,4.18,World
+2034,4.18,World
+2024,6.87,Zambia
+2025,6.39,Zambia
+2026,6.25,Zambia
+2027,6.22,Zambia
+2028,6.21,Zambia
+2029,6.2,Zambia
+2030,6.2,Zambia
+2031,6.2,Zambia
+2032,6.2,Zambia
+2033,6.2,Zambia
+2034,6.2,Zambia
+2024,0.0,Zimbabwe
+2025,0.0,Zimbabwe
+2026,0.0,Zimbabwe
+2027,0.0,Zimbabwe
+2028,0.0,Zimbabwe
+2029,0.0,Zimbabwe
+2030,0.0,Zimbabwe
+2031,0.0,Zimbabwe
+2032,0.0,Zimbabwe
+2033,0.0,Zimbabwe
+2034,0.0,Zimbabwe
